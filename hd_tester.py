@@ -17,44 +17,44 @@ def load_dinamically(param):
     base_url = redirect_link(param)
     print(base_url)
     
-    driver = webdriver.Chrome('./chromedriver') 
+    
+    driver = webdriver.Chrome('./chromedriver')
+    tags_dict = dict() 
     product_skus = set()
     base_url += '?experienceName=default&Nao=%s'
     
    
     for page_num in range(0,1000):
-        print(f"set lenght = {len(product_skus)}")
         url = base_url % (page_num*24)
-        print(f"{url}")
 
         driver.get(url)
-        
         driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-        time.sleep(3)
+        time.sleep(4)
 
         html = driver.page_source
         soup = BeautifulSoup(html, "lxml")
-        driver.close() # closing the webdriver
-
-        prev_len = len(product_skus)
 
         father_meta = soup.find_all('div',"class:browse-search__pod col__6-12 col__6-12--xs col__4-12--sm col__4-12--md col__3-12--lg")
         meta = soup.find_all('meta',attrs={"data-prop":"productID"})
 
+        try:
+            if meta in father_meta:
+                return meta
+        except AttributeError:
+            print("meta is not a child of father")
 
+        prev_len = len(product_skus)
         for state in meta:
             product_skus.add(state['content'].split(".")[0])
 
-        print(product_skus)
-
-
         if len(product_skus) == prev_len: break # this line is optional and can determine when you want to break
-        
-
+    
+    driver.close() # closing the webdriver
+    print(f"{len(product_skus)} SKU'S")
     return product_skus
   
 
-print(load_dinamically("5yc1vZc3q0"))
+print(load_dinamically("5yc1vZc3ns"))
 
 
 def sku_finder(param):
@@ -67,9 +67,7 @@ def sku_finder(param):
 
    
     for page_num in range(0,1000):
-        print(f"set lenght = {len(product_skus)}")
         url = base_url % (page_num*24)
-        print(f"{url}")
 
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req) as url:
@@ -78,7 +76,7 @@ def sku_finder(param):
         res = soup.find_all('meta',attrs={"data-prop":"productID"})
 
         prev_len = len(product_skus)
-        print(f"set lenght = {len(product_skus)}")
+
         for state in res:
             product_skus.add(state['content'].split(".")[0])
         if len(product_skus) == prev_len: break # this line is optional and can determine when you want to break
