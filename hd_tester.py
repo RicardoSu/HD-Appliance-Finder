@@ -54,7 +54,7 @@ def load_dinamically(param):
     return product_skus
   
 
-print(load_dinamically("5yc1vZc3ns"))
+# print(load_dinamically("5yc1vZc3ns"))
 
 
 def sku_finder(param):
