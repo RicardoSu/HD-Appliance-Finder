@@ -9,8 +9,14 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
+def json_finder(folder_name,json_file):
+    path = f"data/{folder_name}/{json_file}.json"
 
+    with open(path) as json_file:
+        appliance_json = json.load(json_file)
+    print(appliance_json)
 
+json_finder("cooktops","radiant_36_white")
 
 def availability_checker(start, stop, zip_code):
 

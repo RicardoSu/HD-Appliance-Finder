@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import os
 
-
+@cache
 def hd_sku_parser(filename):
     #JSON reader
     json_opener = open(f'{filename}', "r")
@@ -18,18 +18,19 @@ def hd_sku_parser(filename):
     return json_data
     # return json_data
 
+@cache
 def folder_creator(filename):
     try:
         if not os.path.exists(""):
             os.makedirs("data")
     except FileExistsError:
-            print("File already exists")
+            print("File data already exists")
     try:
         json_file = hd_sku_parser(filename)
         for i,(father_keys,values) in enumerate(json_file.items()):
             os.makedirs(f"data/{father_keys}")
     except FileExistsError:
-            print("File already exists")
+            print(f"File already exists")
 
 #add try catch that skips wrong N- Value
 def load_dinamically(father_keys,keys,values):
@@ -48,8 +49,7 @@ def load_dinamically(father_keys,keys,values):
         url = base_url % (page_num*24)
 
         driver.get(url)
-        driver.execute_script(
-            "window.scrollTo(0,document.body.scrollHeight)")
+        driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
         time.sleep(5)
         #change loading time
 
