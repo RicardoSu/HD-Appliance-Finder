@@ -1,12 +1,9 @@
 from bs4 import BeautifulSoup
-import requests
 import urllib
 import json
-import csv
 from functools import cache
 import requests
-import json
-import re
+import json 
 import urllib
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -22,6 +19,11 @@ def hd_sku_parser(filename):
     # return json_data
 
 def folder_creator(filename):
+    try:
+        if not os.path.exists(""):
+            os.makedirs("data")
+    except FileExistsError:
+            print("File already exists")
     try:
         json_file = hd_sku_parser(filename)
         for i,(father_keys,values) in enumerate(json_file.items()):
@@ -47,7 +49,8 @@ def load_dinamically(father_keys,keys,values):
         driver.get(url)
         driver.execute_script(
             "window.scrollTo(0,document.body.scrollHeight)")
-        time.sleep(4)
+        time.sleep(10)
+        #change loading time
 
         html = driver.page_source
         soup = BeautifulSoup(html, "lxml")
