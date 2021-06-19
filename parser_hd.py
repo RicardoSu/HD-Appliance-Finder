@@ -12,62 +12,6 @@ import time
 all_finder = "?NCNI-5&catStyle=ShowProducts"
 appl_link = "https://www.homedepot.com/b/N-{id}"
 
-dict_id = {
-    "refrigerators":{
-    "french_door_refrigerator": "5yc1vZc3oo",
-    "side_by_side_refrigerator": "5yc1vZc3q0",
-    "top_freezer_refrigerator" : "5yc1vZc3ns",
-    "botton_freezer_refrigerator" : "5yc1vZc3p6",
-    "mini_fridges" : "5yc1vZc4mo",
-    "freezer": "5yc1vZc3p2",
-    "commercial_refrigerators" : "5yc1vZc3oe",
-    "freezerless_refrigerators" : "5yc1vZc3p9"
-    },
-
-    "dishwashers":{
-    "front_control_24":"5yc1vZc3njZ1z0zbkpZ1z10atj",
-    "top_control_24":"5yc1vZc3njZ1z0zbkpZ1z10atb",
-    "compact":"5yc1vZc3poZ1z1dgdn",
-    "portable":"5yc1vZc3p1",
-    },
-
-    "ranges":{
-    "eletric_30_slide_in":"5yc1vZc3obZ1z0yhyoZ1z127ec",
-    "eletric_30_freestanding":"5yc1vZc3obZ1z0yhyoZ1z127eh",
-    "gas_30_slide_in":"5yc1vZc3oyZ1z0yhyoZ1z127ec",
-    "gas_30_freestanding":"5yc1vZc3oyZ1z0yhyoZ1z127eh",
-    "induction":"5yc1vZc9px0",
-    "ranges_20_in":"5yc1vZc3obZ1z0yhyn",
-    "ranges_24_in":"5yc1vZc3obZ1z0yhyq",
-    },
-
-    "microwaves":{   
-    "over_the_range":"5yc1vZc3pa",
-    "countertop":"5yc1vZc3p7",
-    },
-
-    "washing_machine":{
-    "front_load_washers": "5yc1vZc3pj",
-    "top_load_washers" : "5yc1vZc3oc",
-    "top_load_washers" : "5yc1vZc3oc",
-    "top_load_washers" : "5yc1vZc3ocZ1z17rwr",
-    "Top Load Washers" : "5yc1vZc3ocZ1z17ryq"
-    },
-
-    "dryers":{
-    "electric_dryers" : "5yc1vZc3q1",
-    "gas_dryers": "5yc1vZc3o3",
-    "stackable":"5yc1vZc3q1Z1z17ic0",
-    "non_stackable":"5yc1vZc3q1Z1z17ibr",
-    },
-    "cooktops":{
-    "radiant_30":"5yc1vZc3qaZ1z103g6Z1z1bjpg",
-    "radiant_36":"5yc1vZc3qaZ1z1042gZ1z1bjpg",
-    "induction_30":"5yc1vZc5lxZ1z103g6",
-    "induction_36":"5yc1vZc5lxZ1z1042g",
-    }
-}
-
 
 """
 availability checker uses start online product_id number from hd.com
@@ -159,7 +103,6 @@ def json_dumper(dict):
     except IOError:
         print("I/O error")
 
-json_dumper(dict_id)
 
 def bs4_decoder(dict,my_product_id):
 
@@ -247,110 +190,6 @@ def description_parser(dict, my_product_id):
         dict[my_product_id]["ImageUrl"] = short_response_descr["ImageUrl"]
         dict[my_product_id]["ProductPageUrl"] = short_response_descr["ProductPageUrl"]
         dict[my_product_id]["Description"] = short_response_descr["Description"]
-
-
-def redirect_link(param):
-    res = urllib.request.urlopen(f'https://www.homedepot.com/b/N-{param}')
-    finalurl = res.geturl()
-    return finalurl
-
-
-def load_dinamically(param):
-
-    base_url = redirect_link(param)
-    print(base_url)
-    
-    
-    driver = webdriver.Chrome('./chromedriver')
-    tags_dict = dict() 
-    product_skus = set()
-    base_url += '?experienceName=default&Nao=%s'
-    
-   
-    for page_num in range(0,1000):
-        url = base_url % (page_num*24)
-
-        driver.get(url)
-        driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-        time.sleep(4)
-
-        html = driver.page_source
-        soup = BeautifulSoup(html, "lxml")
-
-        father_meta = soup.find_all('div',"class:browse-search__pod col__6-12 col__6-12--xs col__4-12--sm col__4-12--md col__3-12--lg")
-        meta = soup.find_all('meta',attrs={"data-prop":"productID"})
-
-        try:
-            if meta in father_meta:
-                return meta
-        except AttributeError:
-            print("meta is not a child of father")
-
-        prev_len = len(product_skus)
-        for state in meta:
-            product_skus.add(state['content'].split(".")[0])
-
-        if len(product_skus) == prev_len: break
-        # this line is optional and can determine when you want to break
-    
-    driver.close() # closing the webdriver
-    print(f"{len(product_skus)} SKU'S")
-    return product_skus
-
-# print(load_dinamically("5yc1vZc3ns"))
-
-
-def sku_finder(param):
-
-    product_skus = set()
-    headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'}
-    
-    base_url = redirect_link(param)
-    base_url += '?experienceName=default&Nao=%s'
-
-   
-    for page_num in range(0,1000):
-        url = base_url % (page_num*24)
-
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as url:
-            
-            soup = BeautifulSoup(url, "lxml")  
-        res = soup.find_all('meta',attrs={"data-prop":"productID"})
-
-        prev_len = len(product_skus)
-
-        for state in res:
-            product_skus.add(state['content'].split(".")[0])
-        if len(product_skus) == prev_len: break # this line is optional and can determine when you want to break
-
-    return product_skus
-
-# print(sku_finder("5yc1vZc3q0"))
-
-
-def reader(my_dict_json,appliance_number,appliance_shape,*args,**kwargs):
-  json_list = list(my_dict_json.keys())
-  print(json_list)
-  n_string = my_dict_json[json_list[appliance_number]]
-  return n_string.get((list(n_string)[appliance_shape]))
-  
-print(reader(dict_id,1,0))
-
-
-def json_storer_products(dict,appliance_number):
-    data_json = f"{list(dict.keys()[appliance_number])}.json"
-    try:
-        with open(data_json, 'w') as fp:
-            json.dump(dict, fp,  indent=4)
-    except IOError:
-        print("I/O error")
-
-def dict_to_json(dict):
-  app_json = json.dumps(dict)
-  print(app_json)
-
-
 
 
 
