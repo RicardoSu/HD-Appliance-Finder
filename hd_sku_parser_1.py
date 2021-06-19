@@ -31,6 +31,7 @@ def folder_creator(filename):
     except FileExistsError:
             print("File already exists")
 
+#add try catch that skips wrong N- Value
 def load_dinamically(father_keys,keys,values):
     print(father_keys,keys,values)
 
@@ -49,29 +50,33 @@ def load_dinamically(father_keys,keys,values):
         driver.get(url)
         driver.execute_script(
             "window.scrollTo(0,document.body.scrollHeight)")
-        time.sleep(10)
+        time.sleep(5)
         #change loading time
 
         html = driver.page_source
         soup = BeautifulSoup(html, "lxml")
 
-        father_meta = soup.find_all(
-            'div', "class:browse-search__pod col__6-12 col__6-12--xs col__4-12--sm col__4-12--md col__3-12--lg")
-        meta = soup.find_all('meta', attrs={"data-prop": "productID"})
+        # print(soup)
 
+        new_father_meta1 = soup.find_all('div',attrs={"data-automation-id":"podnode"})
+        # new_father_meta2 = soup.find('div',attrs={"class":"desktop product-pod"})
+
+        # print(f"new_father_meta1:{new_father_meta1}")
+        # print(f"new_father_meta2:{new_father_meta2}")
+
+        prev_len = len(product_skus)
         try:
-            if meta in father_meta:
-                return meta
+            for result in new_father_meta1:  
+                meta = result.find('meta', attrs={'data-prop':'productID'}) # result not results
+                product_skus.add(meta['content'].split(".")[0])
         except AttributeError:
             print("meta is not a child of father")
 
-        prev_len = len(product_skus)
-        for state in meta:
-            product_skus.add(state['content'].split(".")[0])
-
+        # print(product_skus)
         if len(product_skus) == prev_len: break
         # this line is optional and can determine when you want to break
-    driver.close()  # closing the webdriver
+
+    driver.close()# closing the webdriver
     
     print(f"{len(product_skus)} SKU'S")
  
