@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 all_finder = "?NCNI-5&catStyle=ShowProducts"
-appl_link = "https://www.homedepot.com/b/N-{id}"
+
 
 
 """

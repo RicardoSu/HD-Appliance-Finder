@@ -30,7 +30,7 @@ def folder_creator(filename):
         for i,(father_keys,values) in enumerate(json_file.items()):
             os.makedirs(f"data/{father_keys}")
     except FileExistsError:
-            print(f"File already exists")
+            print(f"File  already exists")
 
 #add try catch that skips wrong N- Value
 def load_dinamically(father_keys,keys,values):
