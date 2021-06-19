@@ -1,0 +1,48 @@
+{
+    "dishwashers": {
+        "portable": "5yc1vZc3p1",
+        "front_control_24": "5yc1vZc3njZ1z0zbkpZ1z10atj",
+        "top_control_24": "5yc1vZc3njZ1z0zbkpZ1z10atb",
+        "compact": "5yc1vZc3poZ1z1dgdn"
+    },
+    "refrigerators": {
+        "french_door_refrigerator": "5yc1vZc3oo",
+        "side_by_side_refrigerator": "5yc1vZc3q0",
+        "top_freezer_refrigerator": "5yc1vZc3ns",
+        "botton_freezer_refrigerator": "5yc1vZc3p6",
+        "mini_fridges": "5yc1vZc4mo",
+        "freezer": "5yc1vZc3p2",
+        "commercial_refrigerators": "5yc1vZc3oe",
+        "freezerless_refrigerators": "5yc1vZc3p9"
+    },
+    "ranges": {
+        "eletric_30_slide_in": "5yc1vZc3obZ1z0yhyoZ1z127ec",
+        "eletric_30_freestanding": "5yc1vZc3obZ1z0yhyoZ1z127eh",
+        "gas_30_slide_in": "5yc1vZc3oyZ1z0yhyoZ1z127ec",
+        "gas_30_freestanding": "5yc1vZc3oyZ1z0yhyoZ1z127eh",
+        "induction": "5yc1vZc9px0",
+        "ranges_20_in": "5yc1vZc3obZ1z0yhyn",
+        "ranges_24_in": "5yc1vZc3obZ1z0yhyq"
+    },
+    "microwaves": {
+        "over_the_range": "5yc1vZc3pa",
+        "countertop": "5yc1vZc3p7"
+    },
+    "washing_machine": {
+        "front_load_washers": "5yc1vZc3pj",
+        "top_load_washers": "5yc1vZc3ocZ1z17rwr",
+        "Top Load Washers": "5yc1vZc3ocZ1z17ryq"
+    },
+    "dryers": {
+        "electric_dryers": "5yc1vZc3q1",
+        "gas_dryers": "5yc1vZc3o3",
+        "stackable": "5yc1vZc3q1Z1z17ic0",
+        "non_stackable": "5yc1vZc3q1Z1z17ibr"
+    },
+    "cooktops": {
+        "radiant_30": "5yc1vZc3qaZ1z103g6Z1z1bjpg",
+        "radiant_36": "5yc1vZc3qaZ1z1042gZ1z1bjpg",
+        "induction_30": "5yc1vZc5lxZ1z103g6",
+        "induction_36": "5yc1vZc5lxZ1z1042g"
+    }
+}
