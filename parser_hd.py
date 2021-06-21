@@ -9,15 +9,13 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-all_finder = "?NCNI-5&catStyle=ShowProducts"
-appl_link = "https://www.homedepot.com/b/N-{id}"
+def json_finder(folder_name,json_file):
+    path = f"data/{folder_name}/{json_file}.json"
 
+    with open(path) as json_file:
+        appliance_json = json.load(json_file)
 
-"""
-availability checker uses start online product_id number from hd.com
-stop product_id and zip code that locates nearest home depot
-to provide information if an appliance is in stock
-"""
+json_finder("cooktops","radiant_36_white")
 
 def availability_checker(start, stop, zip_code):
 
@@ -25,7 +23,6 @@ def availability_checker(start, stop, zip_code):
 
     for product_id in range(start, stop):
 
-        print(product_id)
 
         appliance_url = f"https://www.homedepot.com/mcc-cart/v3/appliance/deliveryAvailability/{product_id}/zipCode/{zip_code}"
         description_url = f"https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{product_id}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d"
@@ -48,11 +45,10 @@ def availability_checker(start, stop, zip_code):
 
             # checks if product is out of stock
             if "earliestAvailabilityDate" in json_response["DeliveryAvailabilityResponse"]["deliveryAvailability"]:
-
                 mydict[product_id]["earliestAvailabilityDate"] = shortned_response["earliestAvailabilityDate"]
                 description_parser(mydict, product_id)
                 bs4_decoder(mydict,product_id)
-                print(mydict)
+
                 
             elif "en_US" in json_response_descr["Locale"]:
                 print(f"{product_id} DNE")
@@ -60,7 +56,6 @@ def availability_checker(start, stop, zip_code):
             else:
                 description_parser(mydict, product_id)
                 bs4_decoder(mydict,product_id)
-                print(mydict)
                 
                 
 
@@ -96,7 +91,7 @@ def csv_file(dict):
 #store data in a json file
 def json_dumper(dict):
 
-    data_json = "appliancesjson"
+    data_json = "appliances1.json"
     try:
         with open(data_json, 'w') as fp:
             json.dump(dict, fp,  indent=4)
@@ -105,7 +100,6 @@ def json_dumper(dict):
 
 
 def bs4_decoder(dict,my_product_id):
-
     #temp dict
 
     details_url = f"https://www.homedepot.com/s/{my_product_id}"
@@ -118,15 +112,13 @@ def bs4_decoder(dict,my_product_id):
 
     try:
         json_object = json.loads(res.contents[0])
-        print(json_object)
 
     except AttributeError:
         print("Empty")
         dict[my_product_id]["Discontinued"] = True
-        
+    print(f"bs4{dict}")
     try:
         if "offers" in json_object:
-
             dict[my_product_id]["depth"] = json_object["depth"]
             dict[my_product_id]["height"] = json_object["height"]
             dict[my_product_id]["width"] = json_object["width"]
@@ -153,6 +145,8 @@ def url_decoder(url_encoded):
 
 def description_parser(dict, my_product_id):
 
+    print(f"my_product_id{type(my_product_id)}")
+
     description_url = f"https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{my_product_id}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d"
 
     json_response_descr = url_decoder(description_url)
@@ -164,14 +158,12 @@ def description_parser(dict, my_product_id):
     except KeyError:
         print("Bad key")
     
-    
     if my_product_id != key:
         new_product_id = key
-
+    print(f"my_product_id2{type(my_product_id)}")
     # item number is diferent from imput
 
-    short_response_descr = json_response_descr[
-        "Includes"]["Products"][f"{new_product_id}"]
+    short_response_descr = json_response_descr["Includes"]["Products"][f"{new_product_id}"]
 
     item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[
         0].rstrip(">")
@@ -192,40 +184,4 @@ def description_parser(dict, my_product_id):
         dict[my_product_id]["Description"] = short_response_descr["Description"]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# cut code 1
-# checks is key have an error
-# elif "errorData" in json_response["DeliveryAvailabilityResponse"]:
-
-#     mydict[product_id] = {}
-#     mydict[product_id]["product_id"] = product_id
-
-#     # shortned path
-#     error = json_response["DeliveryAvailabilityResponse"]["errorData"]["errors"]["error"]["errorCode"]
-
-#     mydict[product_id]["error"] = error
-
-# elif "en_US" in json_response_descr["Locale"]:
-#     print("DNE")
-
-# else:
-#     shortned_response_descr = json_response_descr[
-#         "Includes"]["Products"][f"{product_id}"]
-#     print(shortned_response_descr["Description"])
+availability_checker(311411335,311411336,33315)
