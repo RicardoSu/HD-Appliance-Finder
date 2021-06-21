@@ -7,7 +7,7 @@ from functools import cache
 import requests,json,re,urllib
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import time
+import os
 
 def json_finder(folder_name,json_file):
     path = f"data/{folder_name}/{json_file}.json"
@@ -16,7 +16,6 @@ def json_finder(folder_name,json_file):
         appliance_json = json.load(json_file)
     return appliance_json
 
-# json_finder("cooktops","radiant_36_white")
 
 def availability_checker(folder_name,json_file):
     mydict = json_finder(folder_name,json_file)
@@ -46,7 +45,6 @@ def availability_checker(folder_name,json_file):
             functional_dict[my_product_id]["modelNbr"] = json_response_descr["Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
             description_parser(functional_dict, my_product_id)
             bs4_decoder(functional_dict, my_product_id)
-            print(functional_dict)
                 
         elif "Products" in json_response_descr["Includes"]:
             print(f"{my_product_id} DNE")
@@ -54,7 +52,14 @@ def availability_checker(folder_name,json_file):
         else:
             print(f"{my_product_id} is not an Appliance or OOS")
 
-    json_dumper(functional_dict)
+    try:
+        json_key = f"specs/{folder_name}/{json_file}.json"
+
+        with open(json_key, 'w') as fp:
+            json.dump(functional_dict, fp,indent=4, ensure_ascii=False)
+
+    except IOError:
+        print("I/O error")
 
 
 def csv_file(dict):
@@ -71,15 +76,6 @@ def csv_file(dict):
             writer.writeheader()
             for data in dict.values():
                 writer.writerow(data)
-    except IOError:
-        print("I/O error")
-
-#store data in a json file
-def json_dumper(dict):
-    data_json = "data.json"
-    try:
-        with open(data_json, 'w') as fp:
-            json.dump(dict, fp,  indent=4)
     except IOError:
         print("I/O error")
 
@@ -138,28 +134,78 @@ def description_parser(my_dict, my_product_id):
             print(f"Key:{key}")
     except KeyError:
         print(f"Bad key")
-    
 
+    print(f"my_product_id1:{my_product_id}")
+
+    if my_product_id != key:
+        my_product_id = key
+    print(f"my_product_id2:{my_product_id}")
     # item number is diferent from imput
     my_product_id = int(my_product_id)
+
 
     short_response_descr = json_response_descr["Includes"]["Products"][f"{my_product_id}"]
 
     item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[0].rstrip(">")
 
-    if item_category == "APPLIANCES":
-        my_dict[my_product_id]["Category"] = str(item_category)
-        my_dict[my_product_id]["ApplType"] = short_response_descr["Attributes"]["THDClass_name"]["Values"][0]["Value"]
-        my_dict[my_product_id]["Type1"] = short_response_descr["Attributes"]["THDSubClass_name"]["Values"][0]["Value"]
-        try:
-            my_dict[my_product_id]["Type2"] = short_response_descr["Attributes"]["THD_SubSubClass_name"]["Values"][0]["Value"]
-        except KeyError:
-            print('Can not find "something"')
-        my_dict[my_product_id]["Title"] = short_response_descr["Name"]
-        my_dict[my_product_id]["Brand"] = short_response_descr["Brand"]["Name"]
-        my_dict[my_product_id]["ImageUrl"] = short_response_descr["ImageUrl"]
-        my_dict[my_product_id]["ProductPageUrl"] = short_response_descr["ProductPageUrl"]
-        my_dict[my_product_id]["Description"] = short_response_descr["Description"]
+    print(f"my_product_id3:{my_product_id}")
     
 
-availability_checker("refrigerators","french_door_refrigerator_stainless_steel")
+
+    if item_category == "APPLIANCES":
+        try:
+            my_dict[my_product_id]["Category"] = str(item_category)
+            my_dict[my_product_id]["ApplType"] = short_response_descr["Attributes"]["THDClass_name"]["Values"][0]["Value"]
+            my_dict[my_product_id]["Type1"] = short_response_descr["Attributes"]["THDSubClass_name"]["Values"][0]["Value"]
+            try:
+                my_dict[my_product_id]["Type2"] = short_response_descr["Attributes"]["THD_SubSubClass_name"]["Values"][0]["Value"]
+            except KeyError:
+                print('Can not find "something"')
+
+            try:
+                my_dict[my_product_id]["Title"] = short_response_descr["Name"]
+                my_dict[my_product_id]["Brand"] = short_response_descr["Brand"]["Name"]
+            except KeyError:
+                print('Can not find "something"')
+            
+            my_dict[my_product_id]["ImageUrl"] = short_response_descr["ImageUrl"]
+
+            try:
+                my_dict[my_product_id]["ProductPageUrl"] = short_response_descr["ProductPageUrl"]
+            except KeyError:
+                my_dict[my_product_id]["ProductPageUrl"] = f"https://homedepot.com/s/{my_product_id}"
+
+            my_dict[my_product_id]["Description"] = short_response_descr["Description"]
+        except KeyError:
+            print('Can not find Description')
+            print(json_response_descr["Includes"]["Products"])
+            print(f"my_dict:{my_dict}")
+    
+@cache
+def folder_creator(data):
+    try:
+        if not os.path.exists(""):
+            os.makedirs(f"specs/{data}")
+    except FileExistsError:
+            print("File data already exists")
+
+
+def subdirectory_finder():
+    directory = "./data"
+    for root, subdirectories, files in os.walk(directory):
+        for subdirectory in subdirectories:
+            data = (os.path.join(subdirectory))
+            folder_creator(data)
+
+
+def files_subdirectory_finder():
+    directory = "./data"
+
+    for root, subdirectories, files in os.walk(directory):
+        for file in files:
+            folder_name = (os.path.join(root.replace(f"./data\\","")))
+            file_name = (os.path.join(file.replace(".json","")))
+            availability_checker(folder_name,file_name)
+    
+files_subdirectory_finder()
+# availability_checker("dryers","non_stackable_eletric")
