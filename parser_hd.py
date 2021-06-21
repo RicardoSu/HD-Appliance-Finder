@@ -184,4 +184,4 @@ def description_parser(dict, my_product_id):
         dict[my_product_id]["Description"] = short_response_descr["Description"]
 
 
-availability_checker(311411335,311411336,33315)
+availability_checker(301231463,301231464,33315)
