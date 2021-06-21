@@ -145,6 +145,8 @@ def url_decoder(url_encoded):
 
 def description_parser(dict, my_product_id):
 
+    print(f"my_product_id{type(my_product_id)}")
+
     description_url = f"https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{my_product_id}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d"
 
     json_response_descr = url_decoder(description_url)
@@ -158,11 +160,10 @@ def description_parser(dict, my_product_id):
     
     if my_product_id != key:
         new_product_id = key
-
+    print(f"my_product_id2{type(my_product_id)}")
     # item number is diferent from imput
 
-    short_response_descr = json_response_descr[
-        "Includes"]["Products"][f"{new_product_id}"]
+    short_response_descr = json_response_descr["Includes"]["Products"][f"{new_product_id}"]
 
     item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[
         0].rstrip(">")
@@ -183,4 +184,4 @@ def description_parser(dict, my_product_id):
         dict[my_product_id]["Description"] = short_response_descr["Description"]
 
 
-availability_checker(205974856,205974858,33315)
+availability_checker(311411335,311411336,33315)

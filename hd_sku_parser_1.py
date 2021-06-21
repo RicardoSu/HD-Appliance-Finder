@@ -67,8 +67,9 @@ def load_dinamically(father_keys,keys,values):
         prev_len = len(product_skus)
         try:
             for result in new_father_meta1:  
-                meta = result.find('meta', attrs={'data-prop':'productID'}) # result not results
-                product_skus.add(meta['content'].split(".")[0])
+                meta = result.find('meta', attrs={'data-prop':'productID'})
+                 # result not results
+                product_skus.add(int(meta['content'].split(".")[0]))
         except AttributeError:
             print("meta is not a child of father")
 
