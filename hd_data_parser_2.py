@@ -4,12 +4,16 @@ import urllib
 import json
 import csv
 from functools import cache
-import requests,json,re,urllib
+import requests
+import json
+import re
+import urllib
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import os
 
-def json_finder(folder_name,json_file):
+
+def json_finder(folder_name, json_file):
     path = f"data/{folder_name}/{json_file}.json"
 
     with open(path) as json_file:
@@ -17,13 +21,12 @@ def json_finder(folder_name,json_file):
     return appliance_json
 
 
-def availability_checker(folder_name,json_file):
-    mydict = json_finder(folder_name,json_file)
+def availability_checker(folder_name, json_file):
+    mydict = json_finder(folder_name, json_file)
     functional_dict = dict()
 
     list_to_iterate = list(mydict.values())[0]
-    
-    
+
     for my_product_id in list_to_iterate:
 
         my_product_id = int(my_product_id)
@@ -31,21 +34,23 @@ def availability_checker(folder_name,json_file):
         description_url = f"https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{my_product_id}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d"
 
         # uses url decode function to loop through url and extract data
-        
+
         json_response_descr = url_decoder(description_url)
 
         # if key deliveryAvailability is on the json reponse returns true
         if "Products" in json_response_descr["Includes"]:
-            new_id = list(json_response_descr["Includes"]["Products"].keys())[0]
-            if my_product_id !=  new_id:
+            new_id = list(
+                json_response_descr["Includes"]["Products"].keys())[0]
+            if my_product_id != new_id:
                 my_product_id = int(new_id)
 
             functional_dict[my_product_id] = {}
             functional_dict[my_product_id]["product_id"] = my_product_id
-            functional_dict[my_product_id]["modelNbr"] = json_response_descr["Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
+            functional_dict[my_product_id]["modelNbr"] = json_response_descr[
+                "Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
             description_parser(functional_dict, my_product_id)
             bs4_decoder(functional_dict, my_product_id)
-                
+
         elif "Products" in json_response_descr["Includes"]:
             print(f"{my_product_id} DNE")
 
@@ -56,7 +61,7 @@ def availability_checker(folder_name,json_file):
         json_key = f"specs/{folder_name}/{json_file}.json"
 
         with open(json_key, 'w') as fp:
-            json.dump(functional_dict, fp,indent=4, ensure_ascii=False)
+            json.dump(functional_dict, fp, indent=4, ensure_ascii=False)
 
     except IOError:
         print("I/O error")
@@ -80,16 +85,16 @@ def csv_file(dict):
         print("I/O error")
 
 
-def bs4_decoder(my_dict,my_product_id):
+def bs4_decoder(my_dict, my_product_id):
     my_product_id = int(my_product_id)
-    #temp dict
+    # temp dict
     details_url = f"https://www.homedepot.com/s/{my_product_id}"
 
     with urllib.request.urlopen(details_url) as url:
         # decodes json file
         soup = BeautifulSoup(url, "html.parser")
 
-    res = soup.find('script',id="thd-helmet__script--productStructureData")
+    res = soup.find('script', id="thd-helmet__script--productStructureData")
 
     try:
         json_object = json.loads(res.contents[0])
@@ -110,8 +115,9 @@ def bs4_decoder(my_dict,my_product_id):
     except Exception as e:
         print(getattr(e, 'message', repr(e)))
         print(getattr(e, 'message', str(e)))
-    # Logs the error appropriately. 
-    
+    # Logs the error appropriately.
+
+
 @cache
 def url_decoder(url_encoded):
     # uses urllib to open json file and read
@@ -143,14 +149,13 @@ def description_parser(my_dict, my_product_id):
     # item number is diferent from imput
     my_product_id = int(my_product_id)
 
+    short_response_descr = json_response_descr[
+        "Includes"]["Products"][f"{my_product_id}"]
 
-    short_response_descr = json_response_descr["Includes"]["Products"][f"{my_product_id}"]
-
-    item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[0].rstrip(">")
+    item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[
+        0].rstrip(">")
 
     print(f"my_product_id3:{my_product_id}")
-    
-
 
     if item_category == "APPLIANCES":
         try:
@@ -167,27 +172,29 @@ def description_parser(my_dict, my_product_id):
                 my_dict[my_product_id]["Brand"] = short_response_descr["Brand"]["Name"]
             except KeyError:
                 print('Can not find "something"')
-            
+
             my_dict[my_product_id]["ImageUrl"] = short_response_descr["ImageUrl"]
 
             try:
                 my_dict[my_product_id]["ProductPageUrl"] = short_response_descr["ProductPageUrl"]
             except KeyError:
-                my_dict[my_product_id]["ProductPageUrl"] = f"https://homedepot.com/s/{my_product_id}"
+                my_dict[my_product_id][
+                    "ProductPageUrl"] = f"https://homedepot.com/s/{my_product_id}"
 
             my_dict[my_product_id]["Description"] = short_response_descr["Description"]
         except KeyError:
             print('Can not find Description')
             print(json_response_descr["Includes"]["Products"])
             print(f"my_dict:{my_dict}")
-    
+
+
 @cache
 def folder_creator(data):
     try:
         if not os.path.exists(""):
             os.makedirs(f"specs/{data}")
     except FileExistsError:
-            print("File data already exists")
+        print("File data already exists")
 
 
 def subdirectory_finder():
@@ -203,9 +210,10 @@ def files_subdirectory_finder():
 
     for root, subdirectories, files in os.walk(directory):
         for file in files:
-            folder_name = (os.path.join(root.replace(f"./data\\","")))
-            file_name = (os.path.join(file.replace(".json","")))
-            availability_checker(folder_name,file_name)
-    
+            folder_name = (os.path.join(root.replace(f"./data\\", "")))
+            file_name = (os.path.join(file.replace(".json", "")))
+            availability_checker(folder_name, file_name)
+
+
 files_subdirectory_finder()
 # availability_checker("dryers","non_stackable_eletric")
