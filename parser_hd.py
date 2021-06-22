@@ -15,7 +15,7 @@ def json_finder(folder_name,json_file):
     with open(path) as json_file:
         appliance_json = json.load(json_file)
 
-json_finder("cooktops","radiant_36_white")
+# json_finder("cooktops","radiant_36_white")
 
 def availability_checker(start, stop, zip_code):
 
@@ -42,6 +42,7 @@ def availability_checker(start, stop, zip_code):
             mydict[product_id]["product_id"] = product_id
             mydict[product_id]["modelNbr"] = shortned_response["availability"][0]["modelNbr"]
             mydict[product_id]["status"] = shortned_response["availability"][0]["status"]
+            
 
             # checks if product is out of stock
             if "earliestAvailabilityDate" in json_response["DeliveryAvailabilityResponse"]["deliveryAvailability"]:
