@@ -149,8 +149,7 @@ def description_parser(my_dict, my_product_id):
     # item number is diferent from imput
     my_product_id = int(my_product_id)
 
-    short_response_descr = json_response_descr[
-        "Includes"]["Products"][f"{my_product_id}"]
+    short_response_descr = json_response_descr["Includes"]["Products"][f"{my_product_id}"]
 
     item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[
         0].rstrip(">")
@@ -207,7 +206,6 @@ def subdirectory_finder():
 
 def files_subdirectory_finder():
     directory = "./data"
-
     for root, subdirectories, files in os.walk(directory):
         for file in files:
             folder_name = (os.path.join(root.replace(f"./data\\", "")))
