@@ -63,7 +63,7 @@ body {
 /* --------------- Hero ---------------- */
 .hero {
   min-height: calc(100vh - 60px);
-  background: url("/src/images/hero-bcg.jpeg") center/cover no-repeat;
+  background: url("../../src/images/hero-bcg.jpeg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -117,9 +117,19 @@ body {
   grid-column-gap: 1.5rem;
   grid-row-gap: 2rem;
 }
+
+.products-center2 {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  grid-column-gap: 1.5rem;
+  grid-row-gap: 2rem;
+}
+
 .img-container {
   position: relative;
-  overflow: hidden;
 }
 .bag-btn {
   position: absolute;
@@ -150,6 +160,18 @@ body {
   min-height: 12rem;
   transition: var(--mainTransition);
 }
+
+.product-img2 {
+  display: block;
+  width: 50%;
+  height: auto;
+  min-height: 2rem;
+  transition: var(--mainSpacing);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 .img-container:hover .product-img {
   opacity: 0.5;
 }
@@ -161,6 +183,8 @@ body {
   letter-spacing: var(--mainSpacing);
   text-align: center;
 }
+
+
 
 .product h4 {
   margin-top: 0.7rem;
@@ -264,3 +288,21 @@ body {
 }
 
 /* --------------- End of Cart ---------------- */
+
+/* HIDE RADIO */
+[type=radio] { 
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* IMAGE STYLES */
+[type=radio] + img  {
+  cursor: pointer;
+}
+
+/* CHECKED STYLES */
+[type=radio]:checked + img {
+  outline: 10px solid #ee7125 ;
+}
