@@ -306,3 +306,17 @@ body {
 [type=radio]:checked + img {
   outline: 10px solid #ee7125 ;
 }
+
+/* SUBMIT BUTTON */
+.button {
+  background-color: #ee7125;
+  border: none;
+  color: white;
+  padding: 25px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
