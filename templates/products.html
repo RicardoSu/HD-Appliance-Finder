@@ -1,0 +1,27 @@
+{% extends 'base.html'%} {% block head%} {% endblock%} {% block body%}
+<section class="products" id="products">
+  <div class="section-title">
+    <h2>Refrigerators by Style</h2>
+  </div>
+  <div class="products-center">
+    <!-- single product  -->
+    <article class="product">
+      <div class="img-container">
+        <label>
+          <input class="radio" type="radio" name="fridge_type" value="french_door_refrigerator" required>
+          <img
+            src="{{url_for('static',filename='images/refrigerators/french-door.png')}}"
+            alt="French Door Refrigerators"
+            class="product-img"
+          />
+          <button class="bag-btn" data-id="1">
+            <i class="fa fa-shopping-cart"></i>
+            add to bag
+          </button>
+        </label>  
+      </div>
+      <h3>French Door Refrigerators</h3>
+      <h4>$154</h4>
+    </article>
+    <!-- end of single product  -->
+{% endblock%}
