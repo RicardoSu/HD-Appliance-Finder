@@ -10,6 +10,7 @@ import aiohttp
 import ssl
 URLs = []
 
+
 def json_finder(folder_name, json_file, zip_code):
     path = f"data/{folder_name}/{json_file}.json"
     with open(path) as json_file:
@@ -38,7 +39,7 @@ if __name__ == '__main__':
     urls = URLs
     htmls = loop.run_until_complete(fetch_all(urls, loop))
     available_app = dict()
-    for i,url in enumerate(htmls):
+    for i, url in enumerate(htmls):
         if "errorData" in htmls[i]["DeliveryAvailabilityResponse"]:
             print("Not a major appliance")
         elif htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["availability"][0]["status"] != "OOS_ETA_UNAVAILABLE":
@@ -47,8 +48,9 @@ if __name__ == '__main__':
             available_app[my_product_id] = {}
             available_app[my_product_id]["product_id"] = my_product_id
             available_app[my_product_id]["status"] = htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["availability"][0]["status"]
-            available_app[my_product_id]["earliestAvailabilityDate"] = htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["earliestAvailabilityDate"]
+            available_app[my_product_id]["earliestAvailabilityDate"] = htmls[i][
+                "DeliveryAvailabilityResponse"]["deliveryAvailability"]["earliestAvailabilityDate"]
         else:
             print("OOS")
-            
+
     print(available_app)
