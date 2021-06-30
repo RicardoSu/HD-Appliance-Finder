@@ -111,33 +111,25 @@ def refrigerators():
         with open(json_key) as data_dict:
             new_data_dict = json.load(data_dict)
 
-        # print(f"dict 2 keys = {new_data_dict.keys()}")
-
-        # print(json.dumps(data_dict, indent=2))
-
         # Prints only available appliances - (NEW DATA)
         URLs = []
         json_finder("refrigerators", fridge, zip_code)
         json_data = finder()
-        # print(f"dict 1 keys = {json_data.keys()}")
-
-        # print(f"dict 2 type = {(json_data)}")
 
         for k in new_data_dict:
             if k in json_data.keys():
                 new_data_dict[k].update(json_data.get(k, {}))
-        
+
         final_dict = dict()
-        for i,(k,v) in enumerate(new_data_dict.items()):
+        for i, (k, v) in enumerate(new_data_dict.items()):
             if "status" in v:
                 final_dict[k] = v
 
-        print(json.dumps(final_dict, indent=2))
-
-        
+        # parent_list  = [final_dict]
+        # print(parent_list)
 
         return render_template('products.html', title="page",
-                               jsonfile=final_dict)
+                               jsonfile=final_dict.items())
     else:
         return render_template('refrigerators.html')
 
