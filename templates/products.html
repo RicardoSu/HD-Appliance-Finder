@@ -6,25 +6,14 @@
   <div class="products-center">
     <!-- single product  -->
     <article class="product">
-      <!-- <table>
+      <table>
         {{jsonfile}}
-      </table> -->
+      </table>
       <!-- <table>
         {% for x in jsonfile %}
         {{ x }}
         {% endfor %}
       </table> -->
-      {% for key in jsonfile %}
-        {{ jsonfile[key].item }}
-      {% endfor %}
-
-      {% for value in jsonfile.values() %}
-        {{ value.item }}
-      {% endfor %}
-
-      {% for key, value in jsonfile.items() %}
-        {{ value.item }}
-      {% endfor %}
       <div class="img-container">
         <label>
           <input
