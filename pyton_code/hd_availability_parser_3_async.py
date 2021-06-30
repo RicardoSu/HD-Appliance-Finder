@@ -8,6 +8,7 @@ import asyncio
 import re
 import aiohttp
 import ssl
+
 URLs = []
 
 
@@ -34,10 +35,13 @@ async def fetch_all(urls, loop):
         results = await asyncio.gather(*[fetch(session, url) for url in urls], return_exceptions=True)
         return results
 
-if __name__ == '__main__':
-    loop = asyncio.get_event_loop()
+
+def finder():
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    loop = asyncio.new_event_loop()
     urls = URLs
     htmls = loop.run_until_complete(fetch_all(urls, loop))
+
     available_app = dict()
     for i, url in enumerate(htmls):
         if "errorData" in htmls[i]["DeliveryAvailabilityResponse"]:
@@ -53,4 +57,7 @@ if __name__ == '__main__':
         else:
             print("OOS")
 
-    print(available_app)
+    return available_app
+
+
+print(finder())

@@ -22,7 +22,7 @@
       href="{{url_for('static',filename='css/styles.css')}}"
     />
     <!-- REFRESH WEBSITE -->
-    <meta http-equiv="refresh" content="30">   
+    <!-- <meta http-equiv="refresh" content="40" /> -->
     {% block head%}{% endblock%}
   </head>
   <body>
@@ -56,31 +56,33 @@
         </span>
         <h2>Your cart</h2>
         <div class="cart-content">
-        <!-- cart item -->
-        <div class="cart-item">
-          <img src="" alt="">
-          <div>
-            <h4></h4>
-            <h5></h5>
-            <span class="remove-item"> remove </span>
+          <!-- cart item -->
+          <div class="cart-item">
+            <img src="" alt="" />
+            <div>
+              <h4></h4>
+              <h5></h5>
+              <span class="remove-item"> remove </span>
+            </div>
+            <div>
+              <i class="fas fa-chevron-up"></i>
+              <p class="item-amount">1</p>
+              <i class="fas fa-chevron-down"></i>
+            </div>
           </div>
-          <div>
-            <i class="fas fa-chevron-up"></i>
-            <p class="item-amount">1</p>
-            <i class="fas fa-chevron-down"></i>
-          </div>
-        </div>
-        <!-- end of cart  item -->
+          <!-- end of cart  item -->
         </div>
         <div class="cart-footer">
-          <h3>Your total : $ <span class="cart-total">0</span>
-          </h3>
+          <h3>Your total : $ <span class="cart-total">0</span></h3>
           <button class="clear-cart banner-btn">clear cart</button>
         </div>
       </div>
     </div>
 
     <!-- end of cart  -->
-    <script type="text/javascript" href="{{url_for('static',filename='js/script.js')}}"></script>
+    <script
+      type="text/javascript"
+      href="{{url_for('static',filename='js/script.js')}}"
+    ></script>
   </body>
 </html>

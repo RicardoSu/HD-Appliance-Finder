@@ -1,15 +1,21 @@
-from flask import Flask, render_template, url_for, request, Response
+from flask import Flask, render_template, url_for, request, Response, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
-import logging, sys
+import logging
+import sys
+import json
+import requests
+import aiohttp
+import ssl
+import asyncio
+from bs4 import BeautifulSoup
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from console_log import ConsoleLog
 
 
-console = logging.getLogger('console')
-console.setLevel(logging.DEBUG)
-
-
 app = Flask(__name__)
+
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///test.db'
 
 db = SQLAlchemy(app)
@@ -25,12 +31,62 @@ class Todo(db.Model):
         return '<Task %r>' % self.id
 
 
+# Functions to porcess zipcode with data
+URLs = []
+
+
+def json_finder(folder_name, json_file, zip_code):
+    path = f"data/{folder_name}/{json_file}.json"
+    with open(path) as json_file:
+        appliance_json = json.load(json_file)
+        sku_list = list(appliance_json.values())[0]
+    hd_url = "https://www.homedepot.com/mcc-cart/v3/appliance/deliveryAvailability/{}/zipCode/{}"
+    for sku in sku_list:
+        URLs.append(hd_url.format(sku, zip_code))
+
+
+async def fetch(session, url):
+    async with session.get(url, ssl=ssl.SSLContext()) as response:
+        return await response.json()
+
+
+async def fetch_all(urls, loop):
+    async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
+        results = await asyncio.gather(*[fetch(session, url) for url in urls], return_exceptions=True)
+        return results
+
+
+def finder():
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    loop = asyncio.new_event_loop()
+    urls = URLs
+    htmls = loop.run_until_complete(fetch_all(urls, loop))
+    available_app = dict()
+    for i, url in enumerate(htmls):
+        if "errorData" in htmls[i]["DeliveryAvailabilityResponse"]:
+            print("Not a major appliance")
+        elif htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["availability"][0]["status"] != "OOS_ETA_UNAVAILABLE":
+            my_product_id = htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["availability"][0]["itemId"]
+
+            available_app[my_product_id] = {}
+            available_app[my_product_id]["product_id"] = my_product_id
+            available_app[my_product_id]["status"] = htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["availability"][0]["status"]
+            try:
+                available_app[my_product_id]["earliestAvailabilityDate"] = htmls[i][
+                    "DeliveryAvailabilityResponse"]["deliveryAvailability"]["earliestAvailabilityDate"]
+            except KeyError:
+                available_app[my_product_id]["earliestAvailabilityDate"] = "OOS"
+        else:
+            print("OOS")
+
+    return available_app
+# End functions to porcess zipcode with data
+
+
 @app.route('/')
 def home():
-    console.error('Error logged from Python')
     return render_template("index.html")
-    
-app.wsgi_app = ConsoleLog(app.wsgi_app, console)
+
 
 @app.route('/appliances')
 def appliances():
@@ -44,10 +100,25 @@ def refrigerators():
         color = (request.form.get("Color_Type"))
         zip_code = (request.form.get("customer_zip_code"))
         file_to_open = (f"{fridge}_{color}.json")
-        print(f"json file  ={file_to_open}")
-        print(f"zip code = {zip_code}")
-        return products()
-    return render_template("refrigerators.html")
+
+        print(f"file = {file_to_open}")
+
+        json_key = f"specs/refrigerators/{file_to_open}"
+        with open(json_key, 'r') as myfile:
+            data = myfile.read()
+
+        URLs = []
+        json_finder("refrigerators", fridge, zip_code)
+        json_data = finder()
+        r = json.dumps(json_data)
+        loaded_r = json.loads(r)
+
+
+        return render_template('products.html', title="page",
+                               jsonfile=loaded_r)
+    else:
+        return render_template('refrigerators.html')
+
 
 @app.route('/appliances/products')
 def products():

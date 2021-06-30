@@ -1,25 +1,21 @@
 // SELECT AND UNSELECT  radio boxes
 function checkButton() {
+
   var getSelectedValue = document.querySelector('input[name=""]:checked');
-  var zipVal = document.getElementById("customer_zip_code").value;
-  var zipVal2 = document.querySelector('input[name="customer_zip_code"]').value;
+  var zipLen2 = (document.querySelector('input[name="customer_zip_code"]').value).length;
 
-  console.log(1)
+  console.log(zipLen2)
 
-  if ((getSelectedValue != null)){
-    document.getElementById("disp").innerHTML
-      = getSelectedValue.value
-      + "selected";
+  if ((getSelectedValue != null) && (zipLen2 == 5)) {
+    document.getElementById("disp").innerHTML = getSelectedValue.value + "selected";
+    document.getElementById("customer_zip_code").innerHTML = getSelectedValue.value + "selected";
   }
   else {
-    document.getElementById("error").innerHTML
-      = "Please select all fields "
-    $("#button").on("click", function () {
-      $("body").scrollTop(0);
+    $("#button").click(function () {
+      $("html").scrollTop(0);
     });
   }
 }
-
 
 // SELECT AND UNSELECT  radio boxes
 var radios = Array.from(document.getElementsByClassName('radio'))
@@ -93,33 +89,31 @@ const productsDOM = document.querySelector('.products-center')
 let cart = [];
 
 //getting products
-class  Products {
-  async getProducts(){
-    try{
-      let result = await fetch("products.json")
+class Products {
+  async getProducts() {
+    try {
+      let result = await fetch("products.json");
       let data = await result.json();
       return data;
-    }
-    catch(error){
+    } catch (error) {
       console.log(error);
     }
   }
 }
 //display products
-class UI{
+class UI {
 
 }
 //local storage
-class Storage{
+class Storage {
 
 }
 
-document.addEventListener("DOMContentLoaded",()=>{
+document.addEventListener("DOMContentLoaded", () => {
   const ui = new UI();
   const products = new Products();
 
   //get all products
   products.getProducts().then(data => console.log(data));
-  console.log(1)
 })
 

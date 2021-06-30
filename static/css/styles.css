@@ -338,6 +338,21 @@ body {
   cursor: pointer;
 }
 
+.button-hidden {
+  background-color: #ee7125;
+  border: none;
+  color: white;
+  padding: 25px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  visibility: hidden;
+}
+
+
 /* FORM VALIDATION */
 input[type=text], textarea {
   width: 200px;
