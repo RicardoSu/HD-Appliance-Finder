@@ -6,9 +6,34 @@
   <div class="products-center">
     <!-- single product  -->
     <article class="product">
+      <!-- <table>
+        {{jsonfile}}
+      </table> -->
+      <!-- <table>
+        {% for x in jsonfile %}
+        {{ x }}
+        {% endfor %}
+      </table> -->
+      {% for key in jsonfile %}
+        {{ jsonfile[key].item }}
+      {% endfor %}
+
+      {% for value in jsonfile.values() %}
+        {{ value.item }}
+      {% endfor %}
+
+      {% for key, value in jsonfile.items() %}
+        {{ value.item }}
+      {% endfor %}
       <div class="img-container">
         <label>
-          <input class="radio" type="radio" name="fridge_type" value="french_door_refrigerator" required>
+          <input
+            class="radio"
+            type="radio"
+            name="fridge_type"
+            value="french_door_refrigerator"
+            required
+          />
           <img
             src="{{url_for('static',filename='images/refrigerators/french-door.png')}}"
             alt="French Door Refrigerators"
@@ -18,10 +43,12 @@
             <i class="fa fa-shopping-cart"></i>
             add to bag
           </button>
-        </label>  
+        </label>
       </div>
       <h3>French Door Refrigerators</h3>
       <h4>$154</h4>
     </article>
     <!-- end of single product  -->
-{% endblock%}
+    {% endblock%}
+  </div>
+</section>

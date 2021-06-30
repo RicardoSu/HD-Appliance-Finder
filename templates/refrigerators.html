@@ -194,11 +194,11 @@
         </div>
         <div class="products-center2">
           <article class="product">
-            <input class="zip_code_box" type="text" inputmode="numeric"
-            class="zip_code_box" placeholder="ZIP Code" 
-            maxlength="5" id="customer_zip_code" name="customer_zip_code" 
-            autocomplete="off"
-            >
+            <input class="zip_code_box" type="tel" pattern="[0-9]*" 
+            oninput="javascript: if (this.value.length == 5) document.getElementById('hidden-button').style.visibility='visible';"
+            maxlength = "5" class="zip_code_box" placeholder="ZIP Code" 
+            id="customer_zip_code" name="customer_zip_code" 
+            autocomplete="off" required>
           </article>
         </div>
       </section>
@@ -206,7 +206,7 @@
       <!-- SUBMIT BUTTON  -->
       <section class="products" id="products">
         <div class="products-center2">
-          <input onclick="checkButton()" id="button"  type="SUBMIT" class="button">
+          <input id="hidden-button"  type="SUBMIT" class="button-hidden" onclick="checkButton()">
         </div>
       </section>
     </form>
@@ -224,5 +224,4 @@
         </div>
       </div>
     </div>
-
 {% endblock%}
