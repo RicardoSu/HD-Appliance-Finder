@@ -7,19 +7,20 @@
     <!-- single product  -->
     <article class="product">
       {%for a, b in jsonfile%}
-      <table>
         <div class="img-container">
           <label>
             <img src="{{b['ImageUrl']}}" class="product-img" />
           </label>
         </div>
-        <h3>HD Number: {{a}}</h3>
-        <h3>MODEL: {{b["modelNbr"]}}</h3>
-        <h4>${{b["price"]}}</h4>
+          <h3>HD Number: {{a}}</h3>
+          <h3>MODEL: {{b["modelNbr"]}}</h3>
+          <h3>Width: {{b["width"]}}</h3>
+          <h3>Height: {{b["height"]}}</h3>
+          <h3>Depth: {{b["depth"]}}</h3>
+          <h4>${{b["price"]}}</h4>
         {%endfor%}
-      </table>
     </article>
     <!-- end of single product  -->
-    {% endblock%}
   </div>
 </section>
+{% endblock%}
