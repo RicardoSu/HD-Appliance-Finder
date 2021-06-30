@@ -3,6 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 import logging
 import sys
+import pprint
 import json
 import requests
 import aiohttp
@@ -64,7 +65,8 @@ def finder():
     available_app = dict()
     for i, url in enumerate(htmls):
         if "errorData" in htmls[i]["DeliveryAvailabilityResponse"]:
-            print("Not a major appliance")
+            # print("Not a major appliance")
+            pass
         elif htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["availability"][0]["status"] != "OOS_ETA_UNAVAILABLE":
             my_product_id = htmls[i]["DeliveryAvailabilityResponse"]["deliveryAvailability"]["availability"][0]["itemId"]
 
@@ -77,7 +79,8 @@ def finder():
             except KeyError:
                 available_app[my_product_id]["earliestAvailabilityDate"] = "OOS"
         else:
-            print("OOS")
+            # print("OOS")
+            pass
 
     return available_app
 # End functions to porcess zipcode with data
@@ -96,26 +99,37 @@ def appliances():
 @app.route('/appliances/refrigerators', methods=['GET', 'POST'])
 def refrigerators():
     if request.method == 'POST':
+        # Grabs user input
         fridge = (request.form.get("fridge_type"))
         color = (request.form.get("Color_Type"))
         zip_code = (request.form.get("customer_zip_code"))
         file_to_open = (f"{fridge}_{color}.json")
+        print(f"file to open = {(file_to_open)}")
 
-        print(f"file = {file_to_open}")
-
+        # Grabs appliance data from files  - (STORED DATA)
         json_key = f"specs/refrigerators/{file_to_open}"
-        with open(json_key, 'r') as myfile:
-            data = myfile.read()
+        with open(json_key) as data_dict:
+            new_data_dict = json.load(data_dict)
 
+        # Prints only available appliances - (NEW DATA)
         URLs = []
         json_finder("refrigerators", fridge, zip_code)
         json_data = finder()
-        r = json.dumps(json_data)
-        loaded_r = json.loads(r)
 
+        for k in new_data_dict:
+            if k in json_data.keys():
+                new_data_dict[k].update(json_data.get(k, {}))
+
+        final_dict = dict()
+        for i, (k, v) in enumerate(new_data_dict.items()):
+            if "status" in v:
+                final_dict[k] = v
+
+        # parent_list  = [final_dict]
+        # print(parent_list)
 
         return render_template('products.html', title="page",
-                               jsonfile=loaded_r)
+                               jsonfile=final_dict.items())
     else:
         return render_template('refrigerators.html')
 
