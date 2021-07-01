@@ -52,13 +52,15 @@ async def fetch(session, url):
 
 
 async def fetch_all(urls, loop):
+    # If code doe not run and have error ValueError: too many file descriptors in select()
+    # async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
         results = await asyncio.gather(*[fetch(session, url) for url in urls], return_exceptions=True)
         return results
 
 
 def finder():
-    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    # asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     loop = asyncio.new_event_loop()
     urls = URLs
     htmls = loop.run_until_complete(fetch_all(urls, loop))

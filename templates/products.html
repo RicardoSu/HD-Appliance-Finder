@@ -1,25 +1,24 @@
 {% extends 'base.html'%} {% block head%} {% endblock%} {% block body%}
 <section class="products" id="products">
   <div class="section-title">
-    <h2>Refrigerators by Style</h2>
+    <h2>Available Appliances</h2>
   </div>
   <div class="products-center">
     <!-- single product  -->
     <article class="product">
-      {%for a, b in jsonfile%}
-      <table>
-        <div class="img-container">
-          <label>
-            <img src="{{b['ImageUrl']}}" class="product-img" />
-          </label>
-        </div>
-        <h3>HD Number: {{a}}</h3>
-        <h3>MODEL: {{b["modelNbr"]}}</h3>
-        <h4>${{b["price"]}}</h4>
-        {%endfor%}
-      </table>
+      {%for a, b in jsonfile %}
+      <div class="img-container">
+        <img src="{{b['ImageUrl']}}" class="product-img" />
+        <h5 class="h3-text">HD Number: {{a}}</h5>
+        <h5 class="h3-text">MODEL: {{b["modelNbr"]}}</h5>
+        <h5 class="h3-text">Width: {{b["width"]}}</h5>
+        <h5 class="h3-text">Height: {{b["height"]}}</h5>
+        <h5 class="h3-text">Depth: {{b["depth"]}}</h5>
+        <h5 class="h4-text">${{b["price"]}}</h5>
+      </div>
     </article>
+    {%endfor%}
     <!-- end of single product  -->
-    {% endblock%}
   </div>
 </section>
+{% endblock%}
