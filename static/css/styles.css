@@ -137,13 +137,12 @@ body {
 }
 
 .zip_code_box {
-  height:150%;
-  font-size:34pt;
+  height: 150%;
+  font-size: 34pt;
   margin: 0 auto;
   display: grid;
   text-align: center;
 }
-
 
 .img-container {
   position: relative;
@@ -188,7 +187,6 @@ body {
   margin-right: auto;
 }
 
-
 .img-container:hover .product-img {
   opacity: 0.5;
 }
@@ -200,8 +198,6 @@ body {
   letter-spacing: var(--mainSpacing);
   text-align: center;
 }
-
-
 
 .product h4 {
   margin-top: 0.7rem;
@@ -307,7 +303,7 @@ body {
 /* --------------- End of Cart ---------------- */
 
 /* HIDE RADIO */
-[type=radio] { 
+[type="radio"] {
   position: absolute;
   opacity: 0;
   width: 0;
@@ -315,13 +311,13 @@ body {
 }
 
 /* IMAGE STYLES */
-[type=radio] + img  {
+[type="radio"] + img {
   cursor: pointer;
 }
 
 /* CHECKED STYLES */
-[type=radio]:checked + img {
-  outline: 10px solid #ee7125 ;
+[type="radio"]:checked + img {
+  outline: 10px solid #ee7125;
 }
 
 /* SUBMIT BUTTON */
@@ -352,15 +348,15 @@ body {
   visibility: hidden;
 }
 
-
 /* FORM VALIDATION */
-input[type=text], textarea {
+input[type="text"],
+textarea {
   width: 200px;
 }
-label[for=comments] {
+label[for="comments"] {
   margin-bottom: 0;
 }
-textarea { 
+textarea {
   height: 30px;
   vertical-align: middle;
 }
@@ -374,12 +370,30 @@ textarea {
   list-style-type: disc;
   margin: 0 10px 15px 10px;
   padding: 8px 35px 8px 30px;
-  color: #B94A48;
-  background-color: #F2DEDE;
-  border: 2px solid #EED3D7;
+  color: #b94a48;
+  background-color: #f2dede;
+  border: 2px solid #eed3d7;
   border-radius: 4px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
 }
 .errorMessages span {
   font-weight: bold;
+}
+
+/* Text on website price and details */
+
+.h3-text {
+  text-transform: capitalize;
+  font-size: 1.1rem;
+  margin-top: 0.3rem;
+  letter-spacing: var(--mainSpacing);
+  text-align: center;
+}
+
+.h4-text {
+  margin-top: 0.2rem;
+  font-size: 1.5rem;
+  letter-spacing: var(--mainSpacing);
+  color: var(--primaryColor);
+  text-align: center;
 }
