@@ -58,7 +58,6 @@ async def fetch_all(urls, loop):
         results = await asyncio.gather(*[fetch(session, url) for url in urls], return_exceptions=True)
         return results
 
-
 def finder():
     # asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     loop = asyncio.new_event_loop()
@@ -92,11 +91,13 @@ def finder():
 def home():
     return render_template("index.html")
 
-
 @app.route('/appliances')
 def appliances():
     return render_template("appliances.html")
 
+@app.route('/appliances/products')
+def products():
+    return render_template("products.html")
 
 @app.route('/appliances/refrigerators', methods=['GET', 'POST'])
 def refrigerators():
@@ -127,18 +128,215 @@ def refrigerators():
             if "status" in v:
                 final_dict[k] = v
 
-        # parent_list  = [final_dict]
-        # print(parent_list)
+        return render_template('products.html', title="page",
+                               jsonfile=final_dict.items())
+    else:
+        return render_template('refrigerators.html')
+
+@app.route('/appliances/ranges', methods=['GET', 'POST'])
+def ranges():
+    if request.method == 'POST':
+        # Grabs user input
+        appl_range = (request.form.get("range_type"))
+        color = (request.form.get("Color_Type"))
+        zip_code = (request.form.get("customer_zip_code"))
+        file_to_open = (f"{appl_range}_{color}.json")
+        print(f"file to open = {(file_to_open)}")
+
+        # Grabs appliance data from files  - (STORED DATA)
+        json_key = f"specs/ranges/{file_to_open}"
+        with open(json_key) as data_dict:
+            new_data_dict = json.load(data_dict)
+
+        # Prints only available appliances - (NEW DATA)
+        URLs = []
+        json_finder("ranges", appl_range , zip_code)
+        json_data = finder()
+
+        for k in new_data_dict:
+            if k in json_data.keys():
+                new_data_dict[k].update(json_data.get(k, {}))
+
+        final_dict = dict()
+        for i, (k, v) in enumerate(new_data_dict.items()):
+            if "status" in v:
+                final_dict[k] = v
+
+        return render_template('products.html', title="page",
+                               jsonfile=final_dict.items())
+    else:
+        return render_template('ranges.html')
+
+@app.route('/appliances/cooktops', methods=['GET', 'POST'])
+def cooktops():
+    if request.method == 'POST':
+        # Grabs user input
+        fridge = (request.form.get("fridge_type"))
+        color = (request.form.get("Color_Type"))
+        zip_code = (request.form.get("customer_zip_code"))
+        file_to_open = (f"{fridge}_{color}.json")
+        print(f"file to open = {(file_to_open)}")
+
+        # Grabs appliance data from files  - (STORED DATA)
+        json_key = f"specs/refrigerators/{file_to_open}"
+        with open(json_key) as data_dict:
+            new_data_dict = json.load(data_dict)
+
+        # Prints only available appliances - (NEW DATA)
+        URLs = []
+        json_finder("refrigerators", fridge, zip_code)
+        json_data = finder()
+
+        for k in new_data_dict:
+            if k in json_data.keys():
+                new_data_dict[k].update(json_data.get(k, {}))
+
+        final_dict = dict()
+        for i, (k, v) in enumerate(new_data_dict.items()):
+            if "status" in v:
+                final_dict[k] = v
 
         return render_template('products.html', title="page",
                                jsonfile=final_dict.items())
     else:
         return render_template('refrigerators.html')
 
+@app.route('/appliances/dishwashers', methods=['GET', 'POST'])
+def dishwashers():
+    if request.method == 'POST':
+        # Grabs user input
+        fridge = (request.form.get("fridge_type"))
+        color = (request.form.get("Color_Type"))
+        zip_code = (request.form.get("customer_zip_code"))
+        file_to_open = (f"{fridge}_{color}.json")
+        print(f"file to open = {(file_to_open)}")
 
-@app.route('/appliances/products')
-def products():
-    return render_template("products.html")
+        # Grabs appliance data from files  - (STORED DATA)
+        json_key = f"specs/refrigerators/{file_to_open}"
+        with open(json_key) as data_dict:
+            new_data_dict = json.load(data_dict)
+
+        # Prints only available appliances - (NEW DATA)
+        URLs = []
+        json_finder("refrigerators", fridge, zip_code)
+        json_data = finder()
+
+        for k in new_data_dict:
+            if k in json_data.keys():
+                new_data_dict[k].update(json_data.get(k, {}))
+
+        final_dict = dict()
+        for i, (k, v) in enumerate(new_data_dict.items()):
+            if "status" in v:
+                final_dict[k] = v
+
+        return render_template('products.html', title="page",
+                               jsonfile=final_dict.items())
+    else:
+        return render_template('refrigerators.html')
+
+@app.route('/appliances/dryers', methods=['GET', 'POST'])
+def dryers():
+    if request.method == 'POST':
+        # Grabs user input
+        fridge = (request.form.get("fridge_type"))
+        color = (request.form.get("Color_Type"))
+        zip_code = (request.form.get("customer_zip_code"))
+        file_to_open = (f"{fridge}_{color}.json")
+        print(f"file to open = {(file_to_open)}")
+
+        # Grabs appliance data from files  - (STORED DATA)
+        json_key = f"specs/refrigerators/{file_to_open}"
+        with open(json_key) as data_dict:
+            new_data_dict = json.load(data_dict)
+
+        # Prints only available appliances - (NEW DATA)
+        URLs = []
+        json_finder("refrigerators", fridge, zip_code)
+        json_data = finder()
+
+        for k in new_data_dict:
+            if k in json_data.keys():
+                new_data_dict[k].update(json_data.get(k, {}))
+
+        final_dict = dict()
+        for i, (k, v) in enumerate(new_data_dict.items()):
+            if "status" in v:
+                final_dict[k] = v
+
+        return render_template('products.html', title="page",
+                               jsonfile=final_dict.items())
+    else:
+        return render_template('refrigerators.html')
+
+@app.route('/appliances/microwaves', methods=['GET', 'POST'])
+def microwaves():
+    if request.method == 'POST':
+        # Grabs user input
+        fridge = (request.form.get("fridge_type"))
+        color = (request.form.get("Color_Type"))
+        zip_code = (request.form.get("customer_zip_code"))
+        file_to_open = (f"{fridge}_{color}.json")
+        print(f"file to open = {(file_to_open)}")
+
+        # Grabs appliance data from files  - (STORED DATA)
+        json_key = f"specs/refrigerators/{file_to_open}"
+        with open(json_key) as data_dict:
+            new_data_dict = json.load(data_dict)
+
+        # Prints only available appliances - (NEW DATA)
+        URLs = []
+        json_finder("refrigerators", fridge, zip_code)
+        json_data = finder()
+
+        for k in new_data_dict:
+            if k in json_data.keys():
+                new_data_dict[k].update(json_data.get(k, {}))
+
+        final_dict = dict()
+        for i, (k, v) in enumerate(new_data_dict.items()):
+            if "status" in v:
+                final_dict[k] = v
+
+        return render_template('products.html', title="page",
+                               jsonfile=final_dict.items())
+    else:
+        return render_template('refrigerators.html')
+
+@app.route('/appliances/washing_machine', methods=['GET', 'POST'])
+def washing_machine():
+    if request.method == 'POST':
+        # Grabs user input
+        fridge = (request.form.get("fridge_type"))
+        color = (request.form.get("Color_Type"))
+        zip_code = (request.form.get("customer_zip_code"))
+        file_to_open = (f"{fridge}_{color}.json")
+        print(f"file to open = {(file_to_open)}")
+
+        # Grabs appliance data from files  - (STORED DATA)
+        json_key = f"specs/refrigerators/{file_to_open}"
+        with open(json_key) as data_dict:
+            new_data_dict = json.load(data_dict)
+
+        # Prints only available appliances - (NEW DATA)
+        URLs = []
+        json_finder("refrigerators", fridge, zip_code)
+        json_data = finder()
+
+        for k in new_data_dict:
+            if k in json_data.keys():
+                new_data_dict[k].update(json_data.get(k, {}))
+
+        final_dict = dict()
+        for i, (k, v) in enumerate(new_data_dict.items()):
+            if "status" in v:
+                final_dict[k] = v
+
+        return render_template('products.html', title="page",
+                               jsonfile=final_dict.items())
+    else:
+        return render_template('refrigerators.html')
+
 
 
 if __name__ == '__main__':

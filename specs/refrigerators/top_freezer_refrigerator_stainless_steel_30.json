@@ -17,7 +17,7 @@
         "ratingValue": "3.9611",
         "reviewCount": "283",
         "price": null,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312293333": {
         "product_id": 312293333,
@@ -31,13 +31,7 @@
         "ImageUrl": "https://images.homedepot-static.com/productImages/b2e0db3a-027d-46a6-bc58-70cee378347e/svn/stainless-steel-ge-top-freezer-refrigerators-gie19jsnrss-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/GE-19-2-cu-ft-Top-Freezer-Refrigerator-in-Stainless-Steel-ENERGY-STAR-GIE19JSNRSS/312293333",
         "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: Stainless Steel.",
-        "depth": "32.13",
-        "height": "66.375",
-        "width": "29.75",
-        "ratingValue": "4.0103",
-        "reviewCount": "97",
-        "price": 1106,
-        "priceValidUntil": "06/22/2021"
+        "Discontinued": true
     },
     "313001380": {
         "product_id": 313001380,
@@ -54,10 +48,10 @@
         "depth": "33.38",
         "height": "66.125",
         "width": "29.75 in",
-        "ratingValue": "3.9545",
-        "reviewCount": "44",
-        "price": 888,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.0213",
+        "reviewCount": "47",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "206890703": {
         "product_id": 206890703,
@@ -74,10 +68,10 @@
         "depth": "31.38",
         "height": "65.88",
         "width": "29.75",
-        "ratingValue": "4.3772",
-        "reviewCount": "281",
-        "price": 929,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3759",
+        "reviewCount": "282",
+        "price": 836,
+        "priceValidUntil": "07/14/2021"
     },
     "205730775": {
         "product_id": 205730775,
@@ -94,50 +88,50 @@
         "depth": "32.88",
         "height": "65.88",
         "width": "29.75",
-        "ratingValue": "4.2128",
-        "reviewCount": "1410",
-        "price": 979,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2132",
+        "reviewCount": "1412",
+        "price": 881,
+        "priceValidUntil": "07/14/2021"
     },
-    "311743476": {
-        "product_id": 311743476,
-        "modelNbr": "FFTR1835VB",
+    "311743494": {
+        "product_id": 311743494,
+        "modelNbr": "FFTR1835VW",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "TOP MOUNT",
         "Type2": "OTHER",
-        "Title": "Frigidaire 18.3 cu. ft. Top Freezer Refrigerator in Black",
+        "Title": "Frigidaire 18.3 cu. ft. Top Freezer Refrigerator in White",
         "Brand": "Frigidaire",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/dc1c6504-4e77-48e0-a502-c8785e5562df/svn/black-frigidaire-top-freezer-refrigerators-fftr1835vb-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-18-3-cu-ft-Top-Freezer-Refrigerator-in-Black-FFTR1835VB/311743476",
-        "Description": "The Frigidaire 18.3 cu. ft. Top Freezer Refrigerator has 2 full-width glass shelves and two humidity control crisper drawers for storing fruits and vegetables. It's equipped with bright lighting to keep contents clearly visible. The freezer has a full-width glass shelf for flexible storage options as well as 2 full-width door racks. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/0e110a14-8846-4edf-89f6-e85c125c2cc4/svn/white-frigidaire-top-freezer-refrigerators-fftr1835vw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-18-3-cu-ft-Top-Freezer-Refrigerator-in-White-FFTR1835VW/311743494",
+        "Description": "The Frigidaire 18.3 cu. ft. Top Freezer Refrigerator has 2 full-width glass shelves and two humidity control crisper drawers for storing fruits and vegetables. It's equipped with bright lighting to keep contents clearly visible. The freezer has a full-width glass shelf for flexible storage options as well as 2 full-width door racks. Color: White.",
         "depth": "26.625",
         "height": "66.375",
         "width": "30",
-        "ratingValue": "4.3912",
-        "reviewCount": "4203",
+        "ratingValue": "4.3895",
+        "reviewCount": "4275",
         "price": 674,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "311368605": {
-        "product_id": 311368605,
-        "modelNbr": "FFHT1835VS",
+    "311368579": {
+        "product_id": 311368579,
+        "modelNbr": "FFHT1835VB",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "TOP MOUNT",
         "Type2": "OTHER",
-        "Title": "Frigidaire 18.3 cu. ft. Top Freezer Refrigerator in Stainless Steel, ENERGY STAR, Silver",
+        "Title": "Frigidaire 18.3 cu. ft. Top Freezer Refrigerator in Black, ENERGY STAR",
         "Brand": "Frigidaire",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/a8d9339d-537b-478b-9ac5-bee731c4c486/svn/stainless-steel-frigidaire-top-freezer-refrigerators-ffht1835vs-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-18-3-cu-ft-Top-Freezer-Refrigerator-in-Stainless-Steel-ENERGY-STAR-FFHT1835VS/311368605",
-        "Description": "The Frigidaire 18.3 cu. ft. Top Freezer features full-width glass shelving in the freezer and refrigerator, a sliding half-width deli drawer, and spacious door bins. Save money and maximize energy efficiency with this ENERGY STAR-certified top-freezer refrigerator. Equipped with bright lighting to keep contents clearly visible. Color: Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/c70dcb05-8d9f-42ed-88c6-a44ffd2030c0/svn/black-frigidaire-top-freezer-refrigerators-ffht1835vb-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-18-3-cu-ft-Top-Freezer-Refrigerator-in-Black-ENERGY-STAR-FFHT1835VB/311368579",
+        "Description": "The Frigidaire 18.3 cu. ft. Top Freezer features full-width glass shelving in the freezer and refrigerator, a sliding half-width deli drawer, and spacious door bins. Save money and maximize energy efficiency with this ENERGY STAR-certified top-freezer refrigerator. Equipped with bright lighting to keep contents clearly visible. Color: Black.",
         "depth": "30.375",
         "height": "66.375",
         "width": "30",
-        "ratingValue": "4.4062",
-        "reviewCount": "448",
-        "price": 809,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.375",
+        "reviewCount": "464",
+        "price": 719,
+        "priceValidUntil": "07/14/2021"
     },
     "310782059": {
         "product_id": 310782059,
@@ -156,8 +150,8 @@
         "width": "29.75",
         "ratingValue": "4.3261",
         "reviewCount": "92",
-        "price": 979,
-        "priceValidUntil": "6/21/2021"
+        "price": 881,
+        "priceValidUntil": "07/14/2021"
     },
     "205721829": {
         "product_id": 205721829,
@@ -174,10 +168,10 @@
         "depth": "31.38",
         "height": "65.88",
         "width": "29.75",
-        "ratingValue": "4.0988",
-        "reviewCount": "577",
-        "price": 929,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.0986",
+        "reviewCount": "578",
+        "price": 836,
+        "priceValidUntil": "07/14/2021"
     },
     "206488350": {
         "product_id": 206488350,
@@ -196,8 +190,8 @@
         "width": "29.75",
         "ratingValue": "3.9174",
         "reviewCount": "218",
-        "price": 979,
-        "priceValidUntil": "6/21/2021"
+        "price": 881,
+        "priceValidUntil": "07/14/2021"
     },
     "312429505": {
         "product_id": 312429505,
@@ -214,10 +208,10 @@
         "depth": "32.13",
         "height": "66.375",
         "width": "29.75",
-        "ratingValue": "4.3671",
-        "reviewCount": "741",
-        "price": 764,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.3663",
+        "reviewCount": "748",
+        "price": 768,
+        "priceValidUntil": "07/14/2021"
     },
     "311847082": {
         "product_id": 311847082,
@@ -234,30 +228,30 @@
         "depth": "26.625",
         "height": "66.375",
         "width": "30",
-        "ratingValue": "4.4211",
-        "reviewCount": "38",
+        "ratingValue": "4.3846",
+        "reviewCount": "39",
         "price": 854,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "302007876": {
-        "product_id": 302007876,
-        "modelNbr": "FFTR2021TW",
+    "302007875": {
+        "product_id": 302007875,
+        "modelNbr": "FFTR2021TS",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "TOP MOUNT",
         "Type2": "OTHER",
-        "Title": "Frigidaire 20.4 cu. ft. Top Freezer Refrigerator in White",
+        "Title": "Frigidaire 20.4 cu. ft. Top Freezer Refrigerator in Stainless Steel, Silver",
         "Brand": "Frigidaire",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/0e11c924-238d-49f5-8a09-0d8a1fafb8f6/svn/white-frigidaire-top-freezer-refrigerators-fftr2021tw-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-in-White-FFTR2021TW/302007876",
-        "Description": "The Frigidaire 20.4 cu. ft. Top Freezer Refrigerator features 3 full-width glass shelves and humidity-controlled crisper drawers for storing fruits and vegetables. Equipped with bright lighting to keep contents clearly visible, the refrigerator is easy to control with a single temperature knob inside. On top, the freezer offers a full-width shelf for flexible storage options as well as 2 full-width door racks to house additional frozen food. Color: White.",
-        "depth": "32",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/239316ec-24ed-4800-b409-fb93b4b699cb/svn/stainless-steel-frigidaire-top-freezer-refrigerators-fftr2021ts-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-in-Stainless-Steel-FFTR2021TS/302007875",
+        "Description": "The Frigidaire 20.4 cu. ft. Top Freezer Refrigerator features 3 full-width glass shelves and humidity-controlled crisper drawers for storing fruits and vegetables. Equipped with bright lighting to keep contents clearly visible, the refrigerator is easy to control with a single temperature knob inside. On top, the freezer offers a full-width shelf for flexible storage options as well as two full-width door racks to house additional frozen food. Color: Stainless Steel.",
+        "depth": "31.75",
         "height": "69.375",
-        "width": "29.625",
-        "ratingValue": "4.1471",
-        "reviewCount": "7126",
-        "price": 737,
-        "priceValidUntil": "06/22/2021"
+        "width": "30",
+        "ratingValue": "4.1449",
+        "reviewCount": "7180",
+        "price": 827,
+        "priceValidUntil": "07/14/2021"
     },
     "205745405": {
         "product_id": 205745405,
@@ -274,10 +268,10 @@
         "depth": "32.88",
         "height": "65.88",
         "width": "29.75",
-        "ratingValue": "4.157",
-        "reviewCount": "293",
-        "price": 1029,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.1463",
+        "reviewCount": "294",
+        "price": 926,
+        "priceValidUntil": "07/14/2021"
     },
     "311775421": {
         "product_id": 311775421,
@@ -297,86 +291,86 @@
         "ratingValue": "4.2",
         "reviewCount": "5",
         "price": 649.99,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "311231763": {
-        "product_id": 311231763,
-        "modelNbr": "LTCS20020S",
+    "313892139": {
+        "product_id": 313892139,
+        "modelNbr": "LTCS20020W",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "TOP MOUNT",
         "Type2": "OTHER",
-        "Title": "LG Electronics 30 in. W 20.2 cu. ft. Top Freezer Refrigerator in Stainless Steel with Multi-Air Flow and Reversible Door, Silver",
+        "Title": "LG Electronics 30 in. 20 cu. ft. Top Freezer Refrigerator in White with Mult-Air Flow and Reversible Door",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/4ff95ae4-6b41-4f70-bf3f-a2aca37c4b7a/svn/stainless-steel-lg-electronics-top-freezer-refrigerators-ltcs20020s-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-30-in-W-20-2-cu-ft-Top-Freezer-Refrigerator-in-Stainless-Steel-with-Multi-Air-Flow-and-Reversible-Door-LTCS20020S/311231763",
-        "Description": "Capacity means a lot to you, and our top-mount refrigerator features 30 in. width 20 cu. ft. refrigerator and freezer storage space. You're also focused on freshness, and thats why youre sure to appreciate LGs humidity-controlled crisper and full-width gallon door bins. Theyre on a mission to extend the life of your fruits and vegetables, freshness that shines clear through with LGs advanced LED interior lighting. Color: Stainless Steel.",
-        "depth": "33.38",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/b89772d0-f53f-494e-9eef-b223ce4bc3d0/svn/white-lg-electronics-top-freezer-refrigerators-ltcs20020w-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-30-in-20-cu-ft-Top-Freezer-Refrigerator-in-White-with-Mult-Air-Flow-and-Reversible-Door-LTCS20020W/313892139",
+        "Description": "Capacity means a lot to you, and our top-mount refrigerator features 30 in. width 20 cu. ft. refrigerator and freezer storage space. You're also focused on freshness, and that's why you're sure to appreciate LG's humidity-controlled crisper and full-width gallon door bins. They're on a mission to extend the life of your fruits and vegetables freshness that shines clear through with LG's advanced LED interior lighting. Color: White.",
+        "depth": "33.38 in",
         "height": "66.13",
         "width": "29.75 in",
-        "ratingValue": "4.5422",
-        "reviewCount": "1966",
-        "price": 777,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5398",
+        "reviewCount": "2023",
+        "price": 678,
+        "priceValidUntil": "07/14/2021"
     },
-    "312293340": {
-        "product_id": 312293340,
-        "modelNbr": "GTE19JTNRBB",
+    "312293341": {
+        "product_id": 312293341,
+        "modelNbr": "GTE19JTNRWW",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "TOP MOUNT",
         "Type2": "OTHER",
-        "Title": "19.2 cu. ft. Top Freezer Refrigerator in Black, ENERGY STAR",
+        "Title": "19.2 cu. ft. Top Freezer Refrigerator in White, ENERGY STAR",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/4aa8f79a-3dd8-4726-8ba7-44d23df2bc16/svn/black-ge-top-freezer-refrigerators-gte19jtnrbb-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-19-2-cu-ft-Top-Freezer-Refrigerator-in-Black-ENERGY-STAR-GTE19JTNRBB/312293340",
-        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/db93bb88-3c01-4462-b661-495e06a24d17/svn/white-ge-top-freezer-refrigerators-gte19jtnrww-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-19-2-cu-ft-Top-Freezer-Refrigerator-in-White-ENERGY-STAR-GTE19JTNRWW/312293341",
+        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: White.",
         "depth": "32.13",
         "height": "66.375",
         "width": "29.75",
-        "ratingValue": "4.2878",
-        "reviewCount": "139",
-        "price": 881,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.2483",
+        "reviewCount": "149",
+        "price": 878,
+        "priceValidUntil": "07/14/2021"
     },
-    "300011269": {
-        "product_id": 300011269,
-        "modelNbr": "MRT118FFFH",
+    "300011177": {
+        "product_id": 300011177,
+        "modelNbr": "MRT118FFFE",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "TOP MOUNT",
         "Type2": "OTHER",
-        "Title": "Maytag 18 cu. ft. Top Freezer Refrigerator in White",
+        "Title": "Maytag 18 cu. ft. Top Freezer Refrigerator in Black",
         "Brand": "Maytag",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/9171ca9a-9645-41b4-855e-0dcce235c389/svn/white-maytag-top-freezer-refrigerators-mrt118fffh-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Maytag-18-cu-ft-Top-Freezer-Refrigerator-in-White-MRT118FFFH/300011269",
-        "Description": "Maytag top-freezer refrigerators are built to hold the cold with features like the Power Cold feature that chills down the refrigerator to help keep everything cool with the touch of a button-even if the whole family's been browsing with the door open. Inside this 18 cu. ft. model you'll also find the BRIGHT SERIES LED lighting. It casts a bright, white light and uses less energy than incandescent bulbs.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/d6dd16d6-64dc-424d-bd8b-5be4a4ac574a/svn/black-maytag-top-freezer-refrigerators-mrt118fffe-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Maytag-18-cu-ft-Top-Freezer-Refrigerator-in-Black-MRT118FFFE/300011177",
+        "Description": "Maytag top-freezer refrigerators are built to hold the cold with features like the Power Cold feature that chills down the refrigerator to help keep everything cool with the touch of a button-even if the whole family's been browsing with the door open. Inside this 18 cu. ft. model you'll also find the BRIGHT SERIES LED lighting. It casts a bright, white light and uses less energy than incandescent bulbs. Color: Black.",
         "depth": "31.38",
-        "height": "65.81",
+        "height": "65.8",
         "width": "29.75",
-        "ratingValue": "4.2704",
-        "reviewCount": "2962",
-        "price": 779,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2683",
+        "reviewCount": "2970",
+        "price": 746,
+        "priceValidUntil": "07/14/2021"
     },
-    "205754776": {
-        "product_id": 205754776,
-        "modelNbr": "ART308FFDM",
+    "205758660": {
+        "product_id": 205758660,
+        "modelNbr": "ART308FFDB",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "TOP MOUNT",
         "Type2": "OTHER",
-        "Title": "Amana 18.2 cu. ft. Top Freezer Refrigerator in Monochromatic Stainless Steel, Silver",
+        "Title": "Amana 18.2 cu. ft. Top Freezer Refrigerator in Black, Smooth Black",
         "Brand": "Amana",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/9b1cc4c1-021a-4334-89de-b0724b9978ed/svn/stainless-steel-amana-top-freezer-refrigerators-art308ffdm-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Amana-18-2-cu-ft-Top-Freezer-Refrigerator-in-Monochromatic-Stainless-Steel-ART308FFDM/205754776",
-        "Description": "You will have tons of space to store all of your favorite fresh and frozen foods with this Amana 18 cu. ft. top-freezer refrigerator. The fresh food compartment is quite functional with three shelves, two of them adjustable and one fixed. Also, the six door bins allow you to organize all of those small items that can be easily hidden if placed on the shelves with large items. The icemaker kit which can be purchased separately (model #ECKMF95) will complete the your needs in this refrigerator. Color: Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/4928815c-5ae7-4e11-acb7-929340fc5e43/svn/smooth-black-amana-top-freezer-refrigerators-art308ffdb-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Amana-18-2-cu-ft-Top-Freezer-Refrigerator-in-Black-ART308FFDB/205758660",
+        "Description": "You will have tons of space to store all of your favorite fresh and frozen foods with this Amana 18 cu. ft. top-freezer refrigerator. The fresh food compartment is quite functional with three shelves, two of them adjustable and one fixed. Also, the six door bins allow you to organize all of those small items that can be easily hidden if placed on the shelves with large items. The icemaker kit which can be purchased separately (model #ECKMF95) will complete the your needs in this refrigerator. Color: Smooth Black.",
         "depth": "31.38",
         "height": "65.88",
         "width": "29.75",
-        "ratingValue": "4.2891",
-        "reviewCount": "128",
-        "price": 929,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2748",
+        "reviewCount": "131",
+        "price": 746,
+        "priceValidUntil": "07/14/2021"
     }
 }

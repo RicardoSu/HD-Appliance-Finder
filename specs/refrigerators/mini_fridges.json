@@ -17,7 +17,7 @@
         "ratingValue": "4.1176",
         "reviewCount": "17",
         "price": 242.49,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "305026416": {
         "product_id": 305026416,
@@ -34,70 +34,70 @@
         "depth": "18.9",
         "height": "19.5",
         "width": "17.3",
-        "ratingValue": "4.5613",
-        "reviewCount": "946",
+        "ratingValue": "4.5594",
+        "reviewCount": "960",
         "price": 89,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "305758778": {
-        "product_id": 305758778,
-        "modelNbr": "EFMIS129-BLACK",
+    "314146661": {
+        "product_id": 314146661,
+        "modelNbr": "EFMIS129-WHITE",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Frigidaire 0.3 cu. ft. 6-Can Retro Mini Fridge in Black",
+        "Title": "Frigidaire 0.3 cu. ft. 6-Can Retro Mini Fridge without Freezer in White",
         "Brand": "Frigidaire",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/c5c79252-b83a-4bce-bef4-c23e0900f5aa/svn/black-frigidaire-mini-fridges-efmis129-black-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-0-3-cu-ft-6-Can-Retro-Mini-Fridge-in-Black-EFMIS129-BLACK/305758778",
-        "Description": "The Frigidaire 6 can mini personal beverage refrigerator is a cool and fun way to keep your favorite beverages and snacks cold. The retro design will look great with any decor whether contemporary or traditional. It is perfect for a dorm room, office or RV. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/1754ca19-0c3b-4023-8984-0ef1722f0d99/svn/white-frigidaire-mini-fridges-efmis129-white-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-0-3-cu-ft-6-Can-Retro-Mini-Fridge-without-Freezer-in-White-EFMIS129-WHITE/314146661",
+        "Description": "The Frigidaire 6-can mini personal beverage refrigerator is a cool and fun way to keep your favorite beverages and snacks cold. It's also perfect for keeping make-up fresh longer. The retro design will look great with any decor whether contemporary or traditional. It is perfect for a dorm room, office or RV. Color: White.",
         "depth": "9.25",
         "height": "10.23",
         "width": "7.08",
-        "ratingValue": "3.9805",
-        "reviewCount": "874",
-        "price": 44.99,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "3.9795",
+        "reviewCount": "876",
+        "price": 34.99,
+        "priceValidUntil": "07/14/2021"
     },
-    "314311872": {
-        "product_id": 314311872,
-        "modelNbr": "GLR33MRDR10",
+    "314133916": {
+        "product_id": 314133916,
+        "modelNbr": "GLR33MBER10",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Galanz 3.3 cu. ft. Retro Mini Fridge Single Door in Hot Rod Red with Chiller, ENERGY STAR",
+        "Title": "Galanz 3.3 cu. ft. Retro Mini Fridge Single Door in Bebop Blue with Chiller, ENERGY STAR",
         "Brand": "Galanz",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/dbdd0af1-b36f-4744-b305-4c631de29416/svn/hot-rod-red-galanz-mini-fridges-glr33mrdr10-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Galanz-3-3-cu-ft-Retro-Mini-Fridge-Single-Door-in-Hot-Rod-Red-with-Chiller-ENERGY-STAR-GLR33MRDR10/314311872",
-        "Description": "This refrigerator-chiller has the look and feel of the fabulous old days, but has the appeal of a modern appliance. Featuring an adjustable thermostat and full width chiller compartment, the unit also has removable shelves and door shelves. It is a fun and stylish addition to any kitchen, rec room or home office. Color: Hot Rod Red.",
-        "depth": "19.06 in",
-        "height": "35.4",
-        "width": "17.6 in",
-        "ratingValue": "4.4444",
-        "reviewCount": "36",
-        "price": 190.23,
-        "priceValidUntil": "6/21/2021"
+        "ImageUrl": "https://images.homedepot-static.com/productImages/6d95a8fe-faf8-4133-900a-71abff1ca829/svn/bebop-blue-galanz-mini-fridges-glr33mber10-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Galanz-3-3-cu-ft-Retro-Mini-Fridge-Single-Door-in-Bebop-Blue-with-Chiller-ENERGY-STAR-GLR33MBER10/314133916",
+        "Description": "This refrigerator-chiller has the look and feel of the fabulous old days, but has the appeal of a modern appliance. Featuring an adjustable thermostat and full width chiller compartment, the unit also has removable shelves and door shelves. It is a fun and stylish addition to any kitchen, rec room or home office!. Color: Bebop Blue.",
+        "depth": "21.02 in",
+        "height": "35.43",
+        "width": "17.59 in",
+        "ratingValue": "4.4324",
+        "reviewCount": "37",
+        "price": 220.21,
+        "priceValidUntil": "7/3/2021"
     },
-    "310700103": {
-        "product_id": 310700103,
-        "modelNbr": "MCDR740BE",
+    "310700109": {
+        "product_id": 310700109,
+        "modelNbr": "MCDR740WE",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Magic Chef 7.4 cu. ft. 2 Door Mini Fridge in Black",
+        "Title": "Magic Chef 7.4 cu. ft. 2-Door Mini Fridge in White",
         "Brand": "Magic Chef",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/df2816e0-79bc-4f37-b1b1-c9db22cc2d56/svn/black-magic-chef-mini-fridges-mcdr740be-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-7-4-cu-ft-2-Door-Mini-Fridge-in-Black-MCDR740BE/310700103",
-        "Description": "The Magic Chef 7.4 cu. ft. Top Freezer Refrigerator is the perfect in-between, or extra fridge; more spacious than a mini but more compact than a standard household unit. It is a suitable appliance for smaller kitchens, break rooms, office kitchenettes or anywhere with space constraints. It occupies a small footprint but offers numerous cold-storage options for foods and beverages, including a glass-covered crisper to keep produce fresh. It's equipped with two adjustable-height glass shelves in the refrigerator and one wire shelf in the freezer, with several other storage options built into the reversible doors. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/81ff88ee-dbc2-4a2c-9bcc-485bffe14dd8/svn/white-magic-chef-mini-fridges-mcdr740we-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-7-4-cu-ft-2-Door-Mini-Fridge-in-White-MCDR740WE/310700109",
+        "Description": "The Magic Chef 7.4 cu. ft. Top Freezer Refrigerator is the perfect in-between, or extra fridge; more spacious than a mini but more compact than a standard household unit. It is a suitable appliance for smaller kitchens, break rooms, office kitchenettes or anywhere with space constraints. It occupies a small footprint but offers numerous cold-storage options for foods and beverages, including a glass-covered crisper to keep produce fresh. It's equipped with two adjustable-height glass shelves in the refrigerator and one wire shelf in the freezer, with several other storage options built into the reversible doors. Color: White.",
         "depth": "22.8",
         "height": "55.3",
         "width": "21.7",
-        "ratingValue": "4.3584",
-        "reviewCount": "851",
+        "ratingValue": "4.3481",
+        "reviewCount": "879",
         "price": 199.99,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/07/2021"
     },
     "305026371": {
         "product_id": 305026371,
@@ -114,10 +114,10 @@
         "depth": "23.1",
         "height": "33.4",
         "width": "21.4",
-        "ratingValue": "4.6827",
-        "reviewCount": "249",
+        "ratingValue": "4.6786",
+        "reviewCount": "252",
         "price": 209,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "307790894": {
         "product_id": 307790894,
@@ -134,10 +134,10 @@
         "depth": "21.75",
         "height": "58",
         "width": "21.73",
-        "ratingValue": "4.4923",
-        "reviewCount": "2336",
+        "ratingValue": "4.4921",
+        "reviewCount": "2351",
         "price": 387.99,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "203532988": {
         "product_id": 203532988,
@@ -154,10 +154,10 @@
         "depth": "19.3",
         "height": "25",
         "width": "17.5",
-        "ratingValue": "4.4175",
-        "reviewCount": "1157",
+        "ratingValue": "4.4217",
+        "reviewCount": "1169",
         "price": 129,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "305652926": {
         "product_id": 305652926,
@@ -176,28 +176,28 @@
         "width": "17.51",
         "ratingValue": "4.4408",
         "reviewCount": "152",
-        "price": 129.99,
-        "priceValidUntil": "6/21/2021"
+        "price": 101.25,
+        "priceValidUntil": "7/3/2021"
     },
-    "305026364": {
-        "product_id": 305026364,
-        "modelNbr": "HMDR450WE",
+    "305026385": {
+        "product_id": 305026385,
+        "modelNbr": "HMDR450SE",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Magic Chef 4.5 cu. ft. 2 Door Mini Fridge in White with Freezer",
+        "Title": "Magic Chef 4.5 cu. ft. 2 Door Mini Fridge in Stainless Look with Freezer",
         "Brand": "Magic Chef",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/75b1779d-a3b1-4d33-ae0c-a1a931699f73/svn/white-magic-chef-mini-fridges-hmdr450we-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-4-5-cu-ft-2-Door-Mini-Fridge-in-White-with-Freezer-HMDR450WE/305026364",
-        "Description": "Whether you're college-bound or simply want a little extra refrigerator space in your home or office, the Magic Chef 2 Door, 4.5 cu. ft. Energy Star Compact Refrigerator has the storage options you're looking for. A can rack conveniently keeps your beverage cans in the door while additional door shelves provide space for other frequently used items. Glass refrigerator shelves keep foods organized and are easy to clean. The separate top 1.2 cu. ft. freezer compartment provides additional storage for frozen foods. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/cc115637-8405-4a3a-b390-127951ccad8f/svn/stainless-look-magic-chef-mini-fridges-hmdr450se-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-4-5-cu-ft-2-Door-Mini-Fridge-in-Stainless-Look-with-Freezer-HMDR450SE/305026385",
+        "Description": "Whether you're college-bound or simply want a little extra refrigerator space in your home, office, or break room, the Magic Chef 2 Door, 4.5 cu. ft. Energy Star Compact Refrigerator has the food storage options you're looking for. A can rack conveniently keeps beverage cans in the door while additional door shelves provide space for other frequently used items. Glass refrigerator shelves and a pull out crisper keep foods organized and are easy to clean. The separate top freezer compartment provides additional storage for frozen foods. Color: Stainless Look.",
         "depth": "19.4",
         "height": "44.8",
         "width": "18.9",
-        "ratingValue": "4.4016",
-        "reviewCount": "3596",
-        "price": 199,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3998",
+        "reviewCount": "3629",
+        "price": 229,
+        "priceValidUntil": "7/3/2021"
     },
     "312695452": {
         "product_id": 312695452,
@@ -216,28 +216,28 @@
         "width": "23.5",
         "ratingValue": "4.0",
         "reviewCount": "1",
-        "price": 1112.5,
-        "priceValidUntil": "6/21/2021"
+        "price": null,
+        "priceValidUntil": "7/3/2021"
     },
-    "305971708": {
-        "product_id": 305971708,
-        "modelNbr": "HMCR320ME",
+    "305971707": {
+        "product_id": 305971707,
+        "modelNbr": "HMCR320WE",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Magic Chef Retro 3.2 cu. ft. 2-Door Mini Fridge in Mint Green",
+        "Title": "Magic Chef Retro 3.2 Cu. Ft. 2 Door Mini Fridge in White",
         "Brand": "Magic Chef",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/49967641-ee54-416b-b24b-c3353065da30/svn/mint-green-magic-chef-mini-fridges-hmcr320me-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-Retro-3-2-cu-ft-2-Door-Mini-Fridge-in-Mint-Green-HMCR320ME/305971708",
-        "Description": "Classic yet contemporary, the Magic Chef retro-style 2 door compact refrigerator will make its statement in your home, office, or dorm room. Its 3.2 cu. ft. total capacity allows you to store plenty of your favorite beverages and frozen snacks. The glass shelves are adjustable for easy organization and clean-up. The crisper drawer provides storage for fruits or vegetables. Can holder on the door lets you grab your beverages easily. Color: Mint Green.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/1f90f66b-c787-426b-bc51-2886b7593d1c/svn/white-magic-chef-mini-fridges-hmcr320we-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-Retro-3-2-Cu-Ft-2-Door-Mini-Fridge-in-White-HMCR320WE/305971707",
+        "Description": "Classic yet contemporary, the Magic Chef retro-style 2 door compact refrigerator will make its statement in your home, office, or dorm room. Its 3.2 cu. ft. total capacity allows you to store plenty of your favorite beverages and frozen snacks. The glass shelves are adjustable for easy organization and clean-up. The crisper drawer provides storage for fruits or vegetables. Can holder on the door lets you grab your beverages easily. Color: White.",
         "depth": "19.9",
         "height": "33.5",
         "width": "19.1",
-        "ratingValue": "4.5067",
-        "reviewCount": "1123",
+        "ratingValue": "4.5049",
+        "reviewCount": "1127",
         "price": 179.99,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/07/2021"
     },
     "309187869": {
         "product_id": 309187869,
@@ -254,30 +254,30 @@
         "depth": "22.36",
         "height": "55.51",
         "width": "21.65",
-        "ratingValue": "3.9296",
-        "reviewCount": "1832",
+        "ratingValue": "3.9361",
+        "reviewCount": "1878",
         "price": 284.99,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "305026421": {
-        "product_id": 305026421,
-        "modelNbr": "HMR440WE",
+    "305026420": {
+        "product_id": 305026420,
+        "modelNbr": "HMR440BE",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Magic Chef 4.4 cu. ft. Mini Fridge in White",
+        "Title": "Magic Chef 4.4 cu. ft. Mini Fridge in Black",
         "Brand": "Magic Chef",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/6f0ecb6e-2966-4040-8942-21b4985451e8/svn/white-magic-chef-mini-fridges-hmr440we-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-4-4-cu-ft-Mini-Fridge-in-White-HMR440WE/305026421",
-        "Description": "Whether you're college-bound or simply want a little extra refrigerator space in your home, or office this Magic Chef 4.4 cu. ft. Mini Refrigerator has the storage options you're looking for. A can dispenser /rack conveniently houses beverages in the door while door shelves provide extra space for other frequently craved refreshments. Glass refrigerator shelves are easy to clean and allow visibility to all corners of the unit. A full-width interior mini freezer allows you to keep already frozen and soft frozen treats in stock. Size: 20.70 In. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/8c74c487-b85b-4799-a278-5c92a2999407/svn/black-magic-chef-mini-fridges-hmr440be-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-4-4-cu-ft-Mini-Fridge-in-Black-HMR440BE/305026420",
+        "Description": "Whether you're college-bound or simply want a little extra refrigerator space in your home, or office this Magic Chef 4.4 cu. ft. Mini Refrigerator has the storage options you're looking for. A can dispenser /rack conveniently houses beverages in the door while door shelves provide extra space for other frequently craved refreshments. Glass refrigerator shelves are easy to clean and allow visibility to all corners of the unit. A full-width interior mini freezer/chiller allows you to keep already frozen and soft frozen treats in stock. Color: Black.",
         "depth": "22.7",
         "height": "32.9",
         "width": "19.1",
-        "ratingValue": "4.4665",
-        "reviewCount": "2058",
-        "price": 169,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4648",
+        "reviewCount": "2089",
+        "price": 179,
+        "priceValidUntil": "7/3/2021"
     },
     "207169805": {
         "product_id": 207169805,
@@ -297,47 +297,47 @@
         "ratingValue": "4.5781",
         "reviewCount": "1998",
         "price": 189,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "305026415": {
-        "product_id": 305026415,
-        "modelNbr": "HMR330BE",
+    "305026419": {
+        "product_id": 305026419,
+        "modelNbr": "HMR330WE",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Magic Chef 3.3 cu. ft. Mini Fridge in Black",
+        "Title": "Magic Chef 3.3 cu. ft. Mini Fridge in White",
         "Brand": "Magic Chef",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/d9f233fd-a42d-4010-8464-4dc94b1c0dcd/svn/black-magic-chef-mini-fridges-hmr330be-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-3-3-cu-ft-Mini-Fridge-in-Black-HMR330BE/305026415",
-        "Description": "Whether you're college-bound or simply want a little extra refrigerator space in your home, the Magic Chef 3.3 cu. ft. Mini Refrigerator has the storage options you're looking for. The sleek appearance is matched by its well-designed interior, which includes a can rack to conveniently keep beverage cans in the door. Additional door shelves provide space for other frequently used items. Its three glass shelves are easy to clean. ENERGY STAR qualified design helps save on energy costs without sacrificing performance. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/ddac5bc9-bd91-4c3b-9417-ccbabc8b08aa/svn/white-magic-chef-mini-fridges-hmr330we-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-3-3-cu-ft-Mini-Fridge-in-White-HMR330WE/305026419",
+        "Description": "Whether you're college-bound or simply want a little extra refrigerator space in your home or office, the Magic Chef 3.3 cu. ft. Mini Refrigerator has the storage options you're looking for. The sleek appearance is matched by its well-designed interior, which includes a can rack to conveniently keep beverage cans in the door. Additional door shelves provide space for other frequently used items. Its three glass shelves are easy to clean. ENERGY STAR qualified design helps save on energy costs without sacrificing performance. Color: White.",
         "depth": "17.7",
         "height": "32.9",
         "width": "19.1",
-        "ratingValue": "4.3981",
-        "reviewCount": "2585",
-        "price": 169,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3979",
+        "reviewCount": "2639",
+        "price": 149,
+        "priceValidUntil": "7/3/2021"
     },
-    "306192312": {
-        "product_id": 306192312,
-        "modelNbr": "MCAR240SE2",
+    "206178986": {
+        "product_id": 206178986,
+        "modelNbr": "MCAR240B2",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "COMPACT REFRIGERATOR",
         "Type2": "OTHER",
-        "Title": "Magic Chef 2.4 cu. ft. Mini Fridge in Stainless Steel Freezerless, Silver",
+        "Title": "Magic Chef 2.4 cu. ft. Mini Fridge in Black",
         "Brand": "Magic Chef",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/1329ca4d-5347-4ca3-8fd3-42a1241e6ae2/svn/stainless-steel-magic-chef-mini-fridges-mcar240se2-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-2-4-cu-ft-Mini-Fridge-in-Stainless-Steel-Freezerless-MCAR240SE2/306192312",
-        "Description": "Store your favorite beverages and more with this Magic Chef's 2.4 cu. ft. compact refrigerator. It is designed without a freezer, giving you ample room for water, sports drinks, canned beverages, food and snacks. It features full-range temperature control so you can customize your cooling options. The ENERGY STAR-rated unit includes two durable wire food shelves to keep fresh foods organized, and it's perfect for offices and dorm rooms. Its smooth design facilitates easy installation. The flat, black exterior and reversible door complement a range of styles. The compact fridge comes with adjustable legs for stability on uneven surfaces. Color: Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/a58136ae-7f10-49c7-be60-b7ead50a6372/svn/black-magic-chef-mini-fridges-mcar240b2-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-2-4-cu-ft-Mini-Fridge-in-Black-MCAR240B2/206178986",
+        "Description": "Get ready for college with this Magic Chef 2.4 cu. ft. compact refrigerator. Perfect for dorm rooms, this compact unit stores your favorite beverages and snacks. It is conveniently designed with two fresh-food shelves to keep your items organized. The door storage options help save space and provide easy accessibility. This mini fridge features a reversible door and a smooth back for easy installation. While it's a great option for dorm rooms, it works perfectly for offices, homes and other areas where you need some extra space. Color: Black.",
         "depth": "17.7",
         "height": "24.9",
         "width": "18.5",
-        "ratingValue": "4.071",
-        "reviewCount": "155",
-        "price": 143.3,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.0513",
+        "reviewCount": "156",
+        "price": 125.02,
+        "priceValidUntil": "7/3/2021"
     },
     "310499379": {
         "product_id": 310499379,
@@ -354,10 +354,10 @@
         "depth": "18.9",
         "height": "19.5",
         "width": "17.3",
-        "ratingValue": "4.5312",
-        "reviewCount": "32",
+        "ratingValue": "4.5455",
+        "reviewCount": "33",
         "price": 124.63,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "205429696": {
         "product_id": 205429696,
@@ -374,9 +374,9 @@
         "depth": "20.3",
         "height": "33.5",
         "width": "18.7",
-        "ratingValue": "4.4957",
-        "reviewCount": "1150",
+        "ratingValue": "4.4952",
+        "reviewCount": "1153",
         "price": 179,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     }
 }

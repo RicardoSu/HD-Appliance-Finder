@@ -14,10 +14,10 @@
         "depth": "32.75",
         "height": "69.5",
         "width": "32.75",
-        "ratingValue": "4.2596",
-        "reviewCount": "389",
+        "ratingValue": "4.2653",
+        "reviewCount": "392",
         "price": 1599,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "302565681": {
         "product_id": 302565681,
@@ -37,7 +37,7 @@
         "ratingValue": "4.219",
         "reviewCount": "2886",
         "price": null,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "302786603": {
         "product_id": 302786603,
@@ -54,10 +54,10 @@
         "depth": "31.63",
         "height": "66.25",
         "width": "33",
-        "ratingValue": "4.1938",
-        "reviewCount": "5614",
-        "price": 1499,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.1915",
+        "reviewCount": "5641",
+        "price": 1349,
+        "priceValidUntil": "07/14/2021"
     },
     "300176598": {
         "product_id": 300176598,
@@ -74,9 +74,9 @@
         "depth": "32.75",
         "height": "69.5",
         "width": "32.75",
-        "ratingValue": "4.3461",
-        "reviewCount": "1930",
+        "ratingValue": "4.347",
+        "reviewCount": "1951",
         "price": 1438,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     }
 }

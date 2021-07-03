@@ -17,27 +17,27 @@
         "ratingValue": "3.5",
         "reviewCount": "2",
         "price": 319.99,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "311895690": {
-        "product_id": 311895690,
-        "modelNbr": "HMCF5W4",
+    "311895691": {
+        "product_id": 311895691,
+        "modelNbr": "HMCF7W4",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "CHEST FREEZER",
         "Type2": "OTHER",
-        "Title": "Magic Chef 5.0 cu. ft. Chest Freezer in White",
+        "Title": "Magic Chef 7.0 cu. ft. Chest Freezer in White",
         "Brand": "Magic Chef",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/aeff2b1d-2769-4c77-ba04-6f68c6d0a14e/svn/white-magic-chef-chest-freezers-hmcf5w4-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-5-0-cu-ft-Chest-Freezer-in-White-HMCF5W4/311895690",
-        "Description": "The Magic Chef 5.0 cu. ft. chest freezer will let you stock up on all your extra favorite frozen foods. It offers installation flexibility, and provides extra storage for food in a compact space. Freezer should ideally be placed in areas where the ambient temperature ranges from 32F to 100F. For efficient operation. The external temperature control makes it easy and efficient to operate because you can make temperature adjustments without opening the lid. The sliding basket makes it easier to organize and access your frozen items. Its interior LED light allows for easy viewing. Recessed handle adds to its premium and sleek design. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/23be72cc-c855-4e58-b8f9-2e756907a0e7/svn/white-magic-chef-chest-freezers-hmcf7w4-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Magic-Chef-7-0-cu-ft-Chest-Freezer-in-White-HMCF7W4/311895691",
+        "Description": "The Magic Chef 7.0 cu. ft. chest freezer will let you stock up on all your extra favorite frozen foods. It offers installation flexibility, and should ideally be placed in areas where the ambient temperature ranges from 32°F to 100°F for efficient operation. The external temperature control makes it easy and efficient to operate because you can make temperature adjustments without opening the lid. The sliding baskets make it easier to organize and access your frozen items. Its interior LED light allows for easy viewing. Recessed handle adds to its premium and sleek design. Interior Freezer temperature can range from 6° F to -8°F. Color: White.",
         "depth": "21.8",
         "height": "52.76",
-        "width": "27.3",
-        "ratingValue": "4.689",
-        "reviewCount": "4328",
-        "price": 189,
-        "priceValidUntil": "6/21/2021"
+        "width": "35.4",
+        "ratingValue": "4.6649",
+        "reviewCount": "4483",
+        "price": 229,
+        "priceValidUntil": "7/3/2021"
     },
     "316856885": {
         "product_id": 316856885,
@@ -57,7 +57,7 @@
         "ratingValue": "5.0",
         "reviewCount": "3",
         "price": 449.09,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "309814622": {
         "product_id": 309814622,
@@ -76,8 +76,8 @@
         "width": "39.94",
         "ratingValue": "4.5",
         "reviewCount": "58",
-        "price": 355.98,
-        "priceValidUntil": "6/21/2021"
+        "price": 369,
+        "priceValidUntil": "7/3/2021"
     },
     "315958296": {
         "product_id": 315958296,
@@ -94,9 +94,9 @@
         "depth": "19.8 in",
         "height": "54",
         "width": "21.8 in",
-        "ratingValue": "4.7143",
-        "reviewCount": "21",
+        "ratingValue": "4.7391",
+        "reviewCount": "23",
         "price": 269,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     }
 }

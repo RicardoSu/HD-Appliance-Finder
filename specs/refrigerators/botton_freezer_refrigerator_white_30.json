@@ -1,23 +1,23 @@
 {
-    "205140689": {
-        "product_id": 205140689,
-        "modelNbr": "WRB329DMBW",
+    "205140688": {
+        "product_id": 205140688,
+        "modelNbr": "WRB329DMBM",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
-        "Type1": "BOTTOM FRZR W/ICEMKR",
+        "Type1": "BOTTOM FREEZER",
         "Type2": "OTHER",
-        "Title": "Whirlpool 18.7 cu. ft. Bottom Freezer Refrigerator in White",
+        "Title": "Whirlpool 18.7 cu. ft. Bottom Freezer Refrigerator in Monochromatic Stainless Steel",
         "Brand": "Whirlpool",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/4a499fb3-3d14-4542-89b2-9837bfb271d0/svn/white-whirlpool-bottom-freezer-refrigerators-wrb329dmbw-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-18-7-cu-ft-Bottom-Freezer-Refrigerator-in-White-WRB329DMBW/205140689",
-        "Description": "Storing all of your favorite fresh and frozen foods is easy with this 18.7 cu. ft. capacity bottom-freezer refrigerator featuring a convenient freezer drawer that places frozen items in close reach, making it easy to organize and find exactly what you need. You'll be able to keep food at the right temperature without wasting energy thanks to the Accu-Chill temperature management system, which uses built-in sensors to measure internal temperature and activates the compressor only when necessary. And food will be easy to see thanks to energy-efficient LED lights, which cast a bright, natural looking light. And you can enjoy having a refrigerator with all of these great features even more knowing it has been designed, engineered and assembled in the USA. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/4f828d70-9a03-40b4-810e-cc370dea9784/svn/monochromatic-stainless-steel-whirlpool-bottom-freezer-refrigerators-wrb329dmbm-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-18-7-cu-ft-Bottom-Freezer-Refrigerator-in-Monochromatic-Stainless-Steel-WRB329DMBM/205140688",
+        "Description": "Storing all of your favorite fresh and frozen foods is easy with this 18.7 cu. ft. capacity bottom-freezer refrigerator featuring a convenient freezer drawer that places frozen items in close reach, making it easy to organize and find exactly what you need. You'll be able to keep food at the right temperature without wasting energy thanks to the Accu-Chill temperature management system, which uses built-in sensors to measure internal temperature and activates the compressor only when necessary. And food will be easy to see thanks to energy-efficient LED lights, which cast a bright, natural looking light. And you can enjoy having a refrigerator with all of these great features even more knowing it has been designed, engineered and assembled in the U.S.A. Color: Monochromatic Stainless Steel.",
         "depth": "30.88",
         "height": "67",
         "width": "29.75",
-        "ratingValue": "4.4415",
-        "reviewCount": "1497",
-        "price": 1699,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4412",
+        "reviewCount": "1505",
+        "price": 1619,
+        "priceValidUntil": "07/14/2021"
     },
     "206867758": {
         "product_id": 206867758,
@@ -34,10 +34,10 @@
         "depth": "34.125",
         "height": "69.875",
         "width": "29.75",
-        "ratingValue": "4.3641",
-        "reviewCount": "747",
-        "price": 1529,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.3615",
+        "reviewCount": "758",
+        "price": 1528,
+        "priceValidUntil": "07/14/2021"
     },
     "206867583": {
         "product_id": 206867583,
@@ -54,9 +54,9 @@
         "depth": "34.125",
         "height": "69.875",
         "width": "29.75",
-        "ratingValue": "4.0462",
-        "reviewCount": "260",
-        "price": 1124,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.0604",
+        "reviewCount": "265",
+        "price": 1128,
+        "priceValidUntil": "07/14/2021"
     }
 }

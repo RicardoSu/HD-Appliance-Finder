@@ -17,7 +17,7 @@
         "ratingValue": "4.0426",
         "reviewCount": "47",
         "price": 1258,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205974858": {
         "product_id": 205974858,
@@ -34,10 +34,10 @@
         "depth": "19.125",
         "height": "5.5625",
         "width": "33.875",
-        "ratingValue": "4.3643",
-        "reviewCount": "291",
+        "ratingValue": "4.3729",
+        "reviewCount": "295",
         "price": 1279,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "205974876": {
         "product_id": 205974876,
@@ -54,10 +54,10 @@
         "depth": "19.125",
         "height": "5.5625",
         "width": "33.875",
-        "ratingValue": "4.2295",
-        "reviewCount": "183",
+        "ratingValue": "4.2283",
+        "reviewCount": "184",
         "price": 1399,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "01/01/2022"
     },
     "306920392": {
         "product_id": 306920392,
@@ -76,8 +76,8 @@
         "width": "34.56",
         "ratingValue": "4.5385",
         "reviewCount": "13",
-        "price": 1199,
-        "priceValidUntil": "6/21/2021"
+        "price": 1079,
+        "priceValidUntil": "07/14/2021"
     },
     "308849730": {
         "product_id": 308849730,
@@ -94,10 +94,10 @@
         "depth": "20.5",
         "height": "5",
         "width": "36.125",
-        "ratingValue": "4.6172",
-        "reviewCount": "209",
+        "ratingValue": "4.619",
+        "reviewCount": "210",
         "price": 669,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205974855": {
         "product_id": 205974855,
@@ -111,7 +111,13 @@
         "ImageUrl": "https://images.homedepot-static.com/productImages/0419cb3a-396c-4c0b-b3a5-a3f1bf838097/svn/stainless-steel-ge-electric-cooktops-jp3536sjss-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/GE-36-in-Radiant-Electric-Cooktop-in-Stainless-Steel-with-5-Elements-including-Power-Boil-JP3536SJSS/205974855",
         "Description": "Your GE 36 in. Electric Cooktop in Stainless Steel has 5 radiant cooking elements that cook foods quickly and evenly on this sleek, glass surface. The ribbon heating elements ensure even heat and fast warm-up times. The Power Boil 8 in. burner provides 2500-Watt of rapid powerful heat. Front Center Controls allow for ease of use. GE products offer the best in contemporary design matched with the latest in appliance technologies to transform the way you live. Sporting a bold, dramatic look and state of the art features, this collection provides the perfect combination of style and innovation throughout your kitchen.",
-        "Discontinued": true
+        "depth": "19.13",
+        "height": "5",
+        "width": "33.875",
+        "ratingValue": "4.2756",
+        "reviewCount": "127",
+        "price": 1098,
+        "priceValidUntil": "07/14/2021"
     },
     "301458485": {
         "product_id": 301458485,
@@ -128,10 +134,10 @@
         "depth": "21.06",
         "height": "18.75",
         "width": "34.56",
-        "ratingValue": "4.3374",
-        "reviewCount": "166",
-        "price": 2049,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3413",
+        "reviewCount": "167",
+        "price": 1844,
+        "priceValidUntil": "07/14/2021"
     },
     "307564964": {
         "product_id": 307564964,
@@ -148,10 +154,10 @@
         "depth": "20.25",
         "height": "5",
         "width": "36.125",
-        "ratingValue": "4.5197",
-        "reviewCount": "152",
+        "ratingValue": "4.5",
+        "reviewCount": "154",
         "price": 849,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "301113760": {
         "product_id": 301113760,
@@ -168,50 +174,50 @@
         "depth": "19.13",
         "height": "3.38",
         "width": "33.875",
-        "ratingValue": "4.2441",
-        "reviewCount": "254",
+        "ratingValue": "4.2471",
+        "reviewCount": "255",
         "price": 898,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "308801451": {
-        "product_id": 308801451,
-        "modelNbr": "CEP90362NSS",
+    "308801457": {
+        "product_id": 308801457,
+        "modelNbr": "CEP90361NBB",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "COOKTOPS ELECTRIC",
         "Type2": "ELECTRIC COOKTOP",
-        "Title": "Cafe 36 in. Radiant Electric Cooktop in Stainless Steel with 5 Elements including Tri-Ring Power Boil Element, Silver",
+        "Title": "Cafe 36 in. Radiant Electric Cooktop in Matte Black with 5 Elements including Tri-Ring Power Boil Element, Fingerprint Resistant Matte Black",
         "Brand": "Cafe",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/476c8d36-1015-4634-9b3f-5a91b2b19bc4/svn/stainless-steel-cafe-electric-cooktops-cep90362nss-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Cafe-36-in-Radiant-Electric-Cooktop-in-Stainless-Steel-with-5-Elements-including-Tri-Ring-Power-Boil-Element-CEP90362NSS/308801451",
-        "Description": "One look at the Cafe kitchen and you'll feel as if you've been transported behind the scenes of your favorite casual dining experience. Each appliance has been meticulously designed to create an atmosphere where people like to gather and love to cook. Tough stainless steel and powerful elements complement their robust appearance.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/cfd83b3e-6af9-4e39-99c1-72fffa650ba2/svn/fingerprint-resistant-matte-black-cafe-electric-cooktops-cep90361nbb-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Cafe-36-in-Radiant-Electric-Cooktop-in-Matte-Black-with-5-Elements-including-Tri-Ring-Power-Boil-Element-CEP90361NBB/308801457",
+        "Description": "One look at the Cafe kitchen and you'll feel as if you've been transported behind the scenes of your favorite casual dining experience. Each appliance has been meticulously designed to create an atmosphere where people like to gather and love to cook. Tough stainless steel and powerful elements complement their robust appearance. Color: Fingerprint Resistant Matte Black.",
         "depth": "19.13",
         "height": "3.38",
         "width": "33.875",
-        "ratingValue": "4.6667",
-        "reviewCount": "57",
-        "price": 1598,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6939",
+        "reviewCount": "49",
+        "price": 1498,
+        "priceValidUntil": "07/14/2021"
     },
-    "307599493": {
-        "product_id": 307599493,
-        "modelNbr": "FGEC3648UB",
+    "307601989": {
+        "product_id": 307601989,
+        "modelNbr": "FGEC3648US",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "COOKTOPS ELECTRIC",
         "Type2": "ELECTRIC COOKTOP",
-        "Title": "FRIGIDAIRE GALLERY 36 in. Radiant Electric Cooktop in Black with 5 Elements",
+        "Title": "FRIGIDAIRE GALLERY 36 in. Radiant Electric Cooktop in Stainless with 5 Elements, Silver",
         "Brand": "FRIGIDAIRE GALLERY",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/bf1461e2-bc21-450a-9916-2f18a3ae3bbb/svn/black-frigidaire-gallery-electric-cooktops-fgec3648ub-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/FRIGIDAIRE-GALLERY-36-in-Radiant-Electric-Cooktop-in-Black-with-5-Elements-FGEC3648UB/307599493",
-        "Description": "An efficient and uncluttered cooking experience, starts with the Frigidaire Gallery Electric Cooktop. Designed to accommodate multiple pots at once so you'll be able to easily juggle tasks. And with the Express-Select controls, you'll be able to easily regulate the temperatures and heat levels. SpaceWise Expandable Elements adjust to the size pot your using on the Frigidaire Gallery Electric Cooktop. With multiple sized elements, you'll never be mismatching a big pot on a small element. And if you happen to spill, no worries cleanup is a breeze with this do-it-all appliance. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/5f0fa975-6566-4148-a986-466a239660c6/svn/stainless-steel-frigidaire-gallery-electric-cooktops-fgec3648us-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/FRIGIDAIRE-GALLERY-36-in-Radiant-Electric-Cooktop-in-Stainless-with-5-Elements-FGEC3648US/307601989",
+        "Description": "An efficient and uncluttered cooking experience, starts with the Frigidaire Gallery Electric Cooktop. Designed to accommodate multiple pots at once so you'll be able to easily juggle tasks. And with the Express-Select controls, you'll be able to easily regulate the temperatures and heat levels. SpaceWise Expandable Elements adjust to the size pot your using on the Frigidaire Gallery Electric Cooktop. With multiple sized elements, you'll never be mismatching a big pot on a small element. And if you happen to spill, no worries cleanup is a breeze with this do-it-all appliance. Color: Stainless Steel.",
         "depth": "20.25",
         "height": "5",
         "width": "36.125",
-        "ratingValue": "4.5333",
-        "reviewCount": "90",
-        "price": 849,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.5385",
+        "reviewCount": "91",
+        "price": 939,
+        "priceValidUntil": "07/14/2021"
     },
     "300636663": {
         "product_id": 300636663,
@@ -228,30 +234,30 @@
         "depth": "19.125",
         "height": "5.0625",
         "width": "28.5",
-        "ratingValue": "4.1687",
-        "reviewCount": "83",
+        "ratingValue": "4.1786",
+        "reviewCount": "84",
         "price": 1438,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "205974881": {
-        "product_id": 205974881,
-        "modelNbr": "PP9036SJSS",
+    "205974879": {
+        "product_id": 205974879,
+        "modelNbr": "PP9030SJSS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "COOKTOPS ELECTRIC",
         "Type2": "ELECTRIC COOKTOP",
-        "Title": "GE Profile 36 in. Radiant Electric Cooktop in Stainless Steel with 5 Elements including Tri-Ring, Silver",
+        "Title": "GE Profile 30 in. Radiant Electric Cooktop in Stainless Steel with 5 Elements with Rapid Boil, Silver",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/4d442367-69b9-4d4d-a0c5-ffd7d847d2a8/svn/stainless-steel-ge-electric-cooktops-pp9036sjss-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-Profile-36-in-Radiant-Electric-Cooktop-in-Stainless-Steel-with-5-Elements-including-Tri-Ring-PP9036SJSS/205974881",
-        "Description": "Your GE Profile 36 in. Electric Cooktop in Stainless Steel has 5 radiant cooking elements that cook foods quickly and evenly on this sleek, glass surface. The ribbon heating elements ensure even heat and fast warm-up times. You can use different pan sizes on the single 8 in. x 5 in. Power Boil 2400-Watt flexible element that produces rapid powerful heat, plus a center Tri-Ring element provides 3000-Watt. Front Controls allow for ease of use. GE Profile products offer the best in contemporary design matched with the latest in appliance technologies to transform the way you live. Sporting a bold, dramatic look and state of the art features, this collection provides the perfect combination of style and innovation throughout your kitchen.",
-        "depth": "19.13",
-        "height": "5.56",
-        "width": "33.875",
-        "ratingValue": "4.3778",
-        "reviewCount": "307",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/2465e00e-7c90-4f0f-b372-cb009c3c3924/svn/stainless-steel-on-black-ge-electric-cooktops-pp9030sjss-e1_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-Profile-30-in-Radiant-Electric-Cooktop-in-Stainless-Steel-with-5-Elements-with-Rapid-Boil-PP9030SJSS/205974879",
+        "Description": "Your GE Profile 30 in. Electric Cooktop in Stainless Steel has 5 radiant cooking elements that cook foods quickly and evenly on this sleek, glass surface. The ribbon heating elements ensure even heat and fast warm-up times. You can use different pan sizes on the single 6 in. x 9 in. Power Boil 3100-Watt flexible element that produces rapid powerful heat. Front Controls allow for ease of use. GE Profile products offer the best in contemporary design matched with the latest in appliance technologies to transform the way you live. Sporting a bold, dramatic look and state of the art features, this collection provides the perfect combination of style and innovation throughout your kitchen.",
+        "depth": "19.625",
+        "height": "5.5625",
+        "width": "28.5",
+        "ratingValue": "4.4122",
+        "reviewCount": "410",
         "price": 1498,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "306522045": {
         "product_id": 306522045,
@@ -270,8 +276,8 @@
         "width": "34.56",
         "ratingValue": "4.4265",
         "reviewCount": "68",
-        "price": 1399,
-        "priceValidUntil": "6/21/2021"
+        "price": 1394,
+        "priceValidUntil": "07/14/2021"
     },
     "305470256": {
         "product_id": 305470256,
@@ -290,7 +296,7 @@
         "width": "34.56",
         "ratingValue": "4.1928",
         "reviewCount": "83",
-        "price": 1149,
-        "priceValidUntil": "6/21/2021"
+        "price": 1034,
+        "priceValidUntil": "07/14/2021"
     }
 }

@@ -14,10 +14,10 @@
         "depth": "25",
         "height": "20",
         "width": "25",
-        "ratingValue": "4.4444",
-        "reviewCount": "3348",
-        "price": 898,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.4441",
+        "reviewCount": "3355",
+        "price": 1099,
+        "priceValidUntil": "07/15/2021"
     },
     "301349267": {
         "product_id": 301349267,
@@ -37,7 +37,7 @@
         "ratingValue": "4.1656",
         "reviewCount": "151",
         "price": 1398,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205079331": {
         "product_id": 205079331,
@@ -54,10 +54,10 @@
         "depth": "45.21",
         "height": "18.38",
         "width": "19",
-        "ratingValue": "4.4633",
-        "reviewCount": "3283",
-        "price": 849,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4641",
+        "reviewCount": "3290",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "202988047": {
         "product_id": 202988047,
@@ -77,7 +77,7 @@
         "ratingValue": "3.44",
         "reviewCount": "25",
         "price": 1125.6,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312460413": {
         "product_id": 312460413,
@@ -94,10 +94,10 @@
         "depth": "48.5",
         "height": "21.38",
         "width": "24.88",
-        "ratingValue": "4.5674",
-        "reviewCount": "423",
-        "price": 1199,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5682",
+        "reviewCount": "447",
+        "price": 1079,
+        "priceValidUntil": "07/14/2021"
     },
     "202988030": {
         "product_id": 202988030,
@@ -117,7 +117,7 @@
         "ratingValue": "4.1667",
         "reviewCount": "6",
         "price": 795.9,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "310575941": {
         "product_id": 310575941,
@@ -131,7 +131,13 @@
         "ImageUrl": "https://images.homedepot-static.com/productImages/429d6a3d-9b2f-4cf7-9fa8-9fac01cfa9e5/svn/stainless-steel-frigidaire-single-oven-gas-ranges-fcrg3052as-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-30-in-5-0-cu-ft-Gas-Range-in-Stainless-Steel-FCRG3052AS/310575941",
         "Description": "The Frigidaire 30 in. Gas Range gives you more cooking flexibility with a 5.0 cu. ft. capacity oven and storage drawer. The cooktop features 5 Sealed Gas Burners, including a 16,000 BTU Quick Boil Burner, 10,000 BTU Oval Burner, and a Low-Simmer Burner, so you can have precise temperature control with high and low heat. Stainless Steel exterior is durable and creates a premium look in your kitchen.",
-        "Discontinued": true
+        "depth": "46.625",
+        "height": "18.625",
+        "width": "24.88",
+        "ratingValue": "4.4507",
+        "reviewCount": "1005",
+        "price": 674,
+        "priceValidUntil": "07/14/2021"
     },
     "312107684": {
         "product_id": 312107684,
@@ -148,30 +154,30 @@
         "depth": "46.625",
         "height": "18.625",
         "width": "24.38",
-        "ratingValue": "4.7296",
-        "reviewCount": "477",
+        "ratingValue": "4.7288",
+        "reviewCount": "483",
         "price": 944,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "205998253": {
-        "product_id": 205998253,
-        "modelNbr": "KFGD500ESS",
+    "300572978": {
+        "product_id": 300572978,
+        "modelNbr": "KFGD500EBS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
-        "Type2": "KITCHENAID",
-        "Title": "KitchenAid 6.0 cu. ft. Double Oven Gas Range with Self-Cleaning Convection Oven in Stainless Steel, Silver",
+        "Type2": "MAYTAG",
+        "Title": "KitchenAid 6.0 cu. ft. Double Oven Gas Range with Self-Cleaning Convection Oven in PrintShield Black Stainless, Black Stainless with PrintShield Finish",
         "Brand": "KitchenAid",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/6c779b8a-4dfa-490e-a391-8a358297e49c/svn/stainless-steel-kitchenaid-double-oven-gas-ranges-kfgd500ess-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/KitchenAid-6-0-cu-ft-Double-Oven-Gas-Range-with-Self-Cleaning-Convection-Oven-in-Stainless-Steel-KFGD500ESS/205998253",
-        "Description": "This beautiful gas double oven range produces flawless cooking results with Even-Heat True Convection. The unique bow-tie design and convection fan ensure the inside of the entire oven is heated to and stays at, the perfect temperature. The oven is a combined 6.0 cu. ft., providing a large capacity that's perfect for preparing multiple dishes at once. The cooktop has 5 burners ranging from 5,000 to 17,000 BTU, letting you go from a rolling boil to a delicate simmer. Color: Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/ded37f99-821e-4abf-99aa-d668b3998dad/svn/black-stainless-with-printshield-finish-kitchenaid-double-oven-gas-ranges-kfgd500ebs-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/KitchenAid-6-0-cu-ft-Double-Oven-Gas-Range-with-Self-Cleaning-Convection-Oven-in-PrintShield-Black-Stainless-KFGD500EBS/300572978",
+        "Description": "This beautiful gas double oven range produces flawless cooking results with Even-Heat True Convection. The unique bow-tie design and convection fan ensure the inside of the entire oven is heated to, and stays at, the perfect temperature. The oven is a combined 6.0 cu. ft., providing a large capacity that's perfect for preparing multiple dishes at once. The cooktop has 5-burner ranging from 5,000 to 17,000 BTU, letting you go from a rolling boil to a delicate simmer. Color: Black Stainless with PrintShield Finish.",
         "depth": "45.5",
         "height": "14.88",
         "width": "25",
-        "ratingValue": "4.5246",
-        "reviewCount": "997",
-        "price": 2299,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5235",
+        "reviewCount": "999",
+        "price": 2159,
+        "priceValidUntil": "07/14/2021"
     },
     "207104548": {
         "product_id": 207104548,
@@ -188,30 +194,30 @@
         "depth": "46",
         "height": "14.68",
         "width": "25",
-        "ratingValue": "4.496",
-        "reviewCount": "742",
-        "price": 1699,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4953",
+        "reviewCount": "745",
+        "price": 1529,
+        "priceValidUntil": "07/14/2021"
     },
-    "314906951": {
-        "product_id": 314906951,
-        "modelNbr": "RGS-BM-30",
+    "314882036": {
+        "product_id": 314882036,
+        "modelNbr": "RGS-SN-30",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "OTHER",
-        "Title": "ZLINE Kitchen and Bath ZLINE 30 in. 4.0 cu. ft. Range with Gas Stove and Gas Oven in DuraSnow Stainless Steel and Blue Matte Door (RGS-BM-30), DuraSnow® Stainless Steel with Blue Matte door",
+        "Title": "ZLINE Kitchen and Bath 30 in. 4.0 cu.ft. Gas Range with Convection Gas Oven in DuraSnow Stainless Steel",
         "Brand": "ZLINE Kitchen and Bath",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/7cc7ec00-3d87-4a94-a114-3e16cda8c9ca/svn/durasnow-stainless-steel-with-blue-matte-door-zline-kitchen-and-bath-single-oven-gas-ranges-rgs-bm-30-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/ZLINE-Kitchen-and-Bath-ZLINE-30-in-4-0-cu-ft-Range-with-Gas-Stove-and-Gas-Oven-in-DuraSnow-Stainless-Steel-and-Blue-Matte-Door-RGS-BM-30-RGS-BM-30/314906951",
-        "Description": "Experience Attainable Luxury with the ZLINE DuraSnow All Gas Professional Range. Combining both professional aesthetics and functionality, this range provides the ultimate luxury experience for a fraction of the cost. Achieve optimal results with cooktop cooking power from 4,200 up to 18,000 BTUs provided with sealed burners. Ignite your culinary experience with an all gas oven, allowing for a faster, more efficient heat and moisture distribution. Enjoy an ultra-deep oven capacity with a three-layered insulated glass oven for even, precise cooking every use. With upgraded premium features such as Smooth Slide ball-bearing oven racks, dual lighting, and adjustable legs, this range is certain to wow both the chef and guests alike. Assembled with the highest quality materials on the market, this range offers a durable, scratch-resistant porcelain cooktop and ZLINE's exclusive single piece cast iron grate. Cook with ease with StayPut Italian hinges, providing a safe baking environment to enjoy for years to come. ZLINE stands by the longevity and durability of their professional ranges, while ensuring further protection and peace of mind with a worry-free warranty. The ZLINE All Gas Range ships next business day when in stock. Color: DuraSnow® Stainless Steel with Blue Matte door.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/e5cdb22b-bead-4ec8-b96b-18ec8280609b/svn/durasnow-stainless-steel-zline-kitchen-and-bath-single-oven-gas-ranges-rgs-sn-30-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/ZLINE-Kitchen-and-Bath-30-in-4-0-cu-ft-Gas-Range-with-Convection-Gas-Oven-in-DuraSnow-Stainless-Steel-RGS-SN-30/314882036",
+        "Description": "Experience Attainable Luxury with the ZLINE DuraSnow All Gas Professional Range. Combining both professional aesthetics and functionality, this range provides the ultimate luxury experience for a fraction of the cost. Achieve optimal results with cooktop cooking power from 4,200 up to 18,000 BTUs provided with sealed burners. Ignite your culinary experience with an all gas oven, allowing for a faster, more efficient heat and moisture distribution. Enjoy an ultra-deep oven capacity with a three-layered insulated glass oven for even, precise cooking every use. With upgraded premium features such as SmoothSlide ball-bearing oven racks, dual lighting, and adjustable legs, this range is certain to wow both the chef and guests alike. Assembled with the highest quality materials on the market, this range offers a durable, scratch-resistant porcelain cooktop and ZLINE's exclusive single piece cast iron grate. Cook with ease with StayPut Italian hinges, providing a safe baking environment to enjoy for years to come. ZLINE stands by the longevity and durability of their professional ranges, while ensuring further protection and peace of mind with a worry-free warranty. The ZLINE All Gas Range ships next business day when in stock. Color: DuraSnow Stainless Steel.",
         "depth": "39.5",
         "height": "14",
         "width": "26.5",
-        "ratingValue": "4.8",
-        "reviewCount": "30",
-        "price": 2799.95,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.7895",
+        "reviewCount": "38",
+        "price": 2124.96,
+        "priceValidUntil": "07/09/2021"
     },
     "203358172": {
         "product_id": 203358172,
@@ -231,27 +237,27 @@
         "ratingValue": "2.875",
         "reviewCount": "32",
         "price": 1121.4,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "314138086": {
-        "product_id": 314138086,
-        "modelNbr": "PGB935BPTS",
+    "314138088": {
+        "product_id": 314138088,
+        "modelNbr": "PGB935YPFS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "GE",
-        "Title": "Profile 30 in. 5.6 cu. ft. Gas Range with Self-Cleaning Convection Oven and Air Fry in Black Stainless Steel, Fingerprint Resistant Black Stainless Steel",
+        "Title": "Profile 30 in. 5.6 cu. ft. Gas Range with Self-Cleaning Convection Oven and Air Fry in Stainless Steel, Fingerprint Resistant Stainless Steel",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/873ad0b0-2ded-4e5d-bea7-b4e59dd1de9e/svn/fingerprint-resistant-black-stainless-steel-ge-single-oven-gas-ranges-pgb935bpts-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-Profile-30-in-5-6-cu-ft-Gas-Range-with-Self-Cleaning-Convection-Oven-and-Air-Fry-in-Black-Stainless-Steel-PGB935BPTS/314138086",
-        "Description": "GE Profile Appliances are built on the belief that modern life needs modern solutions. GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile's sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you've been looking for. Color: Fingerprint Resistant Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/b4fc6438-5ae0-4f6c-81c4-b5678cdcc3b3/svn/fingerprint-resistant-stainless-steel-ge-single-oven-gas-ranges-pgb935ypfs-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-Profile-30-in-5-6-cu-ft-Gas-Range-with-Self-Cleaning-Convection-Oven-and-Air-Fry-in-Stainless-Steel-PGB935YPFS/314138088",
+        "Description": "GE Profile Appliances are built on the belief that modern life needs modern solutions. GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile's sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you've been looking for. Color: Fingerprint Resistant Stainless Steel.",
         "depth": "47.1875",
         "height": "19",
         "width": "24",
-        "ratingValue": "4.6786",
-        "reviewCount": "308",
-        "price": 1394,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6782",
+        "reviewCount": "317",
+        "price": 1348,
+        "priceValidUntil": "07/14/2021"
     },
     "306284883": {
         "product_id": 306284883,
@@ -269,9 +275,9 @@
         "height": "18.5",
         "width": "24",
         "ratingValue": "4.4673",
-        "reviewCount": "980",
+        "reviewCount": "1008",
         "price": 478,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "207189390": {
         "product_id": 207189390,
@@ -291,7 +297,7 @@
         "ratingValue": "3.0",
         "reviewCount": "2",
         "price": 1449,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "206943404": {
         "product_id": 206943404,
@@ -308,10 +314,10 @@
         "depth": "46.25",
         "height": "19",
         "width": "24",
-        "ratingValue": "4.4347",
-        "reviewCount": "957",
+        "ratingValue": "4.4334",
+        "reviewCount": "969",
         "price": 718,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "312775983": {
         "product_id": 312775983,
@@ -328,10 +334,10 @@
         "depth": "48.03",
         "height": "47.31",
         "width": "24.88",
-        "ratingValue": "4.4429",
-        "reviewCount": "70",
-        "price": 799,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4868",
+        "reviewCount": "76",
+        "price": 809,
+        "priceValidUntil": "07/14/2021"
     },
     "311372703": {
         "product_id": 311372703,
@@ -348,10 +354,10 @@
         "depth": "46.56",
         "height": "18.88",
         "width": "24.5",
-        "ratingValue": "4.4465",
-        "reviewCount": "439",
+        "ratingValue": "4.4484",
+        "reviewCount": "446",
         "price": 944,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "206007525": {
         "product_id": 206007525,
@@ -370,8 +376,8 @@
         "width": "25",
         "ratingValue": "4.3455",
         "reviewCount": "356",
-        "price": 2799,
-        "priceValidUntil": "6/21/2021"
+        "price": 2519,
+        "priceValidUntil": "07/14/2021"
     },
     "313903663": {
         "product_id": 313903663,
@@ -388,10 +394,10 @@
         "depth": "44",
         "height": "15",
         "width": "24",
-        "ratingValue": "4.6471",
-        "reviewCount": "17",
-        "price": 2037.34,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.6842",
+        "reviewCount": "19",
+        "price": 2088.27,
+        "priceValidUntil": "7/3/2021"
     },
     "304543054": {
         "product_id": 304543054,
@@ -411,7 +417,7 @@
         "ratingValue": "2.3333",
         "reviewCount": "3",
         "price": 3299,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "306309167": {
         "product_id": 306309167,
@@ -428,10 +434,10 @@
         "depth": "46.375",
         "height": "18.5",
         "width": "24",
-        "ratingValue": "4.1687",
-        "reviewCount": "243",
+        "ratingValue": "4.1847",
+        "reviewCount": "249",
         "price": 468,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "301061491": {
         "product_id": 301061491,
@@ -448,10 +454,10 @@
         "depth": "46.56",
         "height": "18.88",
         "width": "24.5",
-        "ratingValue": "4.4726",
-        "reviewCount": "603",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4752",
+        "reviewCount": "606",
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
     "313032725": {
         "product_id": 313032725,
@@ -471,7 +477,7 @@
         "ratingValue": "5.0",
         "reviewCount": "1",
         "price": 2149,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "315493076": {
         "product_id": 315493076,
@@ -488,10 +494,10 @@
         "depth": "48",
         "height": "21.6",
         "width": "24.8",
-        "ratingValue": "4.6",
-        "reviewCount": "5",
+        "ratingValue": "4.7273",
+        "reviewCount": "22",
         "price": 939,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "314137966": {
         "product_id": 314137966,
@@ -508,10 +514,10 @@
         "depth": "46.25",
         "height": "19",
         "width": "24",
-        "ratingValue": "4.6585",
-        "reviewCount": "3283",
+        "ratingValue": "4.7066",
+        "reviewCount": "501",
         "price": 944,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "206943226": {
         "product_id": 206943226,
@@ -528,10 +534,10 @@
         "depth": "46.25",
         "height": "19",
         "width": "24",
-        "ratingValue": "4.4932",
-        "reviewCount": "367",
+        "ratingValue": "4.4906",
+        "reviewCount": "371",
         "price": 854,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "312994316": {
         "product_id": 312994316,
@@ -548,30 +554,30 @@
         "depth": "25",
         "height": "18",
         "width": "25",
-        "ratingValue": "4.45",
-        "reviewCount": "60",
+        "ratingValue": "4.459",
+        "reviewCount": "61",
         "price": 1399,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "302556060": {
-        "product_id": 302556060,
-        "modelNbr": "FFGF3054TD",
+    "302767116": {
+        "product_id": 302767116,
+        "modelNbr": "FFGF3054TS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
-        "Type2": "MABE",
-        "Title": "Frigidaire 30 in. 5.0 cu. ft. Gas Range with Self-Cleaning Oven in Black Stainless Steel",
+        "Type2": "FRIGIDAIRE",
+        "Title": "Frigidaire 30 in. 5.0 cu. ft. Gas Range with Self-Cleaning Oven in Stainless Steel, Silver",
         "Brand": "Frigidaire",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/6822a4cf-9f6a-47de-94f5-cb6c54171218/svn/black-stainless-steel-frigidaire-single-oven-gas-ranges-ffgf3054td-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-30-in-5-0-cu-ft-Gas-Range-with-Self-Cleaning-Oven-in-Black-Stainless-Steel-FFGF3054TD/302556060",
-        "Description": "The Frigidaire 30 in. Freestanding Gas Range gives you more cooking flexibility with a 5.0 cu. ft. capacity oven and Broil and Serve Drawer. The cooktop features four sealed gas burners including a 17,000 BTU quick boil burner and a low-simmer burner, so you can have precise temperature control with high and low heat. Ready-select control knobs allow you to easily select options and cooking temperatures. Even Baking technology ensures that food comes out evenly, while the pre-heat, delay cook and delay clean options let you do things on your schedule. Color: Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/17e51039-ec31-4b8d-810c-190608492021/svn/stainless-steel-frigidaire-single-oven-gas-ranges-ffgf3054ts-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-30-in-5-0-cu-ft-Gas-Range-with-Self-Cleaning-Oven-in-Stainless-Steel-FFGF3054TS/302767116",
+        "Description": "The Frigidaire 30 in. Freestanding Self-Cleaning Gas Range features a powerful 17,000 BTU burner and Color-Coordinated Oven Door with Extra-Large Window that makes it easier to check on the status of your dish without having to open the oven door. The Store-More Storage Drawer allows extra space to store your cookware. Color: Stainless Steel.",
         "depth": "46.625",
         "height": "18.625",
         "width": "24.38",
-        "ratingValue": "4.6477",
-        "reviewCount": "3457",
-        "price": 854,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.647",
+        "reviewCount": "3490",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "202988028": {
         "product_id": 202988028,
@@ -591,27 +597,27 @@
         "ratingValue": "3.0",
         "reviewCount": "2",
         "price": 726.53,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "313274890": {
-        "product_id": 313274890,
-        "modelNbr": "HRG3080LP-BS",
+    "313181388": {
+        "product_id": 313181388,
+        "modelNbr": "HRG3080ULP",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "OTHER",
-        "Title": "Thor Kitchen Pre-Converted Propane 4.2 cu. ft. Single Oven Gas Range in Black Stainless Steel",
+        "Title": "Thor Kitchen Pre-Converted Propane 30 in. 4.2 cu. ft. Gas Range in Stainless Steel Single Oven, Silver",
         "Brand": "Thor Kitchen",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/f1975340-7a7c-42d6-9597-137ff0810f10/svn/black-stainless-steel-thor-kitchen-single-oven-gas-ranges-hrg3080lp-bs-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Thor-Kitchen-Pre-Converted-Propane-4-2-cu-ft-Single-Oven-Gas-Range-in-Black-Stainless-Steel-HRG3080LP-BS/313274890",
-        "Description": "This 30 in. Professional Style Gas Range is Pre-Converted to Propane. It will fulfill all your cooking desires. Main features include one 18,000 BTU Sealed Single Burners, two 12,000 BTU Sealed Single Burners along with one 15,000 BTU Sealed Dual Burners with a 650 BTU Simmer Function. The 4.2 cu. ft. 22,000 BTU oven contains a commercial convection fan along with 13,000 BTU Oven Broiler. Continuous grating to facilitate the movement of large cookware. Color: Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/420f8648-ea9b-4e6e-a766-add95b874001/svn/stainless-steel-thor-kitchen-single-oven-gas-ranges-hrg3080ulp-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Thor-Kitchen-Pre-Converted-Propane-30-in-4-2-cu-ft-Gas-Range-in-Stainless-Steel-Single-Oven-HRG3080ULP/313181388",
+        "Description": "This 30 in. Professional Style Gas Range has been Pre-Converted to Propane In House. Main features include one 18,000 BTU Sealed Single Burners, two 12,000 BTU Sealed Single Burners along with one 15,000 BTU Sealed Dual Burners with a 650 BTU Simmer Function. The 4.2 cu. ft. 22,000 BTU oven contains a commercial convection fan along with 13,000 BTU Oven Broiler. Continuous grating to facilitate the movement of large cookware. Color: Stainless Steel.",
         "depth": "44.5",
-        "height": "15.75",
-        "width": "23.5",
+        "height": "15.25",
+        "width": "24",
         "ratingValue": "4.0",
-        "reviewCount": "1",
-        "price": 3198.33,
-        "priceValidUntil": "6/21/2021"
+        "reviewCount": "4",
+        "price": 2299,
+        "priceValidUntil": "7/3/2021"
     },
     "308825013": {
         "product_id": 308825013,
@@ -630,8 +636,8 @@
         "width": "27.25",
         "ratingValue": "4.3095",
         "reviewCount": "42",
-        "price": 2199.99,
-        "priceValidUntil": "6/21/2021"
+        "price": 2254.99,
+        "priceValidUntil": "7/3/2021"
     },
     "309169356": {
         "product_id": 309169356,
@@ -651,47 +657,47 @@
         "ratingValue": "3.0",
         "reviewCount": "2",
         "price": 1999,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "312776015": {
-        "product_id": 312776015,
-        "modelNbr": "LRGL5823D",
+    "312460439": {
+        "product_id": 312460439,
+        "modelNbr": "LRGL5823S",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "LG",
-        "Title": "LG Electronics 5.8 cu. ft. Smart Fan Convection Gas Single Oven Range with Air Fry and EasyClean in Printproof Black Stainless Steel",
+        "Title": "LG Electronics 5.8 cu. ft. Smart Wi-Fi Enabled Fan Convection Gas Single Oven Range with AirFry and EasyClean in Stainless Steel, Silver",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/cd24f9b7-9acd-44b5-bff8-9ea3eb2baeeb/svn/printproof-black-stainless-steel-lg-electronics-single-oven-gas-ranges-lrgl5823d-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-5-8-cu-ft-Smart-Fan-Convection-Gas-Single-Oven-Range-with-Air-Fry-and-EasyClean-in-Printproof-Black-Stainless-Steel-LRGL5823D/312776015",
-        "Description": "Why buy yet another gadget that takes up counter space? This LG range with built-in Air Fry delivers crispy flavor fast with no preheating and makes enough to feed a crowd-from zucchini fries to hot wings. Main dishes also shine, thanks to fan convection that distributes heat to all areas of the oven for more precise baking and roasting. When cooking is done, cleanup is quick and easy, with the 10-minute EasyClean cycle that helps keep your oven looking like new. Color: PrintProof Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/bb77d73e-e256-43ab-8f9a-8471737eaa6f/svn/stainless-steel-lg-electronics-single-oven-gas-ranges-lrgl5823s-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-5-8-cu-ft-Smart-Wi-Fi-Enabled-Fan-Convection-Gas-Single-Oven-Range-with-AirFry-and-EasyClean-in-Stainless-Steel-LRGL5823S/312460439",
+        "Description": "Why buy yet another gadget that takes up counter space? This LG range with built-in Air Fry delivers crispy flavor fast with no preheating and makes enough to feed a crowd-from zucchini fries to hot wings. Main dishes also shine, thanks to fan convection that distributes heat to all areas of the oven for more precise baking and roasting. When cooking is done, cleanup is quick and easy, with the 10-minute EasyClean cycle that helps keep your oven looking like new. Color: Stainless Steel.",
         "depth": "48.03",
         "height": "21.38",
         "width": "24.88",
-        "ratingValue": "4.5616",
-        "reviewCount": "333",
-        "price": 1099,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5387",
+        "reviewCount": "349",
+        "price": 898,
+        "priceValidUntil": "07/14/2021"
     },
-    "306309210": {
-        "product_id": 306309210,
-        "modelNbr": "RGBS400DMBB",
+    "306309196": {
+        "product_id": 306309196,
+        "modelNbr": "RGBS400DMWW",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
-        "Type2": "OTHER",
-        "Title": "Hotpoint 30 in. 4.8 cu. ft. Gas Range Oven in Black",
+        "Type2": "GE",
+        "Title": "Hotpoint 30 in. 4.8 cu. ft. Gas Range Oven in White",
         "Brand": "Hotpoint",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/8b34b452-3794-4b17-b617-3a1435f2eb97/svn/black-hotpoint-single-oven-gas-ranges-rgbs400dmbb-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Hotpoint-30-in-4-8-cu-ft-Gas-Range-Oven-in-Black-RGBS400DMBB/306309210",
-        "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/77eb591c-ac61-43d2-8e5e-4a8db70a820c/svn/white-hotpoint-single-oven-gas-ranges-rgbs400dmww-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Hotpoint-30-in-4-8-cu-ft-Gas-Range-Oven-in-White-RGBS400DMWW/306309196",
+        "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: White.",
         "depth": "46.375",
         "height": "18.5",
         "width": "24",
-        "ratingValue": "4.4095",
-        "reviewCount": "105",
+        "ratingValue": "4.3874",
+        "reviewCount": "111",
         "price": 558,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "304524255": {
         "product_id": 304524255,
@@ -711,7 +717,7 @@
         "ratingValue": "5.0",
         "reviewCount": "2",
         "price": 3599,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "306308843": {
         "product_id": 306308843,
@@ -728,10 +734,10 @@
         "depth": "46.75",
         "height": "18.5",
         "width": "24",
-        "ratingValue": "4.1341",
-        "reviewCount": "82",
+        "ratingValue": "4.1647",
+        "reviewCount": "85",
         "price": 485,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "302750787": {
         "product_id": 302750787,
@@ -750,28 +756,28 @@
         "width": "24.5",
         "ratingValue": "4.4365",
         "reviewCount": "630",
-        "price": 1049,
-        "priceValidUntil": "6/21/2021"
+        "price": null,
+        "priceValidUntil": "7/3/2021"
     },
-    "206942967": {
-        "product_id": 206942967,
-        "modelNbr": "JGBS60DEKWW",
+    "206943060": {
+        "product_id": 206943060,
+        "modelNbr": "JGBS60DEKBB",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "GE",
-        "Title": "30 in. 4.8 cu. ft. Gas Range in White",
+        "Title": "30 in. 4.8 cu. ft. Gas Range in Black",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/d6dd9aab-f44b-407a-9d99-5e0a913f286e/svn/white-ge-single-oven-gas-ranges-jgbs60dekww-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-4-8-cu-ft-Gas-Range-in-White-JGBS60DEKWW/206942967",
-        "Description": "Your GE 30 in. 4.8 cu. ft. Gas Range in White has a Precise Simmer burner to allow cooking of delicate foods with low, even heat. This four-burner range with Broiler Drawer gives you enough room to cook an entire meal at once. Electronic Touch oven controls let you to set temperatures easily for any baking/roasting functions. The one-piece upswept cooktop makes cleanups easy. GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances adds allure and functionality to any kitchen.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/3a0705ed-a596-46ab-8ac3-a4484b62ed09/svn/black-ge-single-oven-gas-ranges-jgbs60dekbb-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-4-8-cu-ft-Gas-Range-in-Black-JGBS60DEKBB/206943060",
+        "Description": "Your GE 30 in. 4.8 cu. ft. Gas Range in Black has a Precise Simmer burner to allow cooking of delicate foods with low, even heat. This four-burner range with Broiler Drawer gives you enough room to cook an entire meal at once. Electronic Touch oven controls let you to set temperatures easily for any baking/roasting functions. The one-piece upswept cooktop makes cleanups easy. GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances adds allure and functionality to any kitchen.",
         "depth": "46.25",
         "height": "18.5",
         "width": "24",
-        "ratingValue": "4.4423",
-        "reviewCount": "1578",
+        "ratingValue": "4.4447",
+        "reviewCount": "1592",
         "price": 584,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "303501818": {
         "product_id": 303501818,
@@ -790,8 +796,8 @@
         "width": "24.5",
         "ratingValue": "4.2162",
         "reviewCount": "37",
-        "price": 799,
-        "priceValidUntil": "6/21/2021"
+        "price": null,
+        "priceValidUntil": "7/3/2021"
     },
     "314013046": {
         "product_id": 314013046,
@@ -810,8 +816,8 @@
         "width": "24",
         "ratingValue": "4.0",
         "reviewCount": "8",
-        "price": 1799.99,
-        "priceValidUntil": "6/21/2021"
+        "price": 1499.99,
+        "priceValidUntil": "07/02/2021"
     },
     "205977147": {
         "product_id": 205977147,
@@ -830,28 +836,28 @@
         "width": "24.13",
         "ratingValue": "4.4978",
         "reviewCount": "894",
-        "price": 1399,
-        "priceValidUntil": "6/21/2021"
+        "price": 1349,
+        "priceValidUntil": "07/14/2021"
     },
-    "313928660": {
-        "product_id": 313928660,
-        "modelNbr": "NX58T7511SG",
+    "313928643": {
+        "product_id": 313928643,
+        "modelNbr": "NX58T7511SS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "SAMSUNG",
-        "Title": "Samsung 30 in. 5.9 cu. ft. Single Oven Gas Range with Air Fry, True Convection in Black Stainless Steel",
+        "Title": "Samsung 30 in. 5.9 cu. ft. Single Oven Gas Range with Air Fry, True Convection in Stainless Steel, Silver",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/cafac9ba-e8d8-49a7-9d15-be84e116ea1d/svn/black-stainless-steel-samsung-single-oven-gas-ranges-nx58t7511sg-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-30-in-5-9-cu-ft-Single-Oven-Gas-Range-with-Air-Fry-True-Convection-in-Black-Stainless-Steel-NX58T7511SG/313928660",
-        "Description": "The Samsung 5.8 cu. ft. Freestanding Gas Range offers a powerful, flexible cooktop that cooks faster with 5 specialized elements. Air Fry technology with rack included right in the oven for healthier and delicious meals. True Convection distributes heat throughout the oven faster and more evenly, saving more time than traditional ovens. Color: Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/ba9f1b4d-7afd-48a4-a730-487faa5fe021/svn/stainless-steel-samsung-single-oven-gas-ranges-nx58t7511ss-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-30-in-5-9-cu-ft-Single-Oven-Gas-Range-with-Air-Fry-True-Convection-in-Stainless-Steel-NX58T7511SS/313928643",
+        "Description": "The Samsung 5.8 cu. ft. Freestanding Gas Range offers a powerful, flexible cooktop that cooks faster with 5 specialized elements. Air Fry technology with rack included right in the oven for healthier and delicious meals. True Convection distributes heat throughout the oven faster and more evenly, saving more time than traditional ovens. Rapid Boil offers intense heat and precise control, for fast and even cooking. Color: Stainless Steel.",
         "depth": "23.5",
         "height": "18.94",
         "width": "25",
-        "ratingValue": "4.5971",
-        "reviewCount": "139",
-        "price": 1168,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.5957",
+        "reviewCount": "141",
+        "price": 1199,
+        "priceValidUntil": "07/15/2021"
     },
     "314610597": {
         "product_id": 314610597,
@@ -871,7 +877,7 @@
         "ratingValue": "5.0",
         "reviewCount": "1",
         "price": 2348,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312591107": {
         "product_id": 312591107,
@@ -891,7 +897,7 @@
         "ratingValue": "4.7812",
         "reviewCount": "32",
         "price": 2549.96,
-        "priceValidUntil": "06/30/2021"
+        "priceValidUntil": "07/09/2021"
     },
     "207189393": {
         "product_id": 207189393,
@@ -911,7 +917,7 @@
         "ratingValue": "3.0",
         "reviewCount": "2",
         "price": 1423,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312994349": {
         "product_id": 312994349,
@@ -930,8 +936,8 @@
         "width": "24.9",
         "ratingValue": "5.0",
         "reviewCount": "1",
-        "price": 2999,
-        "priceValidUntil": "06/22/2021"
+        "price": 3199,
+        "priceValidUntil": "7/3/2021"
     },
     "311898337": {
         "product_id": 311898337,
@@ -948,10 +954,10 @@
         "depth": "46.625",
         "height": "18.625",
         "width": "24.38",
-        "ratingValue": "4.5009",
-        "reviewCount": "1751",
-        "price": 1249,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5056",
+        "reviewCount": "1794",
+        "price": 1098,
+        "priceValidUntil": "07/14/2021"
     },
     "205068602": {
         "product_id": 205068602,
@@ -968,30 +974,30 @@
         "depth": "45.25",
         "height": "18.38",
         "width": "19",
-        "ratingValue": "4.4138",
-        "reviewCount": "4171",
-        "price": 799,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4143",
+        "reviewCount": "4178",
+        "price": 719,
+        "priceValidUntil": "07/14/2021"
     },
-    "309338893": {
-        "product_id": 309338893,
-        "modelNbr": "NX58R4311SG",
+    "309338848": {
+        "product_id": 309338848,
+        "modelNbr": "NX58R4311SS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "SAMSUNG",
-        "Title": "Samsung 30 in. 5.8 cu. ft. Gas Range with Self-Cleaning Oven in Fingerprint Resistant Black Stainless, Fingerprint Resistant Black Stainless Steel",
+        "Title": "Samsung 30 in. 5.8 cu. ft. Gas Range with Self-Cleaning Oven in Stainless Steel, Silver",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/52167728-2e1e-4bba-b690-63c70c17fce3/svn/fingerprint-resistant-black-stainless-steel-samsung-single-oven-gas-ranges-nx58r4311sg-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-30-in-5-8-cu-ft-Gas-Range-with-Self-Cleaning-Oven-in-Fingerprint-Resistant-Black-Stainless-NX58R4311SG/309338893",
-        "Description": "The Samsung 5.8 cu. ft. Freestanding Gas Range offers large capacity and a powerful and flexible cooktop that cooks faster with 5 specialized burners including a 17K BTU Power Burner and a 5K simmer burner. Cooking capacity, convenience, and effectiveness come together in this stainless steel range. Color: Fingerprint Resistant Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/b770af6b-d505-4221-9848-cb455ea2156d/svn/stainless-steel-samsung-single-oven-gas-ranges-nx58r4311ss-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-30-in-5-8-cu-ft-Gas-Range-with-Self-Cleaning-Oven-in-Stainless-Steel-NX58R4311SS/309338848",
+        "Description": "The Samsung 5.8 cu. ft. Freestanding Gas Range offers large capacity and a powerful and flexible cooktop that cooks faster with 5 specialized burners including a 17K BTU Power Burner and a 5K simmer burner. Cooking capacity, convenience, and effectiveness come together in this stainless steel range. The Samsung 5.8 cu. ft. Freestanding Gas Range offers a premium look and large cooking space for greater flexibility when using multiple pots and pans.",
         "depth": "25",
         "height": "20",
         "width": "25",
-        "ratingValue": "4.5971",
-        "reviewCount": "1256",
-        "price": 898,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.5903",
+        "reviewCount": "1262",
+        "price": 999,
+        "priceValidUntil": "07/15/2021"
     },
     "302621600": {
         "product_id": 302621600,
@@ -1008,10 +1014,10 @@
         "depth": "46.25",
         "height": "18.5",
         "width": "24",
-        "ratingValue": "4.445",
-        "reviewCount": "3079",
+        "ratingValue": "4.4456",
+        "reviewCount": "3124",
         "price": 566,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205074325": {
         "product_id": 205074325,
@@ -1028,10 +1034,10 @@
         "depth": "45.21",
         "height": "18.38",
         "width": "19",
-        "ratingValue": "4.019",
-        "reviewCount": "263",
-        "price": 549,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.0226",
+        "reviewCount": "265",
+        "price": 494,
+        "priceValidUntil": "07/14/2021"
     },
     "301868361": {
         "product_id": 301868361,
@@ -1050,8 +1056,8 @@
         "width": "25",
         "ratingValue": "4.2348",
         "reviewCount": "132",
-        "price": 2099,
-        "priceValidUntil": "6/21/2021"
+        "price": 1889,
+        "priceValidUntil": "07/14/2021"
     },
     "206859865": {
         "product_id": 206859865,
@@ -1068,10 +1074,10 @@
         "depth": "25",
         "height": "11",
         "width": "25",
-        "ratingValue": "4.149",
-        "reviewCount": "208",
+        "ratingValue": "4.134",
+        "reviewCount": "209",
         "price": 1698,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "311361688": {
         "product_id": 311361688,
@@ -1090,8 +1096,8 @@
         "width": "24.5",
         "ratingValue": "4.1522",
         "reviewCount": "46",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "313903481": {
         "product_id": 313903481,
@@ -1108,10 +1114,10 @@
         "depth": "44",
         "height": "15",
         "width": "24",
-        "ratingValue": "4.8889",
-        "reviewCount": "18",
+        "ratingValue": "4.9",
+        "reviewCount": "20",
         "price": 2097,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "206215089": {
         "product_id": 206215089,
@@ -1128,10 +1134,10 @@
         "depth": "44",
         "height": "15",
         "width": "24",
-        "ratingValue": "4.7692",
-        "reviewCount": "13",
+        "ratingValue": "4.8",
+        "reviewCount": "15",
         "price": 2192.87,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "315492998": {
         "product_id": 315492998,
@@ -1148,30 +1154,30 @@
         "depth": "48",
         "height": "21.6",
         "width": "24.8",
-        "ratingValue": "4.0",
-        "reviewCount": "4",
+        "ratingValue": "4.2",
+        "reviewCount": "5",
         "price": 849,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "315493149": {
-        "product_id": 315493149,
-        "modelNbr": "NX60A6711SS",
+    "315493285": {
+        "product_id": 315493285,
+        "modelNbr": "NX60A6711ST",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "SAMSUNG",
-        "Title": "Samsung 6.0 cu. ft. Smart Freestanding Gas Range with Air Fry and Stainless Cooktop in Stainless Steel, Silver",
+        "Title": "Samsung 6.0 cu. ft. Smart Freestanding Gas Range with Air Fry in Fingerprint Resistant Tuscan Stainless Steel",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/19d90ec8-5682-42c4-8880-6ae2e69cd55a/svn/stainless-steel-samsung-single-oven-gas-ranges-nx60a6711ss-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-6-0-cu-ft-Smart-Freestanding-Gas-Range-with-Air-Fry-and-Stainless-Cooktop-in-Stainless-Steel-NX60A6711SS/315493149",
-        "Description": "Elevate the look of your kitchen with Samsung's new Smart Freestanding Gas Range. Our stainless steel design completely covers all cooktop and backguard surfaces. Upgraded technology makes cooking simple and fun.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/4e860442-5bd0-4573-83d5-259827a3a120/svn/fingerprint-resistant-tuscan-stainless-steel-samsung-single-oven-gas-ranges-nx60a6711st-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-6-0-cu-ft-Smart-Freestanding-Gas-Range-with-Air-Fry-in-Fingerprint-Resistant-Tuscan-Stainless-Steel-NX60A6711ST/315493285",
+        "Description": "Elevate the look of your kitchen with Samsung's new Smart Freestanding Gas Range. This large 6.0 cu. ft. oven can fit multiple dishes at one time and can easily accommodate big casserole dishes and large roasting pans. Upgraded technology makes cooking simple and fun. Color: Fingerprint Resistant Tuscan Stainless Steel.",
         "depth": "48",
         "height": "21.6",
         "width": "24.8",
-        "ratingValue": "4.2",
-        "reviewCount": "10",
-        "price": 1119,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6",
+        "reviewCount": "20",
+        "price": 1209,
+        "priceValidUntil": "07/14/2021"
     },
     "302844237": {
         "product_id": 302844237,
@@ -1188,10 +1194,10 @@
         "depth": "48",
         "height": "18.13",
         "width": "24.5",
-        "ratingValue": "4.4892",
-        "reviewCount": "139",
-        "price": 1249,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4857",
+        "reviewCount": "140",
+        "price": 1214,
+        "priceValidUntil": "07/14/2021"
     },
     "205389958": {
         "product_id": 205389958,
@@ -1208,10 +1214,10 @@
         "depth": "43",
         "height": "15",
         "width": "25",
-        "ratingValue": "3.4516",
-        "reviewCount": "31",
+        "ratingValue": "3.0",
+        "reviewCount": "13",
         "price": 833,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "206195612": {
         "product_id": 206195612,
@@ -1228,10 +1234,10 @@
         "depth": "44",
         "height": "15",
         "width": "24",
-        "ratingValue": "4.2",
-        "reviewCount": "25",
+        "ratingValue": "4.2593",
+        "reviewCount": "27",
         "price": 2116.12,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "207175718": {
         "product_id": 207175718,
@@ -1251,27 +1257,7 @@
         "ratingValue": "4.0",
         "reviewCount": "7",
         "price": 1539.99,
-        "priceValidUntil": "6/21/2021"
-    },
-    "314882036": {
-        "product_id": 314882036,
-        "modelNbr": "RGS-SN-30",
-        "Category": "APPLIANCES",
-        "ApplType": "COOKING",
-        "Type1": "FREE STANDING GAS",
-        "Type2": "OTHER",
-        "Title": "ZLINE Kitchen and Bath 30 in. 4.0 cu.ft. Gas Range with Convection Gas Oven in DuraSnow Stainless Steel Finish (RGS-SN-30)",
-        "Brand": "ZLINE Kitchen and Bath",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/e5cdb22b-bead-4ec8-b96b-18ec8280609b/svn/durasnow-stainless-steel-zline-kitchen-and-bath-single-oven-gas-ranges-rgs-sn-30-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/ZLINE-Kitchen-and-Bath-30-in-4-0-cu-ft-Gas-Range-with-Convection-Gas-Oven-in-DuraSnow-Stainless-Steel-Finish-RGS-SN-30-RGS-SN-30/314882036",
-        "Description": "Experience Attainable Luxury with the ZLINE DuraSnow All Gas Professional Range. Combining both professional aesthetics and functionality, this range provides the ultimate luxury experience for a fraction of the cost. Achieve optimal results with cooktop cooking power from 4,200 up to 18,000 BTUs provided with sealed burners. Ignite your culinary experience with an all gas oven, allowing for a faster, more efficient heat and moisture distribution. Enjoy an ultra-deep oven capacity with a three-layered insulated glass oven for even, precise cooking every use. With upgraded premium features such as SmoothSlide ball-bearing oven racks, dual lighting, and adjustable legs, this range is certain to wow both the chef and guests alike. Assembled with the highest quality materials on the market, this range offers a durable, scratch-resistant porcelain cooktop and ZLINE's exclusive single piece cast iron grate. Cook with ease with StayPut Italian hinges, providing a safe baking environment to enjoy for years to come. ZLINE stands by the longevity and durability of their professional ranges, while ensuring further protection and peace of mind with a worry-free warranty. The ZLINE All Gas Range ships next business day when in stock. Color: DuraSnow Stainless Steel.",
-        "depth": "39.5",
-        "height": "14",
-        "width": "26.5",
-        "ratingValue": "4.7895",
-        "reviewCount": "38",
-        "price": 2124.96,
-        "priceValidUntil": "06/30/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312107701": {
         "product_id": 312107701,
@@ -1288,10 +1274,10 @@
         "depth": "46.625",
         "height": "18.625",
         "width": "24.38",
-        "ratingValue": "4.7296",
-        "reviewCount": "477",
+        "ratingValue": "4.7288",
+        "reviewCount": "483",
         "price": 1034,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "304518031": {
         "product_id": 304518031,
@@ -1311,7 +1297,7 @@
         "ratingValue": "2.5",
         "reviewCount": "2",
         "price": 3499,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "304523959": {
         "product_id": 304523959,
@@ -1331,27 +1317,27 @@
         "ratingValue": "4.5",
         "reviewCount": "2",
         "price": 3599,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "304517563": {
-        "product_id": 304517563,
-        "modelNbr": "HGR30BSBU",
+    "304517399": {
+        "product_id": 304517399,
+        "modelNbr": "HGR30BSWT",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "OTHER",
-        "Title": "Hallman 30 in. 3.0 cu. ft. Single Oven Italian Gas Range with True Convection, 5 Burners, Brass Trim in Blue",
+        "Title": "Hallman 30 in. 3.0 cu. ft. Single Oven Italian Gas Range with True Convection, 5 Burners, Brass Trim in White",
         "Brand": "Hallman",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/df7f94b2-7812-4531-9082-29638e2172cd/svn/blue-hallman-single-oven-gas-ranges-hgr30bsbu-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Hallman-30-in-3-0-cu-ft-Single-Oven-Italian-Gas-Range-with-True-Convection-5-Burners-Brass-Trim-in-Blue-HGR30BSBU/304517563",
-        "Description": "Hallman Professional Ranges marry elegant design with impeccable cooking performance. The five sealed Italian brass burners provide a perfect blend of power and precision, with infinite heat setting capability ranging from a searing 15,500 BTU, down to simmering 1260 BTU. Heavy-duty cast-iron grates provide a single continuous cooking surface, making it easy and safe to maneuver cookware from one burner to another. The 3 cu. ft. true European convection oven provides even heat distribution for perfect results, complete with convection bake, convection broil, grill baking, and standard bake functions. In addition, the oven includes electric rotisserie hardware and triple-pane glass window for added safety that can easily be removed for cleaning. Beneath the oven there is a full-width drawer designed to keep dishes warm between 125 - 200 before serving. Traditional manual controls and durable components minimize costly service repairs over the lifespan of the product. Hallman ranges are available in an array of colors and configurations with unique options and accessories, allowing the ability to customize to suit your taste. Hallman is the premium brand engineered for those who are passionate about cooking with the finest quality. Decades of proven craftsmanship ensure every Hallman range will be in service and style for generations. Handmade in Italy, our classic European design will create an elegant focal point to every kitchen they adorn. Color: Blue.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/f34f16cd-6c65-4471-a28d-06d09ebe64f6/svn/white-hallman-single-oven-gas-ranges-hgr30bswt-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Hallman-30-in-3-0-cu-ft-Single-Oven-Italian-Gas-Range-with-True-Convection-5-Burners-Brass-Trim-in-White-HGR30BSWT/304517399",
+        "Description": "Hallman Professional Ranges marry elegant design with impeccable cooking performance. The five sealed Italian brass burners provide a perfect blend of power and precision, with infinite heat setting capability ranging from a searing 15,500 BTU, down to simmering 1260 BTU. Heavy-duty cast-iron grates provide a single continuous cooking surface, making it easy and safe to maneuver cookware from one burner to another. The 3 cu. ft. true European convection oven provides even heat distribution for perfect results, complete with convection bake, convection broil, grill baking, and standard bake functions. In addition, the oven includes electric rotisserie hardware and triple-pane glass window for added safety that can easily be removed for cleaning. Beneath the oven there is a full-width drawer designed to keep dishes warm between 125 - 200 before serving. Traditional manual controls and durable components minimize costly service repairs over the lifespan of the product. Hallman ranges are available in an array of colors and configurations with unique options and accessories, allowing the ability to customize to suit your taste. Hallman is the premium brand engineered for those who are passionate about cooking with the finest quality. Decades of proven craftsmanship ensure every Hallman range will be in service and style for generations. Handmade in Italy, our classic European design will create an elegant focal point to every kitchen they adorn. Color: White.",
         "depth": "37",
         "height": "14",
         "width": "21.2598",
-        "ratingValue": "3.5",
-        "reviewCount": "6",
+        "ratingValue": "3.1429",
+        "reviewCount": "7",
         "price": 3299,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "302848111": {
         "product_id": 302848111,
@@ -1370,8 +1356,8 @@
         "width": "24.38",
         "ratingValue": "4.2566",
         "reviewCount": "113",
-        "price": 1399,
-        "priceValidUntil": "6/21/2021"
+        "price": 1349,
+        "priceValidUntil": "07/14/2021"
     },
     "311223507": {
         "product_id": 311223507,
@@ -1388,10 +1374,10 @@
         "depth": "46.625",
         "height": "18.625",
         "width": "24.38",
-        "ratingValue": "4.4697",
-        "reviewCount": "264",
+        "ratingValue": "4.4539",
+        "reviewCount": "271",
         "price": 566,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "314114523": {
         "product_id": 314114523,
@@ -1411,7 +1397,7 @@
         "ratingValue": "5.0",
         "reviewCount": "3",
         "price": 2199.99,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "300144450": {
         "product_id": 300144450,
@@ -1428,10 +1414,10 @@
         "depth": "46.56",
         "height": "18.13",
         "width": "24.5",
-        "ratingValue": "4.4471",
-        "reviewCount": "170",
-        "price": 849,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4477",
+        "reviewCount": "172",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "306757811": {
         "product_id": 306757811,
@@ -1448,30 +1434,30 @@
         "depth": "45",
         "height": "18.625",
         "width": "24.38",
-        "ratingValue": "4.4318",
-        "reviewCount": "850",
-        "price": 1299,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4306",
+        "reviewCount": "857",
+        "price": 998,
+        "priceValidUntil": "07/07/2021"
     },
-    "313241905": {
-        "product_id": 313241905,
-        "modelNbr": "JGBS61RPSS",
+    "313241319": {
+        "product_id": 313241319,
+        "modelNbr": "JGBS61DPWW",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "GE",
-        "Title": "30 in. 4.8 cu. ft. Gas Range in Stainless Steel, Silver",
+        "Title": "30 in. 4.8 cu. ft. Gas Range in White",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/47010ba5-8df7-40b9-8e10-88e29c05c0a2/svn/stainless-steel-ge-single-oven-gas-ranges-jgbs61rpss-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-4-8-cu-ft-Gas-Range-in-Stainless-Steel-JGBS61RPSS/313241905",
-        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/1da23d35-f3db-4bf0-8d0c-60ac1b8ce2e8/svn/white-ge-single-oven-gas-ranges-jgbs61dpww-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-4-8-cu-ft-Gas-Range-in-White-JGBS61DPWW/313241319",
+        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: White.",
         "depth": "46.25",
         "height": "18.5",
         "width": "24",
-        "ratingValue": "4.4887",
-        "reviewCount": "309",
-        "price": 674,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.5289",
+        "reviewCount": "380",
+        "price": 628,
+        "priceValidUntil": "07/14/2021"
     },
     "311373984": {
         "product_id": 311373984,
@@ -1488,10 +1474,10 @@
         "depth": "46.56",
         "height": "18.88",
         "width": "24.5",
-        "ratingValue": "4.5735",
-        "reviewCount": "136",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5766",
+        "reviewCount": "137",
+        "price": 989,
+        "priceValidUntil": "07/14/2021"
     },
     "316332523": {
         "product_id": 316332523,
@@ -1508,10 +1494,10 @@
         "depth": "44",
         "height": "14",
         "width": "24",
-        "ratingValue": "2.5",
-        "reviewCount": "2",
-        "price": 1349.99,
-        "priceValidUntil": "07/07/2021"
+        "ratingValue": "3.5",
+        "reviewCount": "4",
+        "price": 1499.99,
+        "priceValidUntil": "7/3/2021"
     },
     "206290120": {
         "product_id": 206290120,
@@ -1528,10 +1514,10 @@
         "depth": "40.93",
         "height": "14.25",
         "width": "24.81",
-        "ratingValue": "4.4027",
-        "reviewCount": "730",
-        "price": 1699,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3951",
+        "reviewCount": "739",
+        "price": 1398,
+        "priceValidUntil": "07/14/2021"
     },
     "207173043": {
         "product_id": 207173043,
@@ -1551,7 +1537,7 @@
         "ratingValue": "2.5",
         "reviewCount": "4",
         "price": 1449,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "308797875": {
         "product_id": 308797875,
@@ -1568,10 +1554,10 @@
         "depth": "45.5",
         "height": "15",
         "width": "26.5",
-        "ratingValue": "4.0446",
-        "reviewCount": "112",
+        "ratingValue": "4.069",
+        "reviewCount": "116",
         "price": 1954.96,
-        "priceValidUntil": "06/30/2021"
+        "priceValidUntil": "07/09/2021"
     },
     "202988018": {
         "product_id": 202988018,
@@ -1591,7 +1577,7 @@
         "ratingValue": "3.9574",
         "reviewCount": "47",
         "price": 690.06,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "304517916": {
         "product_id": 304517916,
@@ -1611,27 +1597,27 @@
         "ratingValue": "5.0",
         "reviewCount": "2",
         "price": 3499,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "206943135": {
-        "product_id": 206943135,
-        "modelNbr": "JGBS66REKSS",
+    "206943111": {
+        "product_id": 206943111,
+        "modelNbr": "JGBS66DEKBB",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
-        "Type2": "GE",
-        "Title": "30 in. 5.0 cu. ft. Gas Range in Stainless Steel, Silver",
+        "Type2": "OTHER",
+        "Title": "5.0 cu. ft. Gas Range with Steam Cleaning Oven in Black",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/c146bc45-9799-4e56-8a26-e967cc0b4790/svn/stainless-steel-ge-single-oven-gas-ranges-jgbs66rekss-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-5-0-cu-ft-Gas-Range-in-Stainless-Steel-JGBS66REKSS/206943135",
-        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/116ca9a6-b285-4dba-88fb-16543a6ed7a9/svn/black-ge-single-oven-gas-ranges-jgbs66dekbb-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-5-0-cu-ft-Gas-Range-with-Steam-Cleaning-Oven-in-Black-JGBS66DEKBB/206943111",
+        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: Black.",
         "depth": "46.25",
         "height": "19",
         "width": "24",
-        "ratingValue": "4.6592",
-        "reviewCount": "11805",
-        "price": 764,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6591",
+        "reviewCount": "11911",
+        "price": 674,
+        "priceValidUntil": "07/14/2021"
     },
     "308550564": {
         "product_id": 308550564,
@@ -1651,7 +1637,7 @@
         "ratingValue": "5.0",
         "reviewCount": "2",
         "price": 2299,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "205078350": {
         "product_id": 205078350,
@@ -1668,30 +1654,10 @@
         "depth": "45.21",
         "height": "18.38",
         "width": "19",
-        "ratingValue": "3.9604",
-        "reviewCount": "1187",
-        "price": 749,
-        "priceValidUntil": "6/21/2021"
-    },
-    "311223478": {
-        "product_id": 311223478,
-        "modelNbr": "FCRG3015AB",
-        "Category": "APPLIANCES",
-        "ApplType": "COOKING",
-        "Type1": "FREE STANDING GAS",
-        "Type2": "FRIGIDAIRE",
-        "Title": "Frigidaire 30 in. 5.0 cu. ft. Gas Range with Manual Clean in Black",
-        "Brand": "Frigidaire",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/8cd309d5-5c8e-4562-a942-16def4c7fe3f/svn/black-frigidaire-single-oven-gas-ranges-fcrg3015ab-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Frigidaire-30-in-5-0-cu-ft-Gas-Range-with-Manual-Clean-in-Black-FCRG3015AB/311223478",
-        "Description": "The Frigidaire 30 in. Gas Range gives you more cooking flexibility with a 5.0 cu. ft. capacity oven and storage drawer. The cooktop features 4 Sealed Gas Burners including a 14,000 BTU Burner and a Low-Simmer Burner, so you can have precise temperature control with high and low heat. The extra-large oven window allows you to easily see what's cooking inside. Color: Black.",
-        "depth": "46.625",
-        "height": "18.625",
-        "width": "24.38",
-        "ratingValue": "4.4697",
-        "reviewCount": "264",
-        "price": 566,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "3.9518",
+        "reviewCount": "1204",
+        "price": 549,
+        "priceValidUntil": "07/14/2021"
     },
     "313882300": {
         "product_id": 313882300,
@@ -1711,7 +1677,7 @@
         "ratingValue": "4.1429",
         "reviewCount": "7",
         "price": 3399,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "315781219": {
         "product_id": 315781219,
@@ -1730,8 +1696,8 @@
         "width": "24",
         "ratingValue": "5.0",
         "reviewCount": "3",
-        "price": 2720.25,
-        "priceValidUntil": "06/30/2021"
+        "price": 2632.5,
+        "priceValidUntil": "07/31/2021"
     },
     "204590993": {
         "product_id": 204590993,
@@ -1751,7 +1717,7 @@
         "ratingValue": "3.375",
         "reviewCount": "8",
         "price": 745,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "313246979": {
         "product_id": 313246979,
@@ -1768,10 +1734,10 @@
         "depth": "43.5",
         "height": "15",
         "width": "24",
-        "ratingValue": "4.6089",
-        "reviewCount": "381",
+        "ratingValue": "4.6076",
+        "reviewCount": "395",
         "price": 1438,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "203358163": {
         "product_id": 203358163,
@@ -1791,7 +1757,7 @@
         "ratingValue": "3.627",
         "reviewCount": "126",
         "price": 875.7,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "315491750": {
         "product_id": 315491750,
@@ -1808,10 +1774,10 @@
         "depth": "48",
         "height": "21.6",
         "width": "24.8",
-        "ratingValue": "4.8889",
-        "reviewCount": "9",
+        "ratingValue": "4.6667",
+        "reviewCount": "12",
         "price": 718,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "306308806": {
         "product_id": 306308806,
@@ -1831,27 +1797,27 @@
         "ratingValue": "3.9518",
         "reviewCount": "83",
         "price": 558,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "314138054": {
-        "product_id": 314138054,
-        "modelNbr": "JGB735DPWW",
+    "314138082": {
+        "product_id": 314138082,
+        "modelNbr": "JGB735SPSS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING GAS",
         "Type2": "GE",
-        "Title": "30 in. 5.0 cu. ft. Gas Range with Self-Cleaning Convection Oven and Air Fry in White",
+        "Title": "30 in. 5.0 cu. ft. Gas Range with Self-Cleaning Convection Oven and Air Fry in Stainless Steel, Silver",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/25a74e38-e9ea-40d6-8cae-872139c3d5c0/svn/white-ge-single-oven-gas-ranges-jgb735dpww-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-5-0-cu-ft-Gas-Range-with-Self-Cleaning-Convection-Oven-and-Air-Fry-in-White-JGB735DPWW/314138054",
-        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/741f9d89-74a9-45b4-9cb8-904d2926f901/svn/stainless-steel-ge-single-oven-gas-ranges-jgb735spss-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-5-0-cu-ft-Gas-Range-with-Self-Cleaning-Convection-Oven-and-Air-Fry-in-Stainless-Steel-JGB735SPSS/314138082",
+        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: Stainless Steel.",
         "depth": "46.25",
         "height": "19",
         "width": "24",
-        "ratingValue": "4.6843",
-        "reviewCount": "2319",
-        "price": 1149,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.6853",
+        "reviewCount": "2367",
+        "price": 948,
+        "priceValidUntil": "07/14/2021"
     },
     "302863073": {
         "product_id": 302863073,
@@ -1868,10 +1834,10 @@
         "depth": "46.63",
         "height": "18.88",
         "width": "24.5",
-        "ratingValue": "4.4924",
-        "reviewCount": "591",
-        "price": 1099,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4899",
+        "reviewCount": "592",
+        "price": 1079,
+        "priceValidUntil": "07/14/2021"
     },
     "315781215": {
         "product_id": 315781215,
@@ -1890,8 +1856,8 @@
         "width": "24",
         "ratingValue": "5.0",
         "reviewCount": "4",
-        "price": 2557.5,
-        "priceValidUntil": "06/30/2021"
+        "price": 2475,
+        "priceValidUntil": "07/31/2021"
     },
     "311780769": {
         "product_id": 311780769,
@@ -1910,7 +1876,7 @@
         "width": "24",
         "ratingValue": "4.2222",
         "reviewCount": "36",
-        "price": 4299,
-        "priceValidUntil": "6/21/2021"
+        "price": 3869,
+        "priceValidUntil": "07/14/2021"
     }
 }

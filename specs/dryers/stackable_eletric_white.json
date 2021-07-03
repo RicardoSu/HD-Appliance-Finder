@@ -17,7 +17,7 @@
         "ratingValue": "4.2423",
         "reviewCount": "842",
         "price": 764,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "100089048": {
         "product_id": 100089048,
@@ -37,7 +37,7 @@
         "ratingValue": "3.1818",
         "reviewCount": "33",
         "price": 584,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "307760461": {
         "product_id": 307760461,
@@ -54,10 +54,10 @@
         "depth": "42.8125",
         "height": "17.5625",
         "width": "17.5625",
-        "ratingValue": "4.2649",
-        "reviewCount": "185",
-        "price": 1034,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.2688",
+        "reviewCount": "186",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "307685530": {
         "product_id": 307685530,
@@ -74,10 +74,10 @@
         "depth": "44.25",
         "height": "21",
         "width": "21",
-        "ratingValue": "4.1864",
-        "reviewCount": "59",
-        "price": 1079,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.127",
+        "reviewCount": "63",
+        "price": 898,
+        "priceValidUntil": "07/14/2021"
     },
     "207102720": {
         "product_id": 207102720,
@@ -96,8 +96,8 @@
         "width": "16",
         "ratingValue": "3.7899",
         "reviewCount": "276",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "price": 899,
+        "priceValidUntil": "07/14/2021"
     },
     "206870872": {
         "product_id": 206870872,
@@ -114,10 +114,10 @@
         "depth": "44.25",
         "height": "22",
         "width": "25",
-        "ratingValue": "2.9425",
-        "reviewCount": "87",
-        "price": 899,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "2.9205",
+        "reviewCount": "88",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "203576349": {
         "product_id": 203576349,
@@ -136,8 +136,8 @@
         "width": "22.75",
         "ratingValue": "4.3519",
         "reviewCount": "324",
-        "price": 749,
-        "priceValidUntil": "6/21/2021"
+        "price": 674,
+        "priceValidUntil": "07/14/2021"
     },
     "308184397": {
         "product_id": 308184397,
@@ -155,9 +155,9 @@
         "height": "0",
         "width": "0",
         "ratingValue": "4.4884",
-        "reviewCount": "645",
-        "price": 1049,
-        "priceValidUntil": "6/21/2021"
+        "reviewCount": "647",
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
     "100091470": {
         "product_id": 100091470,
@@ -174,10 +174,10 @@
         "depth": "42.875",
         "height": "20.58",
         "width": "20.58",
-        "ratingValue": "3.7267",
-        "reviewCount": "300",
+        "ratingValue": "3.7078",
+        "reviewCount": "308",
         "price": 584,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "308184645": {
         "product_id": 308184645,
@@ -196,8 +196,8 @@
         "width": "0",
         "ratingValue": "4.3939",
         "reviewCount": "165",
-        "price": 1249,
-        "priceValidUntil": "6/21/2021"
+        "price": 1124,
+        "priceValidUntil": "07/14/2021"
     },
     "301135032": {
         "product_id": 301135032,
@@ -214,10 +214,10 @@
         "depth": "28.5",
         "height": "10.5",
         "width": "10.5",
-        "ratingValue": "3.7852",
-        "reviewCount": "419",
+        "ratingValue": "3.7857",
+        "reviewCount": "420",
         "price": 359.65,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "316457781": {
         "product_id": 316457781,
@@ -234,30 +234,30 @@
         "depth": "45.25",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "5.0",
-        "reviewCount": "2",
-        "price": 1099,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "3.7143",
+        "reviewCount": "7",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
-    "309167677": {
-        "product_id": 309167677,
-        "modelNbr": "DVE45R6100W",
+    "311996361": {
+        "product_id": 311996361,
+        "modelNbr": "DVE45R6100P",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "STEAM DRY ELEC W/O HOSES",
         "Type2": "OTHER",
-        "Title": "Samsung 7.5 cu. ft. White Electric Dryer with Steam",
+        "Title": "Samsung 7.5 cu. ft. Platinum Electric Dryer with Steam, White",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/fcaaf643-5dc5-4775-98b1-85cb07d0a1e6/svn/white-samsung-electric-dryers-dve45r6100w-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-7-5-cu-ft-White-Electric-Dryer-with-Steam-DVE45R6100W/309167677",
-        "Description": "Advanced features like Steam Sanitize+ eliminate 99.9% of germs and bacteria1, while Multi-Steam technology relaxes and smooths away wrinkles from everyday wear. Sensor Dry optimizes cycle time and temperature to thoroughly dry without damaging your clothes, and Smart Care allows for easy troubleshooting from the convenience of your smartphone2. Bring inspiration to your laundry room with beautiful designer colors, including our Champagne finish. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/e5d85a2e-5e47-4f1e-bc64-b6b193002bf5/svn/platinum-samsung-electric-dryers-dve45r6100p-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-7-5-cu-ft-Platinum-Electric-Dryer-with-Steam-DVE45R6100P/311996361",
+        "Description": "Advanced features like Steam Sanitize+ eliminate 99.9% of germs and bacteria, while Multi-Steam technology relaxes and smooths away wrinkles from everyday wear. Sensor Dry optimizes cycle time and temperature to thoroughly dry without damaging your clothes, and Smart Care allows for easy troubleshooting from the convenience of your smartphone. Bring inspiration to your laundry room with the beautiful platinum finish.",
         "depth": "54.6",
-        "height": "38.75",
+        "height": "11.75",
         "width": "22",
-        "ratingValue": "4.4637",
-        "reviewCount": "1516",
+        "ratingValue": "4.4666",
+        "reviewCount": "1556",
         "price": 698,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "308239897": {
         "product_id": 308239897,
@@ -274,10 +274,10 @@
         "depth": "56.5",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.3769",
-        "reviewCount": "1048",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3794",
+        "reviewCount": "1057",
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "315280946": {
         "product_id": 315280946,
@@ -297,7 +297,7 @@
         "ratingValue": "3.2",
         "reviewCount": "5",
         "price": 1399,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "206984123": {
         "product_id": 206984123,
@@ -317,7 +317,7 @@
         "ratingValue": "4.0417",
         "reviewCount": "144",
         "price": 1299,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "310778385": {
         "product_id": 310778385,
@@ -336,8 +336,8 @@
         "width": "17.5625",
         "ratingValue": "4.5",
         "reviewCount": "10",
-        "price": 1169,
-        "priceValidUntil": "06/22/2021"
+        "price": 898,
+        "priceValidUntil": "07/14/2021"
     },
     "308692728": {
         "product_id": 308692728,
@@ -354,10 +354,10 @@
         "depth": "42.8125",
         "height": "33.75",
         "width": "17.5625",
-        "ratingValue": "3.6499",
-        "reviewCount": "397",
-        "price": 989,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "3.6527",
+        "reviewCount": "406",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "207197191": {
         "product_id": 207197191,
@@ -377,7 +377,7 @@
         "ratingValue": "3.6667",
         "reviewCount": "9",
         "price": 666.49,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312980603": {
         "product_id": 312980603,
@@ -397,7 +397,7 @@
         "ratingValue": "4.5385",
         "reviewCount": "13",
         "price": 944,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "312429301": {
         "product_id": 312429301,
@@ -414,30 +414,30 @@
         "depth": "51",
         "height": "38.69",
         "width": "27",
-        "ratingValue": "4.5461",
-        "reviewCount": "1051",
-        "price": 799,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5405",
+        "reviewCount": "1075",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
-    "311972499": {
-        "product_id": 311972499,
-        "modelNbr": "GFD65ESPNSN",
+    "311972500": {
+        "product_id": 311972500,
+        "modelNbr": "GFD65ESSNWW",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "STEAM DRY ELEC W/O HOSES",
         "Type2": "OTHER",
-        "Title": "GE 7.8 cu. ft. Smart 240-Volt Satin Nickel Stackable Electric Vented Dryer with Steam and Sanitize Cycle, ENERGY STAR",
+        "Title": "GE 7.8 cu. ft. Smart 240-Volt White Stackable Electric Vented Dryer with Steam and Sanitize Cycle, ENERGY STAR",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/b26bbc94-cb4c-4de8-b98f-10f9e200a0da/svn/satin-nickel-ge-electric-dryers-gfd65espnsn-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-7-8-cu-ft-Smart-240-Volt-Satin-Nickel-Stackable-Electric-Vented-Dryer-with-Steam-and-Sanitize-Cycle-ENERGY-STAR-GFD65ESPNSN/311972499",
-        "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: Satin Nickel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/2b4ebf25-0f72-4154-82eb-26513d948858/svn/white-ge-electric-dryers-gfd65essnww-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-7-8-cu-ft-Smart-240-Volt-White-Stackable-Electric-Vented-Dryer-with-Steam-and-Sanitize-Cycle-ENERGY-STAR-GFD65ESSNWW/311972500",
+        "Description": "GE appliances provides up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: White.",
         "depth": "54.5",
         "height": "22.5",
         "width": "22.5",
-        "ratingValue": "4.675",
-        "reviewCount": "1317",
-        "price": 1034,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6723",
+        "reviewCount": "1352",
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
     "313846237": {
         "product_id": 313846237,
@@ -454,70 +454,70 @@
         "depth": "52.625",
         "height": "36",
         "width": "36",
-        "ratingValue": "4.4776",
-        "reviewCount": "492",
+        "ratingValue": "4.4788",
+        "reviewCount": "495",
         "price": 678,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "306182174": {
-        "product_id": 306182174,
-        "modelNbr": "PAN760SFT",
+    "305517758": {
+        "product_id": 305517758,
+        "modelNbr": "PAN760SF",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FRONTLOAD ELECTRIC DRYER",
         "Type2": "OTHER",
-        "Title": "Panda 3.5 cu. ft. 110-Volt White and Black Compact Portable Electric Laundry Dryer, 13 lbs. Capacity",
+        "Title": "Panda 3.5 cu.ft. 110-Volt Compact Portable Electric Laundry Dryer, White and Black",
         "Brand": "Panda",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/8c6ecc3e-c4cd-40da-93b8-f1efe356e309/svn/white-and-black-panda-electric-dryers-pan760sft-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Panda-3-5-cu-ft-110-Volt-White-and-Black-Compact-Portable-Electric-Laundry-Dryer-13-lbs-Capacity-PAN760SFT/306182174",
-        "Description": "The Panda 3.5 cu. ft. Compact Dryer is the right choice for you and your family. It is a space-saving design which makes your laundry easy and simple. It is compact which is perfect for smaller laundry loads, you can use it in apartment, dorms, RVs, and it also can be the second dryer in your house. It features a large see-through window. Stainless Steel drum is durable and resists rust and chipping. It has a removable interior lint filter and a user-friendly control panel. Choose drying time, from 20 to 200 minutes. A wall-hanging bracket comes included, can be wall mounted. Regular 3 prongs 110 Voltage can be plugged anywhere, 1500 Watts of motor rate which may take a little longer to dry the clothes, but it saves the electricity bills. Color: White and Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/48d2454c-5430-46cf-b193-71b22872c102/svn/white-panda-electric-dryers-pan760sf-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Panda-3-5-cu-ft-110-Volt-Compact-Portable-Electric-Laundry-Dryer-White-and-Black-PAN760SF/305517758",
+        "Description": "The Panda 3.5 cu. ft. Compact Dryer is the right choice for you and your family. It is a space-saving design which makes your laundry easy and simple. It is compact which is perfect for smaller laundry loads, you can use it in apartment, dorms, RVs, and it also can be the second dryer in your house. It features a large see-through window. Stainless Steel drum is durable and resists rust and chipping. It has a removable interior lint filter and a user-friendly control panel. Choose drying time, from 20 to 200 minutes. Enhanced with an option of auto sensor function. A wall-hanging bracket comes included, can be wall mounted. Regular 3 prongs 110-Volt can be plugged anywhere, 1500-Watt of motor rate which may take a little longer to dry the clothes, but it saves the electricity bills. Color: White.",
         "depth": "37.5",
         "height": "27.6",
         "width": "31.5",
-        "ratingValue": "4.4082",
-        "reviewCount": "49",
-        "price": 325.37,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4038",
+        "reviewCount": "208",
+        "price": 349.17,
+        "priceValidUntil": "7/3/2021"
     },
-    "308088976": {
-        "product_id": 308088976,
-        "modelNbr": "WED9620HBK",
+    "308088986": {
+        "product_id": 308088986,
+        "modelNbr": "WED9620HW",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "STEAM DRY ELEC W/O HOSES",
         "Type2": "OTHER",
-        "Title": "Whirlpool 7.4 cu. ft. 240 Volt Black Shadow Stackable Smart Electric Vented Dryer with Remote Start, ENERGY STAR",
+        "Title": "Whirlpool 7.4 cu. ft. 240 Volt White Stackable Smart Electric Vented Dryer with Remote Start, ENERGY STAR",
         "Brand": "Whirlpool",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/c091172c-ddba-4d55-ad4e-31b486fdb7e2/svn/black-shadow-whirlpool-electric-dryers-wed9620hbk-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-7-4-cu-ft-240-Volt-Black-Shadow-Stackable-Smart-Electric-Vented-Dryer-with-Remote-Start-ENERGY-STAR-WED9620HBK/308088976",
-        "Description": "Care never stops. That's why the Whirlpool smart front load dryer helps you stay in control and connected from anywhere. Pair this dryer with the Whirlpool app to start drying and track progress when you're away. (Appliance must be set to remote enable. Wi-Fi and App required. Features subject to change. For details and privacy info., visit whirlpool.com/connect.). Color: Black Shadow.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/d723ff83-84e9-49c9-8740-883b945573ad/svn/white-whirlpool-electric-dryers-wed9620hw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-7-4-cu-ft-240-Volt-White-Stackable-Smart-Electric-Vented-Dryer-with-Remote-Start-ENERGY-STAR-WED9620HW/308088986",
+        "Description": "Care never stops. That's why the Whirlpool smart front load dryer helps you stay in control and connected from anywhere. Pair this dryer with the Whirlpool app to start drying and track progress when you're away. (Appliance must be set to remote enable. Wi-Fi and App required. Features subject to change. For details and privacy info., visit whirlpool.com/connect.). Color: White.",
         "depth": "54.5",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.4706",
-        "reviewCount": "51",
-        "price": 1599,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4808",
+        "reviewCount": "52",
+        "price": 1304,
+        "priceValidUntil": "07/14/2021"
     },
-    "312439885": {
-        "product_id": 312439885,
-        "modelNbr": "DLEX4200W",
+    "312439652": {
+        "product_id": 312439652,
+        "modelNbr": "DLEX4200B",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "STEAM DRY ELEC W/O HOSES",
         "Type2": "OTHER",
-        "Title": "LG Electronics 7.4 cu. ft. Ultra Large Capacity White Smart Electric Vented Dryer with Sensor Dry, TurboSteam & Wi-Fi Enabled",
+        "Title": "LG Electronics 7.4 cu. ft. Ultra Large Capacity Black Steel Smart Electric Vented Dryer with Sensor Dry, TurboSteam & Wi-Fi Enabled",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/681c4b00-6314-4c01-a1e6-95a3d9acbced/svn/white-lg-electronics-electric-dryers-dlex4200w-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Ultra-Large-Capacity-White-Smart-Electric-Vented-Dryer-with-Sensor-Dry-TurboSteam-Wi-Fi-Enabled-DLEX4200W/312439885",
-        "Description": "No longer just a companion to your washer, LG dryers deliver a new level of convenience and clothing care. When there's no time to wash, TurboSteam technology reduces wrinkles in just 10 minutes. Built-in intelligence automatically selects the right settings to eliminate the guesswork, and can even talk to your washer to pick a compatible cycle. Smart features let you start the dryer when you're on the go or send routine maintenance updates to keep your appliance in tip-top shape. All with a sleek design and scratch-resistant tempered glass door with chrome accent rim for lasting good looks. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/8a43b306-a099-4c13-b077-085d5db24103/svn/black-steel-lg-electronics-electric-dryers-dlex4200b-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Ultra-Large-Capacity-Black-Steel-Smart-Electric-Vented-Dryer-with-Sensor-Dry-TurboSteam-Wi-Fi-Enabled-DLEX4200B/312439652",
+        "Description": "No longer just a companion to your washer, LG dryers deliver a new level of convenience and clothing care. When there's no time to wash, TurboSteam technology reduces wrinkles in just 10 minutes. Built-in intelligence automatically selects the right settings to eliminate the guesswork, and can even talk to your washer to pick a compatible cycle. Smart features let you start the dryer when you're on the go or send routine maintenance updates to keep your appliance in tip-top shape. All with a sleek design and scratch-resistant tempered glass door with chrome accent rim for lasting good looks. Color: Black Steel.",
         "depth": "51.38",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "4.64",
-        "reviewCount": "200",
-        "price": 1199,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.6442",
+        "reviewCount": "208",
+        "price": 1214,
+        "priceValidUntil": "07/14/2021"
     },
     "311972511": {
         "product_id": 311972511,
@@ -534,10 +534,10 @@
         "depth": "54.5",
         "height": "22.5",
         "width": "22.5",
-        "ratingValue": "4.686",
-        "reviewCount": "1312",
+        "ratingValue": "4.6929",
+        "reviewCount": "1869",
         "price": 1034,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "309170359": {
         "product_id": 309170359,
@@ -554,10 +554,10 @@
         "depth": "50.8",
         "height": "38.75",
         "width": "22",
-        "ratingValue": "4.4114",
-        "reviewCount": "457",
-        "price": 989,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.4052",
+        "reviewCount": "459",
+        "price": 778,
+        "priceValidUntil": "07/14/2021"
     },
     "315280947": {
         "product_id": 315280947,
@@ -569,7 +569,7 @@
         "Title": "Bosch 800 4 cu. ft. 240-Volt Home Connect White Stackable Electric Ventless Compact Dryer, ENERGY STAR",
         "Brand": "Bosch",
         "ImageUrl": "https://images.homedepot-static.com/productImages/f21219dd-c232-5201-b108-5c112172a48d/svn/white-bosch-electric-dryers-wtg865h4uc-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Bosch-800-Series-4-cu-ft-240-Volt-Home-Connect-White-Stackable-Electric-Ventless-Compact-Dryer-ENERGY-STAR-WTG865H4UC/315280947",
+        "ProductPageUrl": "https://www.homedepot.com/p/Bosch-800-4-cu-ft-240-Volt-Home-Connect-White-Stackable-Electric-Ventless-Compact-Dryer-ENERGY-STAR-WTG865H4UC/315280947",
         "Description": "Spacious and efficient, Bosch's compact 24 in. ventless dryer seamlessly integrates into any laundry space either stacked or side-by-side. Condensation drying uses an eco-friendly solution to efficiently dry clothes at an optimal temperature without the need for external ducting. This saves you the cost of running ducting as well as the space behind the dryer needed for flexible duct connections. With the Home Connect app, receive cycle status notifications or remote start your dryer all from your smartphone. Color: White.",
         "depth": "42.875",
         "height": "12.5",
@@ -577,7 +577,7 @@
         "ratingValue": "4.3333",
         "reviewCount": "3",
         "price": 1549,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "100087017": {
         "product_id": 100087017,
@@ -597,7 +597,7 @@
         "ratingValue": "2.6154",
         "reviewCount": "39",
         "price": 611,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "312563954": {
         "product_id": 312563954,
@@ -614,10 +614,10 @@
         "depth": "54.5",
         "height": "22.5",
         "width": "22.5",
-        "ratingValue": "4.7017",
-        "reviewCount": "1854",
+        "ratingValue": "4.7035",
+        "reviewCount": "1909",
         "price": 854,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "312831101": {
         "product_id": 312831101,
@@ -633,10 +633,10 @@
         "depth": "42",
         "height": "33.5",
         "width": "23.625",
-        "ratingValue": "4.1333",
-        "reviewCount": "15",
+        "ratingValue": "4.1875",
+        "reviewCount": "16",
         "price": 989,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "309245968": {
         "product_id": 309245968,
@@ -656,7 +656,7 @@
         "ratingValue": "4.3333",
         "reviewCount": "3",
         "price": 737.23,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312440282": {
         "product_id": 312440282,
@@ -673,30 +673,30 @@
         "depth": "51.38",
         "height": "16.93",
         "width": "16.93",
-        "ratingValue": "4.6624",
-        "reviewCount": "311",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.6705",
+        "reviewCount": "346",
+        "price": 898,
+        "priceValidUntil": "07/14/2021"
     },
-    "304701229": {
-        "product_id": 304701229,
-        "modelNbr": "EFME527UIW",
+    "304715832": {
+        "product_id": 304715832,
+        "modelNbr": "EFME527UTT",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "STEAM DRY ELEC W/O HOSES",
         "Type2": "OTHER",
-        "Title": "Electrolux 8.0 cu. ft. Front Load Perfect Steam Electric Dryer with LuxCare Dry and Instant Refresh in White",
+        "Title": "Electrolux 8.0 cu. ft. Front Load Perfect Steam Electric Dryer with LuxCare Dry and Instant Refresh in Titanium, Silver",
         "Brand": "ELECTROLUX",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/a5a7820b-56fa-4a2e-8a0b-119b6d8d3d4f/svn/white-electrolux-electric-dryers-efme527uiw-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Electrolux-8-0-cu-ft-Front-Load-Perfect-Steam-Electric-Dryer-with-LuxCare-Dry-and-Instant-Refresh-in-White-EFME527UIW/304701229",
-        "Description": "The Electrolux Perfect Steam electric dryer with LuxCare Dry system protects fabrics by safely and fully drying clothes. Remove wrinkles and quickly refresh items with steam in 10 minutes with Instant Refresh cycle. Quickly dry the items you need most with the 18-Minute Fast Dry. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/a3e0f48e-bfb7-41f1-86b0-300b1bf40865/svn/titanium-electrolux-electric-dryers-efme527utt-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Electrolux-8-0-cu-ft-Front-Load-Perfect-Steam-Electric-Dryer-with-LuxCare-Dry-and-Instant-Refresh-in-Titanium-EFME527UTT/304715832",
+        "Description": "The Electrolux Perfect Steam electric dryer with LuxCare Dry system protects fabrics by safely and fully drying clothes. Remove wrinkles and quickly refresh items with steam in 10 minutes with Instant Refresh cycle. Quickly dry the items you need most with the 18-Minute Fast Dry. Color: Titanium.",
         "depth": "50.6",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.5821",
-        "reviewCount": "914",
-        "price": 899,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.5791",
+        "reviewCount": "917",
+        "price": 989,
+        "priceValidUntil": "07/14/2021"
     },
     "308240427": {
         "product_id": 308240427,
@@ -713,10 +713,10 @@
         "depth": "32.94",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.5411",
-        "reviewCount": "767",
-        "price": 1049,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5452",
+        "reviewCount": "774",
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
     "308240244": {
         "product_id": 308240244,
@@ -735,8 +735,8 @@
         "width": "0",
         "ratingValue": "4.4595",
         "reviewCount": "37",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "price": 899,
+        "priceValidUntil": "07/14/2021"
     },
     "308697302": {
         "product_id": 308697302,
@@ -753,30 +753,10 @@
         "depth": "34",
         "height": "27.5",
         "width": "31",
-        "ratingValue": "4.4641",
-        "reviewCount": "181",
-        "price": 275.44,
-        "priceValidUntil": "6/21/2021"
-    },
-    "305517758": {
-        "product_id": 305517758,
-        "modelNbr": "PAN760SF",
-        "Category": "APPLIANCES",
-        "ApplType": "LAUNDRY",
-        "Type1": "FRONTLOAD ELECTRIC DRYER",
-        "Type2": "OTHER",
-        "Title": "Panda 3.5 cu.ft. 110-Volt Compact Portable Electric Laundry Dryer, White and Black",
-        "Brand": "Panda",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/48d2454c-5430-46cf-b193-71b22872c102/svn/white-panda-electric-dryers-pan760sf-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Panda-3-5-cu-ft-110-Volt-Compact-Portable-Electric-Laundry-Dryer-White-and-Black-PAN760SF/305517758",
-        "Description": "The Panda 3.5 cu. ft. Compact Dryer is the right choice for you and your family. It is a space-saving design which makes your laundry easy and simple. It is compact which is perfect for smaller laundry loads, you can use it in apartment, dorms, RVs, and it also can be the second dryer in your house. It features a large see-through window. Stainless Steel drum is durable and resists rust and chipping. It has a removable interior lint filter and a user-friendly control panel. Choose drying time, from 20 to 200 minutes. Enhanced with an option of auto sensor function. A wall-hanging bracket comes included, can be wall mounted. Regular 3 prongs 110-Volt can be plugged anywhere, 1500-Watt of motor rate which may take a little longer to dry the clothes, but it saves the electricity bills. Color: White.",
-        "depth": "37.5",
-        "height": "27.6",
-        "width": "31.5",
-        "ratingValue": "4.4025",
-        "reviewCount": "159",
-        "price": 349.17,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4699",
+        "reviewCount": "183",
+        "price": 290.95,
+        "priceValidUntil": "7/3/2021"
     },
     "315280951": {
         "product_id": 315280951,
@@ -796,7 +776,7 @@
         "ratingValue": "3.2353",
         "reviewCount": "17",
         "price": 1099,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "308241660": {
         "product_id": 308241660,
@@ -813,10 +793,10 @@
         "depth": "32.94",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.5473",
-        "reviewCount": "782",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5471",
+        "reviewCount": "786",
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "304700461": {
         "product_id": 304700461,
@@ -836,27 +816,27 @@
         "ratingValue": "4.3684",
         "reviewCount": "570",
         "price": 809,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "304700069": {
-        "product_id": 304700069,
-        "modelNbr": "EFME627UIW",
+    "304691910": {
+        "product_id": 304691910,
+        "modelNbr": "EFME627UTT",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "STEAM DRY ELEC W/O HOSES",
         "Type2": "OTHER",
-        "Title": "Electrolux 8.0 cu. ft. White Electric Dryer with Steam, Predictive Dry, ENERGY STAR",
+        "Title": "Electrolux 8.0 cu. ft. Electric Dryer with Steam, Predictive Dry in Titanium, ENERGY STAR, Silver",
         "Brand": "ELECTROLUX",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/55cf6401-ce3c-4735-b09d-14cb08a99ca6/svn/white-electrolux-electric-dryers-efme627uiw-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Electrolux-8-0-cu-ft-White-Electric-Dryer-with-Steam-Predictive-Dry-ENERGY-STAR-EFME627UIW/304700069",
-        "Description": "The Electrolux Perfect Steam electric dryer with Predictive Dry has a more precise sensor to protect fabrics from overdrying. Remove wrinkles and quickly refresh items with steam in 10 minutes with Instant Refresh cycle. Quickly dry the items you need most with the 15-Minute Fast Dry. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/bcde56a8-a9d5-4a6a-a2b4-142a6c1ee08f/svn/titanium-electrolux-electric-dryers-efme627utt-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Electrolux-8-0-cu-ft-Electric-Dryer-with-Steam-Predictive-Dry-in-Titanium-ENERGY-STAR-EFME627UTT/304691910",
+        "Description": "The Electrolux Perfect Steam electric dryer with Predictive Dry has a more precise sensor to protect fabrics from overdrying. Remove wrinkles and quickly refresh items with steam in 10 minutes with Instant Refresh cycle. Quickly dry the items you need most with the 15-Minute Fast Dry. Color: Titanium.",
         "depth": "50.6",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.6569",
-        "reviewCount": "2521",
-        "price": 989,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6561",
+        "reviewCount": "2527",
+        "price": 1079,
+        "priceValidUntil": "07/14/2021"
     },
     "308241988": {
         "product_id": 308241988,
@@ -873,10 +853,10 @@
         "depth": "54.5",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.241",
-        "reviewCount": "83",
-        "price": 1449,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2471",
+        "reviewCount": "85",
+        "price": 1304,
+        "priceValidUntil": "07/14/2021"
     },
     "311102573": {
         "product_id": 311102573,
@@ -895,28 +875,28 @@
         "width": "17.5625",
         "ratingValue": "3.6",
         "reviewCount": "15",
-        "price": 1079,
-        "priceValidUntil": "06/22/2021"
+        "price": 898,
+        "priceValidUntil": "07/14/2021"
     },
-    "312440605": {
-        "product_id": 312440605,
-        "modelNbr": "DLE3600W",
+    "312441398": {
+        "product_id": 312441398,
+        "modelNbr": "DLE3600V",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FRONTLOAD ELECTRIC DRYER",
         "Type2": "FRONT LOAD",
-        "Title": "LG Electronics 7.4 cu. ft. Ultra Large White Smart Electric Vented Dryer with Sensor Dry & Wi-Fi Enabled",
+        "Title": "LG Electronics 7.4 cu. ft. Ultra Large Graphite Steel Smart Electric Vented Dryer with Sensor Dry & Wi-Fi Enabled",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/0fea73b5-73c6-44b3-b2cc-b4a66a371674/svn/white-lg-electronics-electric-dryers-dle3600w-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Ultra-Large-White-Smart-Electric-Vented-Dryer-with-Sensor-Dry-Wi-Fi-Enabled-DLE3600W/312440605",
-        "Description": "Tired of toggling through endless cycles only to have clothes come out damp or overdry. This dryer takes out the guesswork, with built-in intelligence that uses advanced sensors and AI technology to automatically select the right drying motions, temperatures and more. It can even talk to your washer to select a compatible cycle - so you don't have to. What could be easier, use the ThinQ app to start or stop the dryer from anywhere, and even receive an alert when clothes are dry. Durable and stylish tempered glass door with white or silver accents adds the perfect finish.",
-        "depth": "51.38",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/8ea44c85-e6c2-4069-8900-27102a6a6313/svn/graphite-steel-lg-electronics-electric-dryers-dle3600v-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Ultra-Large-Graphite-Steel-Smart-Electric-Vented-Dryer-with-Sensor-Dry-Wi-Fi-Enabled-DLE3600V/312441398",
+        "Description": "Tired of toggling through endless cycles only to have clothes come out damp or overdry. This dryer takes out the guesswork, with built-in intelligence that uses advanced sensors and AI technology to automatically select the right drying motions, temperatures and more. It can even talk to your washer to select a compatible cycle - so you don't have to. What could be easier, use the ThinQ app to start or stop the dryer from anywhere, and even receive an alert when clothes are dry. Durable and stylish tempered glass door with white or silver accents adds the perfect finish. Color: Graphite Steel.",
+        "depth": "51",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "4.5242",
-        "reviewCount": "269",
-        "price": 899,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5427",
+        "reviewCount": "293",
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
     "206984121": {
         "product_id": 206984121,
@@ -936,6 +916,6 @@
         "ratingValue": "4.1747",
         "reviewCount": "372",
         "price": 1199,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     }
 }

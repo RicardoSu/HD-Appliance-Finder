@@ -14,29 +14,29 @@
         "depth": "27.5",
         "height": "37",
         "width": "24.13",
-        "ratingValue": "4.2602",
-        "reviewCount": "611",
-        "price": 849,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2565",
+        "reviewCount": "612",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
-    "311411337": {
-        "product_id": 311411337,
-        "modelNbr": "GPT225SGLBB",
+    "311411336": {
+        "product_id": 311411336,
+        "modelNbr": "GPT225SGLWW",
         "Category": "APPLIANCES",
         "ApplType": "DISHWASHERS",
         "Type1": "PORTABLE DISHWASHERS",
         "Type2": "PORTABLE DISHWASHERS",
-        "Title": "GE 24 in. Black Portable Dishwasher 120-Volt with 12 Place Settings Capacity and 54 dBA",
+        "Title": "GE 24 in. White Portable Dishwasher 120-Volt with 12 Place Settings Capacity and 54 dBA",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/1f8af265-4dc0-4433-82ef-eb4a520991be/svn/black-ge-portable-dishwashers-gpt225sglbb-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-24-in-Black-Portable-Dishwasher-120-Volt-with-12-Place-Settings-Capacity-and-54-dBA-GPT225SGLBB/311411337",
-        "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: Black.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/0f627652-5f38-4d9b-bb0d-54aed6f90a3f/svn/white-ge-portable-dishwashers-gpt225sglww-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-24-in-White-Portable-Dishwasher-120-Volt-with-12-Place-Settings-Capacity-and-54-dBA-GPT225SGLWW/311411336",
+        "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: White.",
         "depth": "25.375",
         "height": "36",
         "width": "23.6",
-        "ratingValue": "4.0389",
-        "reviewCount": "1852",
-        "price": 719,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.044",
+        "reviewCount": "1888",
+        "price": 628,
+        "priceValidUntil": "07/14/2021"
     }
 }

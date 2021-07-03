@@ -14,10 +14,10 @@
         "depth": "32.38",
         "height": "68.38",
         "width": "30",
-        "ratingValue": "4.2957",
-        "reviewCount": "1911",
-        "price": 2099,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2969",
+        "reviewCount": "1930",
+        "price": 1889,
+        "priceValidUntil": "07/14/2021"
     },
     "205033976": {
         "product_id": 205033976,
@@ -34,30 +34,30 @@
         "depth": "33",
         "height": "68.5",
         "width": "29.75 in",
-        "ratingValue": "4.382",
-        "reviewCount": "801",
-        "price": 1799,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3744",
+        "reviewCount": "812",
+        "price": 1708,
+        "priceValidUntil": "07/14/2021"
     },
-    "304416120": {
-        "product_id": 304416120,
-        "modelNbr": "LFDS22520S",
+    "303280036": {
+        "product_id": 303280036,
+        "modelNbr": "LFCS22520D",
         "Category": "APPLIANCES",
         "ApplType": "REFRIGERATION",
         "Type1": "FRENCH DOOR",
         "Type2": "OTHER",
-        "Title": "LG Electronics 21.8 cu. ft. French Door Refrigerator with External Water Dispenser in Stainless Steel, Silver",
+        "Title": "LG Electronics 30 in. W 21.8 cu. ft. French Door Refrigerator in Black Stainless Steel",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/e8ac64b4-2c05-4393-9f1f-5eeb90725ece/svn/stainless-steel-lg-electronics-french-door-refrigerators-lfds22520s-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-21-8-cu-ft-French-Door-Refrigerator-with-External-Water-Dispenser-in-Stainless-Steel-LFDS22520S/304416120",
-        "Description": "You don't have to sacrifice style when shopping for smaller kitchen spaces. With a generous 21.8 cu. ft., LG's stylish French door refrigerator gives you 10% more capacity in the same 30 in. wide. Color: Stainless Steel.",
-        "depth": "33",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/fe8d3fcc-0696-4eda-a676-df4ab631d559/svn/black-stainless-steel-lg-electronics-french-door-refrigerators-lfcs22520d-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-30-in-W-21-8-cu-ft-French-Door-Refrigerator-in-Black-Stainless-Steel-LFCS22520D/303280036",
+        "Description": "You don't have to sacrifice style when shopping for smaller kitchen spaces. With a generous 21.8 cu. ft., LG's stylish French door refrigerator gives you 10% more capacity in the same 30 in. W. Not only does that mean more room for groceries, but Smart Cooling technology helps all that extra food stay fresher, longer. Color: Black Stainless Steel.",
+        "depth": "33.25",
         "height": "68.5",
-        "width": "29.75 in",
-        "ratingValue": "4.4612",
-        "reviewCount": "3105",
-        "price": 1999,
-        "priceValidUntil": "6/21/2021"
+        "width": "29.75",
+        "ratingValue": "4.4777",
+        "reviewCount": "3393",
+        "price": 1618,
+        "priceValidUntil": "07/14/2021"
     },
     "203707196": {
         "product_id": 203707196,
@@ -74,10 +74,10 @@
         "depth": "34.75",
         "height": "66.75",
         "width": "30",
-        "ratingValue": "4.3486",
-        "reviewCount": "1721",
-        "price": 1499,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.347",
+        "reviewCount": "1729",
+        "price": 1498,
+        "priceValidUntil": "07/14/2021"
     },
     "206875941": {
         "product_id": 206875941,
@@ -94,9 +94,9 @@
         "depth": "34.125",
         "height": "69.875",
         "width": "29.75",
-        "ratingValue": "4.3812",
-        "reviewCount": "341",
-        "price": 1619,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.3721",
+        "reviewCount": "344",
+        "price": 1618,
+        "priceValidUntil": "07/14/2021"
     }
 }

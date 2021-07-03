@@ -17,7 +17,7 @@
         "ratingValue": "4.0",
         "reviewCount": "2",
         "price": 866.25,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "301398974": {
         "product_id": 301398974,
@@ -37,7 +37,7 @@
         "ratingValue": "2.6667",
         "reviewCount": "3",
         "price": 753.78,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "313973586": {
         "product_id": 313973586,
@@ -56,8 +56,8 @@
         "width": "13.1",
         "ratingValue": "5.0",
         "reviewCount": "3",
-        "price": 1099.99,
-        "priceValidUntil": "6/21/2021"
+        "price": 999.99,
+        "priceValidUntil": "07/10/2021"
     },
     "301398972": {
         "product_id": 301398972,
@@ -74,10 +74,10 @@
         "depth": "34.5",
         "height": "35.75",
         "width": "18.5",
-        "ratingValue": "3.1",
-        "reviewCount": "10",
+        "ratingValue": "3.2727",
+        "reviewCount": "11",
         "price": 692.47,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "309052082": {
         "product_id": 309052082,
@@ -97,7 +97,7 @@
         "ratingValue": "4.0976",
         "reviewCount": "41",
         "price": 629,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "305572839": {
         "product_id": 305572839,
@@ -116,8 +116,8 @@
         "width": "19",
         "ratingValue": "4.52",
         "reviewCount": "25",
-        "price": 1299,
-        "priceValidUntil": "6/21/2021"
+        "price": 1169,
+        "priceValidUntil": "07/14/2021"
     },
     "202988066": {
         "product_id": 202988066,
@@ -137,27 +137,27 @@
         "ratingValue": "3.6667",
         "reviewCount": "3",
         "price": 663,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "300052107": {
-        "product_id": 300052107,
-        "modelNbr": "EAS7X0BP",
+    "300052169": {
+        "product_id": 300052169,
+        "modelNbr": "ECS2X0OP",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "FREE STANDING ELECTRIC",
         "Type2": "OTHER",
-        "Title": "Premier 20 in. 2.42 cu. ft. Freestanding Smooth Top Electric Range in Stainless Steel, Silver",
+        "Title": "Premier 24 in. 2.97 cu. ft. Freestanding Smooth Top Electric Range in White",
         "Brand": "PREMIER",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/589b6a26-7cc5-41fb-a5bd-5de0d65001be/svn/stainless-steel-premier-single-oven-electric-ranges-eas7x0bp-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Premier-20-in-2-42-cu-ft-Freestanding-Smooth-Top-Electric-Range-in-Stainless-Steel-EAS7X0BP/300052107",
-        "Description": "The Premier 20 in. Freestanding Smooth Top Electric Range puts all the features and convenience of a full-size range into a unit that will accommodate even the most intimate of kitchen spaces. All Premier ranges come with an Exclusive Lifetime Warranty on all Top Burner Elements - Your assurance that you are purchasing a top quality product. Color: Stainless Steel.",
-        "depth": "41",
-        "height": "14.5",
-        "width": "16",
-        "ratingValue": "3.0909",
-        "reviewCount": "11",
-        "price": 1131.97,
-        "priceValidUntil": "6/21/2021"
+        "ImageUrl": "https://images.homedepot-static.com/productImages/3e7b0dae-1975-4894-81c9-9298de78ee7a/svn/white-premier-single-oven-electric-ranges-ecs2x0op-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Premier-24-in-2-97-cu-ft-Freestanding-Smooth-Top-Electric-Range-in-White-ECS2X0OP/300052169",
+        "Description": "The Premier 24 in. Freestanding Electric Range brings you the features you need while accommodating a smaller kitchen space. All Premier ranges come with an Exclusive Lifetime Warranty on all Top Burner Elements - Your assurance that you are purchasing a top quality product. Color: White.",
+        "depth": "43",
+        "height": "15",
+        "width": "19",
+        "ratingValue": "3.4286",
+        "reviewCount": "14",
+        "price": 1011.15,
+        "priceValidUntil": "7/3/2021"
     },
     "311571252": {
         "product_id": 311571252,
@@ -176,8 +176,8 @@
         "width": "20",
         "ratingValue": "4.0",
         "reviewCount": "3",
-        "price": 585,
-        "priceValidUntil": "6/21/2021"
+        "price": 630,
+        "priceValidUntil": "7/3/2021"
     },
     "202988062": {
         "product_id": 202988062,
@@ -197,27 +197,7 @@
         "ratingValue": "4.2",
         "reviewCount": "5",
         "price": 1009.65,
-        "priceValidUntil": "6/21/2021"
-    },
-    "300052169": {
-        "product_id": 300052169,
-        "modelNbr": "ECS2X0OP",
-        "Category": "APPLIANCES",
-        "ApplType": "COOKING",
-        "Type1": "FREE STANDING ELECTRIC",
-        "Type2": "OTHER",
-        "Title": "Premier 24 in. 2.97 cu. ft. Freestanding Smooth Top Electric Range in White",
-        "Brand": "PREMIER",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/3e7b0dae-1975-4894-81c9-9298de78ee7a/svn/white-premier-single-oven-electric-ranges-ecs2x0op-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Premier-24-in-2-97-cu-ft-Freestanding-Smooth-Top-Electric-Range-in-White-ECS2X0OP/300052169",
-        "Description": "The Premier 24 in. Freestanding Electric Range brings you the features you need while accommodating a smaller kitchen space. All Premier ranges come with an Exclusive Lifetime Warranty on all Top Burner Elements - Your assurance that you are purchasing a top quality product. Color: White.",
-        "depth": "43",
-        "height": "15",
-        "width": "19",
-        "ratingValue": "3.6471",
-        "reviewCount": "68",
-        "price": 1011.15,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "302692526": {
         "product_id": 302692526,
@@ -237,7 +217,7 @@
         "ratingValue": "3.8537",
         "reviewCount": "41",
         "price": 899,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "202988060": {
         "product_id": 202988060,
@@ -257,7 +237,7 @@
         "ratingValue": "3.5385",
         "reviewCount": "13",
         "price": 752.85,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "202988064": {
         "product_id": 202988064,
@@ -277,7 +257,7 @@
         "ratingValue": "4.0",
         "reviewCount": "10",
         "price": 666.75,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "204489380": {
         "product_id": 204489380,
@@ -297,7 +277,7 @@
         "ratingValue": "3.6667",
         "reviewCount": "12",
         "price": 968.75,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "306294962": {
         "product_id": 306294962,
@@ -314,10 +294,10 @@
         "depth": "44.375",
         "height": "15.375",
         "width": "19",
-        "ratingValue": "4.0",
-        "reviewCount": "57",
+        "ratingValue": "4.0333",
+        "reviewCount": "60",
         "price": 584,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "309372256": {
         "product_id": 309372256,
@@ -334,10 +314,30 @@
         "depth": "33.86",
         "height": "17.13",
         "width": "13.78",
-        "ratingValue": "3.6667",
-        "reviewCount": "3",
+        "ratingValue": "2.7778",
+        "reviewCount": "9",
         "price": 679.82,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
+    },
+    "309297432": {
+        "product_id": 309297432,
+        "modelNbr": "PRE2015GW",
+        "Category": "APPLIANCES",
+        "ApplType": "COOKING",
+        "Type1": "FREE STANDING ELECTRIC",
+        "Type2": "OTHER",
+        "Title": "PREMIUM 20 in. 2.2 cu. ft. Electric Range in White",
+        "Brand": "PREMIUM",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/818c0b13-8c27-4d90-9ec4-61b40c424c7f/svn/white-premium-single-oven-electric-ranges-pre2015gw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/PREMIUM-20-in-2-2-cu-ft-Electric-Range-in-White-PRE2015GW/309297432",
+        "Description": "PREMIUM's 20 in. 2.2 cu. ft. Electric Range in White is the perfect appliance for your apartment, condo or office kitchen. Just as in larger units there is an in-door window and oven light to allow users to check on food while it is cooking, 2 adjustable wire racks, a broiler tray and grid included, and a handy removable storage drawer. With its small footprint, it conserves space while providing all the functionality you need to cook healthy meals at home.",
+        "depth": "33.86",
+        "height": "17.13",
+        "width": "13.78",
+        "ratingValue": "3.5",
+        "reviewCount": "2",
+        "price": 533.49,
+        "priceValidUntil": "7/3/2021"
     },
     "202988065": {
         "product_id": 202988065,
@@ -357,7 +357,7 @@
         "ratingValue": "3.28",
         "reviewCount": "25",
         "price": 771.75,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "306283705": {
         "product_id": 306283705,
@@ -374,10 +374,10 @@
         "depth": "45.625",
         "height": "15.375",
         "width": "19",
-        "ratingValue": "4.1462",
-        "reviewCount": "171",
+        "ratingValue": "4.1395",
+        "reviewCount": "172",
         "price": 944,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "306195372": {
         "product_id": 306195372,
@@ -394,10 +394,10 @@
         "depth": "45.625",
         "height": "15.375",
         "width": "19",
-        "ratingValue": "4.3099",
-        "reviewCount": "71",
+        "ratingValue": "4.3194",
+        "reviewCount": "72",
         "price": 1258,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205390028": {
         "product_id": 205390028,
@@ -417,7 +417,7 @@
         "ratingValue": "4.1765",
         "reviewCount": "17",
         "price": 897.2,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "306294968": {
         "product_id": 306294968,
@@ -434,9 +434,9 @@
         "depth": "44.375",
         "height": "15.375",
         "width": "19",
-        "ratingValue": "4.0769",
-        "reviewCount": "78",
+        "ratingValue": "4.0886",
+        "reviewCount": "79",
         "price": 628,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     }
 }

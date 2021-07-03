@@ -1,23 +1,23 @@
 {
-    "305469476": {
-        "product_id": 305469476,
-        "modelNbr": "WCE55US0HS",
+    "305455315": {
+        "product_id": 305455315,
+        "modelNbr": "WCE55US0HW",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "COOKTOPS ELECTRIC",
         "Type2": "ELECTRIC COOKTOP",
-        "Title": "Whirlpool 30 in. Radiant Electric Ceramic Glass Cooktop in Stainless Steel with 4 Burners and a Dual Radiant Element, Silver",
+        "Title": "Whirlpool 30 in. Radiant Electric Ceramic Glass Cooktop in White with 4 Elements including a Dual Radiant Element",
         "Brand": "Whirlpool",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/018f8dac-e22d-416a-b002-ab44d223f6a0/svn/stainless-steel-whirlpool-electric-cooktops-wce55us0hs-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-30-in-Radiant-Electric-Ceramic-Glass-Cooktop-in-Stainless-Steel-with-4-Burners-and-a-Dual-Radiant-Element-WCE55US0HS/305469476",
-        "Description": "Cook all your family's favorites with an easy-to-clean cooktop designed to make the most of your mealtime routine. Get added flexibility when installing with 30 and 40 amp compatibility, or while cooking with the FLEXHEAT dual radiant element. When dinner's done, a ceramic glass cooktop makes it easy to wipe away messes. Color: Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/76f0895c-acea-4fa9-a1e2-a9d3edee6114/svn/white-whirlpool-electric-cooktops-wce55us0hw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-30-in-Radiant-Electric-Ceramic-Glass-Cooktop-in-White-with-4-Elements-including-a-Dual-Radiant-Element-WCE55US0HW/305455315",
+        "Description": "Cook all your family's favorites with an easy-to-clean cooktop designed to make the most of your mealtime routine. Get added flexibility when installing with 30 & 40 amp compatibility, or while cooking with the FLEXHEAT dual radiant element. When dinner's done, a ceramic glass cooktop makes it easy to wipe away messes. Color: White.",
         "depth": "20.38",
         "height": "5.25",
         "width": "29.06",
         "ratingValue": "4.4982",
-        "reviewCount": "281",
-        "price": 849,
-        "priceValidUntil": "6/21/2021"
+        "reviewCount": "283",
+        "price": 674,
+        "priceValidUntil": "07/14/2021"
     },
     "205974885": {
         "product_id": 205974885,
@@ -34,10 +34,10 @@
         "depth": "20.63",
         "height": "22",
         "width": "28.875",
-        "ratingValue": "4.3357",
-        "reviewCount": "572",
+        "ratingValue": "4.3356",
+        "reviewCount": "578",
         "price": 1998,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205951510": {
         "product_id": 205951510,
@@ -54,10 +54,10 @@
         "depth": "19.63",
         "height": "5",
         "width": "28.5",
-        "ratingValue": "4.3572",
-        "reviewCount": "1607",
+        "ratingValue": "4.3573",
+        "reviewCount": "1615",
         "price": 698,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205974853": {
         "product_id": 205974853,
@@ -74,9 +74,9 @@
         "depth": "19.63",
         "height": "5",
         "width": "28.5",
-        "ratingValue": "4.2517",
-        "reviewCount": "290",
+        "ratingValue": "4.2619",
+        "reviewCount": "294",
         "price": 898,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     }
 }

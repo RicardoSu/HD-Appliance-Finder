@@ -14,10 +14,10 @@
         "depth": "49.25",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "4.1862",
-        "reviewCount": "145",
+        "ratingValue": "4.1973",
+        "reviewCount": "147",
         "price": 746,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "308815423": {
         "product_id": 308815423,
@@ -36,8 +36,8 @@
         "width": "20.25",
         "ratingValue": "1.0",
         "reviewCount": "2",
-        "price": 2049,
-        "priceValidUntil": "6/21/2021"
+        "price": 1844,
+        "priceValidUntil": "07/14/2021"
     },
     "312470985": {
         "product_id": 312470985,
@@ -54,10 +54,10 @@
         "depth": "45.88",
         "height": "40.88",
         "width": "27",
-        "ratingValue": "4.5328",
-        "reviewCount": "229",
+        "ratingValue": "4.521",
+        "reviewCount": "238",
         "price": 854,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "304756766": {
         "product_id": 304756766,
@@ -74,30 +74,30 @@
         "depth": "42",
         "height": "13.75",
         "width": "13.75",
-        "ratingValue": "4.6194",
-        "reviewCount": "628",
-        "price": 749,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.6196",
+        "reviewCount": "631",
+        "price": 674,
+        "priceValidUntil": "07/14/2021"
     },
-    "312440637": {
-        "product_id": 312440637,
-        "modelNbr": "DLG3601W",
+    "312441643": {
+        "product_id": 312441643,
+        "modelNbr": "DLG3601V",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FRONT LOAD GAS DRYERS",
         "Type2": "FRONT LOAD",
-        "Title": "LG Electronics 7.4 cu. ft. White Ultra Large Capacity Gas Dryer with Sensor Dry",
+        "Title": "LG Electronics 7.4 cu. ft. Graphite Steel Ultra Large Capacity Gas Dryer with Sensor Dry",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/abad9550-e72b-44f5-bf62-28609012b87b/svn/white-lg-electronics-gas-dryers-dlg3601w-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-White-Ultra-Large-Capacity-Gas-Dryer-with-Sensor-Dry-DLG3601W/312440637",
-        "Description": "Tired of toggling through endless cycles only to have clothes come out damp or overdry. This dryer takes out the guesswork, with built-in intelligence that uses advanced sensors and AI technology to automatically select the right drying motions, temperatures and more. It can even talk to your washer to select a compatible cycle - so you don't have to. What could be easier, use the ThinQ app to start or stop the dryer from anywhere, and even receive an alert when clothes are dry. Durable and stylish tempered glass door with white or silver accents adds the perfect finish.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/87b19bda-dc27-4e56-bb49-8710541ee405/svn/graphite-steel-lg-electronics-gas-dryers-dlg3601v-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Graphite-Steel-Ultra-Large-Capacity-Gas-Dryer-with-Sensor-Dry-DLG3601V/312441643",
+        "Description": "Tired of toggling through endless cycles only to have clothes come out damp or overdry. This dryer takes out the guesswork, with built-in intelligence that uses advanced sensors and AI technology to automatically select the right drying motions, temperatures and more. It can even talk to your washer to select a compatible cycle - so you don't have to. What could be easier, use the ThinQ app to start or stop the dryer from anywhere, and even receive an alert when clothes are dry. Durable and stylish tempered glass door with white or silver accents adds the perfect finish. Color: Graphite Steel.",
         "depth": "51",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "4.4271",
-        "reviewCount": "96",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.451",
+        "reviewCount": "102",
+        "price": 1034,
+        "priceValidUntil": "07/14/2021"
     },
     "205317240": {
         "product_id": 205317240,
@@ -114,10 +114,10 @@
         "depth": "41.5",
         "height": "21.5",
         "width": "21.4",
-        "ratingValue": "4.5837",
-        "reviewCount": "490",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.587",
+        "reviewCount": "494",
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "314470563": {
         "product_id": 314470563,
@@ -134,10 +134,10 @@
         "depth": "50.69",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.6923",
-        "reviewCount": "91",
+        "ratingValue": "4.6667",
+        "reviewCount": "96",
         "price": 854,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "311324404": {
         "product_id": 311324404,
@@ -154,10 +154,10 @@
         "depth": "51.75",
         "height": "18.5",
         "width": "22.5",
-        "ratingValue": "4.5557",
-        "reviewCount": "3122",
-        "price": 854,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.5578",
+        "reviewCount": "3202",
+        "price": 798,
+        "priceValidUntil": "07/07/2021"
     },
     "206824725": {
         "product_id": 206824725,
@@ -174,10 +174,10 @@
         "depth": "52",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "4.1194",
-        "reviewCount": "1717",
+        "ratingValue": "4.1202",
+        "reviewCount": "1731",
         "price": 656,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "311122030": {
         "product_id": 311122030,
@@ -194,10 +194,10 @@
         "depth": "48",
         "height": "44.56",
         "width": "45",
-        "ratingValue": "4.6803",
-        "reviewCount": "122",
-        "price": 1169,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6829",
+        "reviewCount": "123",
+        "price": 948,
+        "priceValidUntil": "07/14/2021"
     },
     "205539106": {
         "product_id": 205539106,
@@ -214,10 +214,10 @@
         "depth": "41.75",
         "height": "13.75",
         "width": "25",
-        "ratingValue": "4.5789",
-        "reviewCount": "1843",
-        "price": 899,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.5791",
+        "reviewCount": "1846",
+        "price": 808,
+        "priceValidUntil": "07/14/2021"
     },
     "207188949": {
         "product_id": 207188949,
@@ -234,10 +234,10 @@
         "depth": "49.25",
         "height": "37.5",
         "width": "22.5",
-        "ratingValue": "4.2773",
-        "reviewCount": "541",
+        "ratingValue": "4.2762",
+        "reviewCount": "554",
         "price": 588,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "307250113": {
         "product_id": 307250113,
@@ -254,10 +254,10 @@
         "depth": "48.625",
         "height": "23",
         "width": "23",
-        "ratingValue": "4.1779",
-        "reviewCount": "163",
+        "ratingValue": "4.1707",
+        "reviewCount": "164",
         "price": 764,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "304171376": {
         "product_id": 304171376,
@@ -274,10 +274,10 @@
         "depth": "50.25",
         "height": "21.25",
         "width": "21.25",
-        "ratingValue": "4.1652",
-        "reviewCount": "333",
-        "price": 899,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.1662",
+        "reviewCount": "337",
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "309364239": {
         "product_id": 309364239,
@@ -294,10 +294,10 @@
         "depth": "50.25",
         "height": "17.75",
         "width": "19.5",
-        "ratingValue": "4.4528",
-        "reviewCount": "265",
-        "price": 1199,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4552",
+        "reviewCount": "268",
+        "price": 1124,
+        "priceValidUntil": "07/14/2021"
     },
     "206824739": {
         "product_id": 206824739,
@@ -314,10 +314,10 @@
         "depth": "49.25",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "3.8041",
-        "reviewCount": "194",
+        "ratingValue": "3.802",
+        "reviewCount": "197",
         "price": 656,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "205932096": {
         "product_id": 205932096,
@@ -334,10 +334,10 @@
         "depth": "52.5",
         "height": "8.5",
         "width": "22.5",
-        "ratingValue": "4.3006",
-        "reviewCount": "722",
+        "ratingValue": "4.2974",
+        "reviewCount": "723",
         "price": 749,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "302701150": {
         "product_id": 302701150,
@@ -356,8 +356,8 @@
         "width": "17.5",
         "ratingValue": "5.0",
         "reviewCount": "3",
-        "price": 1349,
-        "priceValidUntil": "6/21/2021"
+        "price": 1214,
+        "priceValidUntil": "07/14/2021"
     },
     "312406166": {
         "product_id": 312406166,
@@ -374,10 +374,10 @@
         "depth": "45.88",
         "height": "42.75",
         "width": "27",
-        "ratingValue": "4.439",
-        "reviewCount": "41",
-        "price": 1149,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4651",
+        "reviewCount": "43",
+        "price": 1034,
+        "priceValidUntil": "07/14/2021"
     },
     "312386097": {
         "product_id": 312386097,
@@ -394,10 +394,10 @@
         "depth": "45.88",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.6306",
-        "reviewCount": "222",
+        "ratingValue": "4.6323",
+        "reviewCount": "223",
         "price": 1034,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "304752663": {
         "product_id": 304752663,
@@ -414,10 +414,10 @@
         "depth": "51",
         "height": "16.75",
         "width": "20",
-        "ratingValue": "4.5524",
-        "reviewCount": "1700",
+        "ratingValue": "4.5552",
+        "reviewCount": "1713",
         "price": 764,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "301847935": {
         "product_id": 301847935,
@@ -436,8 +436,8 @@
         "width": "13",
         "ratingValue": "4.0652",
         "reviewCount": "46",
-        "price": 1099,
-        "priceValidUntil": "6/21/2021"
+        "price": 989,
+        "priceValidUntil": "07/14/2021"
     },
     "301207989": {
         "product_id": 301207989,
@@ -457,7 +457,7 @@
         "ratingValue": "3.9167",
         "reviewCount": "132",
         "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "301229883": {
         "product_id": 301229883,
@@ -468,7 +468,7 @@
         "ratingValue": "4.0",
         "reviewCount": "243",
         "price": 1398,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "309171771": {
         "product_id": 309171771,
@@ -485,10 +485,10 @@
         "depth": "50.8",
         "height": "44",
         "width": "27",
-        "ratingValue": "4.4023",
-        "reviewCount": "440",
-        "price": 899,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.3959",
+        "reviewCount": "442",
+        "price": 828,
+        "priceValidUntil": "07/14/2021"
     },
     "302712238": {
         "product_id": 302712238,
@@ -507,8 +507,8 @@
         "width": "17.5",
         "ratingValue": "3.75",
         "reviewCount": "4",
-        "price": 1449,
-        "priceValidUntil": "6/21/2021"
+        "price": 1304,
+        "priceValidUntil": "07/14/2021"
     },
     "304751320": {
         "product_id": 304751320,
@@ -525,10 +525,10 @@
         "depth": "42",
         "height": "13.75",
         "width": "13.75",
-        "ratingValue": "4.4228",
-        "reviewCount": "972",
+        "ratingValue": "4.4253",
+        "reviewCount": "990",
         "price": 718,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "315974135": {
         "product_id": 315974135,
@@ -545,10 +545,10 @@
         "depth": "52.5",
         "height": "8.5",
         "width": "22.5",
-        "ratingValue": "4.6818",
-        "reviewCount": "44",
+        "ratingValue": "4.5741",
+        "reviewCount": "54",
         "price": 629,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "311411346": {
         "product_id": 311411346,
@@ -565,10 +565,10 @@
         "depth": "51.75",
         "height": "18.5",
         "width": "22.5",
-        "ratingValue": "4.5544",
-        "reviewCount": "846",
-        "price": 944,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.5545",
+        "reviewCount": "853",
+        "price": 898,
+        "priceValidUntil": "07/14/2021"
     },
     "206355463": {
         "product_id": 206355463,
@@ -585,10 +585,10 @@
         "depth": "52",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "4.2877",
-        "reviewCount": "1985",
+        "ratingValue": "4.2909",
+        "reviewCount": "2004",
         "price": 746,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "316091748": {
         "product_id": 316091748,
@@ -605,10 +605,10 @@
         "depth": "50.25",
         "height": "21.25",
         "width": "21.25",
-        "ratingValue": "4.125",
-        "reviewCount": "8",
-        "price": 799,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2222",
+        "reviewCount": "9",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "206855049": {
         "product_id": 206855049,
@@ -627,8 +627,8 @@
         "width": "20.1",
         "ratingValue": "4.3182",
         "reviewCount": "66",
-        "price": 849,
-        "priceValidUntil": "6/21/2021"
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "311049753": {
         "product_id": 311049753,
@@ -645,10 +645,10 @@
         "depth": "50.2",
         "height": "44.56",
         "width": "50.2",
-        "ratingValue": "4.4909",
-        "reviewCount": "165",
+        "ratingValue": "4.4878",
+        "reviewCount": "164",
         "price": 898,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "301229881": {
         "product_id": 301229881,
@@ -659,7 +659,7 @@
         "ratingValue": "3.9948",
         "reviewCount": "191",
         "price": 1619,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "309171921": {
         "product_id": 309171921,
@@ -676,10 +676,10 @@
         "depth": "52.5",
         "height": "44.56",
         "width": "22.5",
-        "ratingValue": "4.4192",
-        "reviewCount": "532",
+        "ratingValue": "4.4139",
+        "reviewCount": "534",
         "price": 778,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "206355462": {
         "product_id": 206355462,
@@ -696,10 +696,10 @@
         "depth": "52",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "4.2561",
-        "reviewCount": "453",
-        "price": 791,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.2614",
+        "reviewCount": "459",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "308666416": {
         "product_id": 308666416,
@@ -716,10 +716,10 @@
         "depth": "50.25",
         "height": "17.25",
         "width": "19.5",
-        "ratingValue": "4.4805",
-        "reviewCount": "564",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4923",
+        "reviewCount": "583",
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
     "312406224": {
         "product_id": 312406224,
@@ -736,10 +736,10 @@
         "depth": "45.88",
         "height": "40.88",
         "width": "27",
-        "ratingValue": "4.6897",
-        "reviewCount": "58",
+        "ratingValue": "4.6949",
+        "reviewCount": "59",
         "price": 944,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "312385526": {
         "product_id": 312385526,
@@ -756,10 +756,10 @@
         "depth": "45.88",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.5336",
-        "reviewCount": "283",
+        "ratingValue": "4.5395",
+        "reviewCount": "291",
         "price": 944,
-        "priceValidUntil": "06/23/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "309930900": {
         "product_id": 309930900,
@@ -778,8 +778,8 @@
         "width": "27",
         "ratingValue": "3.6667",
         "reviewCount": "3",
-        "price": 929,
-        "priceValidUntil": "6/21/2021"
+        "price": 836,
+        "priceValidUntil": "07/14/2021"
     },
     "314103826": {
         "product_id": 314103826,
@@ -796,30 +796,30 @@
         "depth": "50.125",
         "height": "12",
         "width": "28",
-        "ratingValue": "4.3839",
-        "reviewCount": "211",
+        "ratingValue": "4.3925",
+        "reviewCount": "214",
         "price": 719,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "314998133": {
-        "product_id": 314998133,
-        "modelNbr": "DVG45T3400P",
+    "314412385": {
+        "product_id": 314412385,
+        "modelNbr": "DVG45T3400W",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "HE TL GAS DRYERS",
-        "Type2": "HE TOP LOAD",
-        "Title": "Samsung Large 7.4 cu. ft. Capacity Platinum Top Load Gas Dryer with Sensor Dry, White",
+        "Type2": "OTHER",
+        "Title": "Samsung 7.4 cu. ft. 120-Volt White Gas Dryer with Sensor Dry",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/9936d0f9-e2b0-5708-a0c0-a1e7d7539906/svn/platinum-samsung-gas-dryers-dvg45t3400p-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-Large-7-4-cu-ft-Capacity-Platinum-Top-Load-Gas-Dryer-with-Sensor-Dry-DVG45T3400P/314998133",
-        "Description": "Samsung Large 7.4 cu. ft. Capacity Top Load dryer fits more in every load, cutting down on laundry time. It features Sensor Dry that helps prevent overdrying for optimal fabric care. It also has 10-Preset Drying Cycles to best suit your drying needs. Color: Platinum.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/9020e214-bfed-45c5-ab81-a6be1eb705ea/svn/white-samsung-gas-dryers-dvg45t3400w-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-7-4-cu-ft-120-Volt-White-Gas-Dryer-with-Sensor-Dry-DVG45T3400W/314412385",
+        "Description": "Samsung's Large 7.4 cu. ft. Capacity Top Load dryer fits more in every load, cutting down on laundry time. It features Sensor Dry that helps prevent overdrying for optimal fabric care, and has 10 Preset Drying Cycles to best suit your drying needs. Color: White.",
         "depth": "50.125",
         "height": "44",
         "width": "27",
-        "ratingValue": "4.4113",
-        "reviewCount": "124",
-        "price": 854,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.4519",
+        "reviewCount": "135",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "312470946": {
         "product_id": 312470946,
@@ -838,7 +838,7 @@
         "width": "29",
         "ratingValue": "4.75",
         "reviewCount": "8",
-        "price": 1249,
-        "priceValidUntil": "6/21/2021"
+        "price": 1124,
+        "priceValidUntil": "07/14/2021"
     }
 }

@@ -14,29 +14,29 @@
         "depth": "28.38 in",
         "height": "55.75",
         "width": "27 in",
-        "ratingValue": "4.2838",
-        "reviewCount": "296",
-        "price": 1299,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2947",
+        "reviewCount": "302",
+        "price": 1214,
+        "priceValidUntil": "07/14/2021"
     },
-    "314744262": {
-        "product_id": 314744262,
-        "modelNbr": "WKEX200HBA",
+    "314754195": {
+        "product_id": 314754195,
+        "modelNbr": "WKGX201HWA",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
-        "Type1": "WASHTOWER ELECTRIC",
+        "Type1": "WASHTOWER GAS",
         "Type2": "OTHER",
-        "Title": "LG Electronics 27 in. Black Steel WashTower Laundry Center with 4.5 cu. ft. Front Load Washer and 7.4 cu. ft. Electric Dryer",
+        "Title": "LG Electronics 27 in. White WashTower Laundry Center with 4.5 cu. ft. Washer and 7.4 cu. ft. Gas Dryer",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/d59d1d5b-96c0-4a67-90fd-9a3bf0682b52/svn/black-steel-lg-electronics-electric-dryers-wkex200hba-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-Black-Steel-WashTower-Laundry-Center-with-4-5-cu-ft-Front-Load-Washer-and-7-4-cu-ft-Electric-Dryer-WKEX200HBA/314744262",
-        "Description": "Full-size and fully featured, with the washer on the bottom and dryer on top, the sleek single unit LG WashTower takes up half the space, giving you room to add a sink, a folding table or whatever you like. But unlike conventional stacked pairs, LG's exclusive Center Control panel is perfectly positioned with both washer and dryer controls at just the right height. Built-in intelligence makes laundry less of a chore by taking out the guesswork, while top-of-the-line innovations put advanced cleaning power within reach. Color: Black Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/69026f51-7f62-4667-b246-39b3b89cdfa7/svn/white-lg-electronics-electric-dryers-wkgx201hwa-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-White-WashTower-Laundry-Center-with-4-5-cu-ft-Washer-and-7-4-cu-ft-Gas-Dryer-WKGX201HWA/314754195",
+        "Description": "Full-size and fully featured, with the washer on the bottom and dryer on top, the sleek single unit LG WashTower takes up half the space, giving you room to add a sink, a folding table or whatever you like. But unlike conventional stacked pairs, LG's exclusive Center Control panel is perfectly positioned with both washer and dryer controls at just the right height. Built-in intelligence makes laundry less of a chore by taking out the guesswork, while top-of-the-line innovations put advanced cleaning power within reach. Color: White.",
         "depth": "55",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "4.6395",
-        "reviewCount": "946",
-        "price": 2499,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.629",
+        "reviewCount": "752",
+        "price": 1798,
+        "priceValidUntil": "07/14/2021"
     }
 }

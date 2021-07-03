@@ -17,7 +17,7 @@
         "ratingValue": "3.0",
         "reviewCount": "1",
         "price": 3399,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "203949631": {
         "product_id": 203949631,
@@ -37,7 +37,7 @@
         "ratingValue": "4.3333",
         "reviewCount": "18",
         "price": 2799,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "315879595": {
         "product_id": 315879595,
@@ -56,7 +56,7 @@
         "ratingValue": "1.0",
         "reviewCount": "1",
         "price": 573.75,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "205803577": {
         "product_id": 205803577,
@@ -76,7 +76,7 @@
         "ratingValue": "3.0",
         "reviewCount": "4",
         "price": 1749,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "316312678": {
         "product_id": 316312678,
@@ -96,7 +96,7 @@
         "ratingValue": "3.0",
         "reviewCount": "1",
         "price": 1989,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "310623949": {
         "product_id": 310623949,
@@ -116,6 +116,6 @@
         "ratingValue": "4.3333",
         "reviewCount": "6",
         "price": 1099.99,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     }
 }

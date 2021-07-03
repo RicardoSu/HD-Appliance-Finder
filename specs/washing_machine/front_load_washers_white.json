@@ -17,7 +17,7 @@
         "ratingValue": "3.8421",
         "reviewCount": "38",
         "price": 1311.04,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312399923": {
         "product_id": 312399923,
@@ -34,10 +34,10 @@
         "depth": "55",
         "height": "39",
         "width": "27",
-        "ratingValue": "4.3984",
-        "reviewCount": "1802",
-        "price": 799,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3999",
+        "reviewCount": "1843",
+        "price": 764,
+        "priceValidUntil": "07/14/2021"
     },
     "316226646": {
         "product_id": 316226646,
@@ -54,10 +54,10 @@
         "depth": "43.25",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "5.0",
-        "reviewCount": "1",
-        "price": 1199,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4",
+        "reviewCount": "5",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "308185886": {
         "product_id": 308185886,
@@ -76,8 +76,8 @@
         "width": "0",
         "ratingValue": "4.2774",
         "reviewCount": "310",
-        "price": 1249,
-        "priceValidUntil": "6/21/2021"
+        "price": 1124,
+        "priceValidUntil": "07/14/2021"
     },
     "300154684": {
         "product_id": 300154684,
@@ -97,7 +97,7 @@
         "ratingValue": "3.2632",
         "reviewCount": "38",
         "price": 1531.6,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "301611901": {
         "product_id": 301611901,
@@ -111,13 +111,7 @@
         "ImageUrl": "https://images.homedepot-static.com/productImages/ea00bf2b-8af0-411e-868c-eca94bd033c9/svn/white-electrolux-front-load-washers-eflw317tiw-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/Electrolux-4-3-cu-ft-High-Efficiency-Front-Load-Washer-in-White-ENERGY-STAR-EFLW317TIW/301611901",
         "Description": "Electrolux introduces the Front Load Washer with LuxCare Wash System. The EFLW317TIW features 5 wash cycles, LED Display and ENERGY STAR Most Efficient Rating. Plus a 10-year Motor and Lifetime Tub Warranty. Color: White.",
-        "depth": "53.5",
-        "height": "15.5",
-        "width": "16",
-        "ratingValue": "4.3565",
-        "reviewCount": "1537",
-        "price": 764,
-        "priceValidUntil": "06/22/2021"
+        "Discontinued": true
     },
     "302700351": {
         "product_id": 302700351,
@@ -134,10 +128,10 @@
         "depth": "50.5",
         "height": "17.5",
         "width": "17.5",
-        "ratingValue": "3.5385",
-        "reviewCount": "13",
-        "price": 1649,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "3.3571",
+        "reviewCount": "14",
+        "price": 1484,
+        "priceValidUntil": "07/14/2021"
     },
     "313846213": {
         "product_id": 313846213,
@@ -154,10 +148,10 @@
         "depth": "52.68",
         "height": "36",
         "width": "36",
-        "ratingValue": "4.4467",
-        "reviewCount": "844",
+        "ratingValue": "4.4354",
+        "reviewCount": "859",
         "price": 678,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "310234108": {
         "product_id": 310234108,
@@ -176,8 +170,8 @@
         "width": "12",
         "ratingValue": "3.1364",
         "reviewCount": "22",
-        "price": 1220.05,
-        "priceValidUntil": "6/21/2021"
+        "price": 1130.05,
+        "priceValidUntil": "7/3/2021"
     },
     "301226225": {
         "product_id": 301226225,
@@ -194,30 +188,30 @@
         "depth": "54.5",
         "height": "61",
         "width": "22.5",
-        "ratingValue": "3.5188",
-        "reviewCount": "266",
+        "ratingValue": "3.5094",
+        "reviewCount": "267",
         "price": 1709,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "206978141": {
-        "product_id": 206978141,
-        "modelNbr": "WF45K6500AW",
+    "206978142": {
+        "product_id": 206978142,
+        "modelNbr": "WF45K6500AV",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FL WASHERS W/OUT HOSES",
         "Type2": "OTHER",
-        "Title": "Samsung 4.5 cu. ft. High-Efficiency Front Load Washer with Steam and AddWash Door in White, ENERGY STAR",
+        "Title": "Samsung 4.5 cu. ft. High-Efficiency Front Load Washer with Steam and AddWash Door in Black Stainless, ENERGY STAR, Fingerprint Resistant Black Stainless Steel",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/a0dc0656-4cbd-44f2-9d6b-90cc34f67e03/svn/white-samsung-front-load-washers-wf45k6500aw-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-4-5-cu-ft-High-Efficiency-Front-Load-Washer-with-Steam-and-AddWash-Door-in-White-ENERGY-STAR-WF45K6500AW/206978141",
-        "Description": "Samsung 4.5 cu. ft. Washer featuring AddWash. Open the AddWash door to conveniently add in any forgotten laundry after the wash cycle has begun. Wash a full load in only 36 minutes* and get more laundry done faster with Super Speed. The combination of AddWash, large capacity, and Super Speed, saves you time and energy. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/dab2e4a1-123e-4106-95c3-4865b38aae4d/svn/fingerprint-resistant-black-stainless-steel-samsung-front-load-washers-wf45k6500av-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-4-5-cu-ft-High-Efficiency-Front-Load-Washer-with-Steam-and-AddWash-Door-in-Black-Stainless-ENERGY-STAR-WF45K6500AV/206978142",
+        "Description": "Samsung 4.5 cu. ft. Washer featuring AddWash. Open the AddWash door to conveniently add in any forgotten laundry after the wash cycle has begun. Wash a full load in only 36 minutes* and get more laundry done faster with Super Speed. The combination of AddWash, large capacity, and Super Speed, saves you time and energy. Color: Fingerprint Resistant Black Stainless Steel.",
         "depth": "54.5625",
         "height": "38.75",
         "width": "22",
-        "ratingValue": "4.2287",
-        "reviewCount": "739",
-        "price": 1099,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2243",
+        "reviewCount": "740",
+        "price": 1199,
+        "priceValidUntil": "7/3/2021"
     },
     "206189543": {
         "product_id": 206189543,
@@ -237,7 +231,7 @@
         "ratingValue": "3.1154",
         "reviewCount": "78",
         "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312563953": {
         "product_id": 312563953,
@@ -254,30 +248,30 @@
         "depth": "54.5",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "4.6575",
-        "reviewCount": "3305",
+        "ratingValue": "4.6603",
+        "reviewCount": "3409",
         "price": 854,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "311972522": {
-        "product_id": 311972522,
-        "modelNbr": "GFW850SSNWW",
+    "311972519": {
+        "product_id": 311972519,
+        "modelNbr": "GFW850SPNDG",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "GE REVERSIBLE WASHER DR",
         "Type2": "FRONTLOAD",
-        "Title": "5.0 cu. ft. White Front Load Washing Machine with OdorBlock UltraFresh Vent System with Sanitize and Allergen",
+        "Title": "5.0 cu. ft. Diamond Gray Front Load Washing Machine with OdorBlock UltraFresh Vent System with Sanitize and Allergen",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/96beb1d7-991f-4466-83fc-bcbbdecc4119/svn/white-ge-front-load-washers-gfw850ssnww-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-5-0-cu-ft-White-Front-Load-Washing-Machine-with-OdorBlock-UltraFresh-Vent-System-with-Sanitize-and-Allergen-GFW850SSNWW/311972522",
-        "Description": "GE appliances provides up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/480a16a9-2fb5-406d-a73d-6b3bd9dbf15d/svn/diamond-gray-ge-front-load-washers-gfw850spndg-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-5-0-cu-ft-Diamond-Gray-Front-Load-Washing-Machine-with-OdorBlock-UltraFresh-Vent-System-with-Sanitize-and-Allergen-GFW850SPNDG/311972519",
+        "Description": "GE appliances provides up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: Diamond Gray.",
         "depth": "56.5",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "4.6668",
-        "reviewCount": "2857",
-        "price": 1034,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.6579",
+        "reviewCount": "2254",
+        "price": 1124,
+        "priceValidUntil": "07/14/2021"
     },
     "308910839": {
         "product_id": 308910839,
@@ -297,27 +291,27 @@
         "ratingValue": "4.2241",
         "reviewCount": "58",
         "price": 799,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
-    "206594731": {
-        "product_id": 206594731,
-        "modelNbr": "WD100CW",
+    "206594729": {
+        "product_id": 206594729,
+        "modelNbr": "WD200CV",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "PED WASHERS W/OUT HOSES",
         "Type2": "OTHER",
-        "Title": "LG Electronics 27 in. 1.0 cu. ft. SideKick Pedestal Washer with TWINWash System Compatibility and NeveRust Drum in White",
+        "Title": "LG Electronics 29 in. 1.0 cu. ft. SideKick Pedestal Washer with TWINWash System Compatibility and NeveRust Drum in Graphite Steel",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/1c4ee5df-f8ca-4f3d-a6a9-3f7e60f5f736/svn/white-lg-electronics-front-load-washers-wd100cw-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-1-0-cu-ft-SideKick-Pedestal-Washer-with-TWINWash-System-Compatibility-and-NeveRust-Drum-in-White-WD100CW/206594731",
-        "Description": "Meet your newest laundry ally -- LG's ingenious SideKick Pedestal Washer. Disguised as an everyday pedestal, this 27 in. wide mini LG washer pairs with almost any LG front load unit so you can wash two loads at the same time. The main tub is the workhorse, taking on your biggest, bulkiest family-sized loads like towels and bedding, while the SideKick gives delicates, hand washables and workout wear the special care they deserve. With this LG pedestal washer on your side, you can divide and conquer your laundry -- and the rest of your day -- like never before. Color: White.",
-        "depth": "50.5",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/5fe22bf3-8cb2-4c44-8f0e-08ce8953b10e/svn/graphite-steel-lg-electronics-front-load-washers-wd200cv-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-29-in-1-0-cu-ft-SideKick-Pedestal-Washer-with-TWINWash-System-Compatibility-and-NeveRust-Drum-in-Graphite-Steel-WD200CV/206594729",
+        "Description": "Meet your newest laundry ally -- LG's ingenious SideKick washer. Disguised as an everyday pedestal, this 29 in. W mini LG washer pairs with almost any LG front load unit so you can wash two loads at the same time. The main tub is the workhorse, taking on your biggest, bulkiest family-size loads like towels and bedding, while the SideKick gives delicates, hand washables and workout wear the special care they deserve. With this LG pedestal washer on your side, you can divide and conquer your laundry -- and the rest of your day -- like never before. Color: Graphite Steel.",
+        "depth": "50.57",
         "height": "15",
         "width": "15",
-        "ratingValue": "4.4736",
-        "reviewCount": "568",
-        "price": 699,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4571",
+        "reviewCount": "361",
+        "price": 598,
+        "priceValidUntil": "07/14/2021"
     },
     "312481993": {
         "product_id": 312481993,
@@ -334,10 +328,10 @@
         "depth": "42.8125",
         "height": "12.8125",
         "width": "17.1875",
-        "ratingValue": "4.2214",
-        "reviewCount": "411",
+        "ratingValue": "4.2062",
+        "reviewCount": "422",
         "price": 1259,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "308185291": {
         "product_id": 308185291,
@@ -356,8 +350,8 @@
         "width": "0",
         "ratingValue": "4.2627",
         "reviewCount": "647",
-        "price": 1049,
-        "priceValidUntil": "6/21/2021"
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
     "304806444": {
         "product_id": 304806444,
@@ -377,7 +371,7 @@
         "ratingValue": "4.4006",
         "reviewCount": "342",
         "price": 1099,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "302555469": {
         "product_id": 302555469,
@@ -396,8 +390,8 @@
         "width": "12",
         "ratingValue": "3.6078",
         "reviewCount": "51",
-        "price": 3199,
-        "priceValidUntil": "6/21/2021"
+        "price": 2879,
+        "priceValidUntil": "07/14/2021"
     },
     "312304234": {
         "product_id": 312304234,
@@ -417,7 +411,7 @@
         "ratingValue": "3.0",
         "reviewCount": "2",
         "price": 1329,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "206870840": {
         "product_id": 206870840,
@@ -434,10 +428,10 @@
         "depth": "44.25",
         "height": "21",
         "width": "21",
-        "ratingValue": "3.9508",
-        "reviewCount": "183",
-        "price": 899,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "3.9348",
+        "reviewCount": "184",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "312439700": {
         "product_id": 312439700,
@@ -454,30 +448,30 @@
         "depth": "53.25",
         "height": "16.93",
         "width": "16.93",
-        "ratingValue": "4.6536",
-        "reviewCount": "485",
-        "price": 1199,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.6601",
+        "reviewCount": "509",
+        "price": 1124,
+        "priceValidUntil": "07/14/2021"
     },
-    "314744262": {
-        "product_id": 314744262,
-        "modelNbr": "WKEX200HBA",
+    "314754195": {
+        "product_id": 314754195,
+        "modelNbr": "WKGX201HWA",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
-        "Type1": "WASHTOWER ELECTRIC",
+        "Type1": "WASHTOWER GAS",
         "Type2": "OTHER",
-        "Title": "LG Electronics 27 in. Black Steel WashTower Laundry Center with 4.5 cu. ft. Front Load Washer and 7.4 cu. ft. Electric Dryer",
+        "Title": "LG Electronics 27 in. White WashTower Laundry Center with 4.5 cu. ft. Washer and 7.4 cu. ft. Gas Dryer",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/d59d1d5b-96c0-4a67-90fd-9a3bf0682b52/svn/black-steel-lg-electronics-electric-dryers-wkex200hba-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-Black-Steel-WashTower-Laundry-Center-with-4-5-cu-ft-Front-Load-Washer-and-7-4-cu-ft-Electric-Dryer-WKEX200HBA/314744262",
-        "Description": "Full-size and fully featured, with the washer on the bottom and dryer on top, the sleek single unit LG WashTower takes up half the space, giving you room to add a sink, a folding table or whatever you like. But unlike conventional stacked pairs, LG's exclusive Center Control panel is perfectly positioned with both washer and dryer controls at just the right height. Built-in intelligence makes laundry less of a chore by taking out the guesswork, while top-of-the-line innovations put advanced cleaning power within reach. Color: Black Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/69026f51-7f62-4667-b246-39b3b89cdfa7/svn/white-lg-electronics-electric-dryers-wkgx201hwa-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-White-WashTower-Laundry-Center-with-4-5-cu-ft-Washer-and-7-4-cu-ft-Gas-Dryer-WKGX201HWA/314754195",
+        "Description": "Full-size and fully featured, with the washer on the bottom and dryer on top, the sleek single unit LG WashTower takes up half the space, giving you room to add a sink, a folding table or whatever you like. But unlike conventional stacked pairs, LG's exclusive Center Control panel is perfectly positioned with both washer and dryer controls at just the right height. Built-in intelligence makes laundry less of a chore by taking out the guesswork, while top-of-the-line innovations put advanced cleaning power within reach. Color: White.",
         "depth": "55",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "4.6395",
-        "reviewCount": "946",
-        "price": 2499,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.629",
+        "reviewCount": "752",
+        "price": 1798,
+        "priceValidUntil": "07/14/2021"
     },
     "304700408": {
         "product_id": 304700408,
@@ -494,30 +488,30 @@
         "depth": "50.6",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.6375",
-        "reviewCount": "1029",
+        "ratingValue": "4.6407",
+        "reviewCount": "1038",
         "price": 809,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "309164096": {
-        "product_id": 309164096,
-        "modelNbr": "WF45R6100AC",
+    "309164133": {
+        "product_id": 309164133,
+        "modelNbr": "WF45R6100AW",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FL WASHERS W/OUT HOSES",
         "Type2": "OTHER",
-        "Title": "Samsung 4.5 cu. ft. High-Efficiency Champagne Front Load Washing Machine with Steam, ENERGY STAR, Beige",
+        "Title": "Samsung 4.5 cu. ft. High-Efficiency White Front Load Washing Machine with Steam, ENERGY STAR",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/e0364147-a290-4c3e-bc58-5f389f3babeb/svn/champagne-samsung-front-load-washers-wf45r6100ac-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-4-5-cu-ft-High-Efficiency-Champagne-Front-Load-Washing-Machine-with-Steam-ENERGY-STAR-WF45R6100AC/309164096",
-        "Description": "Samsung's 4.5 cu. ft. capacity front load washer with steam eliminates stains without the need to pretreat. Self Clean+ keeps your washer drum fresh and clean, while Smart Care allows for easy troubleshooting from the convenience of your smartphone1. Bring inspiration to your laundry room with beautiful designer colors, including our Champagne finish.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/abc566dc-a7b8-41dd-9fb7-3d90b2530613/svn/white-samsung-front-load-washers-wf45r6100aw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-4-5-cu-ft-High-Efficiency-White-Front-Load-Washing-Machine-with-Steam-ENERGY-STAR-WF45R6100AW/309164133",
+        "Description": "Samsungs 4.5 cu. ft. capacity front load washer with steam eliminates stains without the need to pretreat. Self Clean+ keeps your washer drum fresh and clean, while Smart Care allows for easy troubleshooting from the convenience of your smartphone1. Bring inspiration to your laundry room with beautiful designer colors, including our Champagne finish. Color: White.",
         "depth": "54.6",
         "height": "38.75",
         "width": "22",
-        "ratingValue": "4.4655",
-        "reviewCount": "2101",
+        "ratingValue": "4.4636",
+        "reviewCount": "2131",
         "price": 698,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "302699278": {
         "product_id": 302699278,
@@ -536,8 +530,8 @@
         "width": "17.5",
         "ratingValue": "2.5882",
         "reviewCount": "17",
-        "price": 1799,
-        "priceValidUntil": "6/21/2021"
+        "price": 1619,
+        "priceValidUntil": "07/14/2021"
     },
     "311972517": {
         "product_id": 311972517,
@@ -554,10 +548,10 @@
         "depth": "54.5",
         "height": "15.25",
         "width": "22.5",
-        "ratingValue": "4.6371",
-        "reviewCount": "2309",
+        "ratingValue": "4.6349",
+        "reviewCount": "2358",
         "price": 1034,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "301226223": {
         "product_id": 301226223,
@@ -577,7 +571,7 @@
         "ratingValue": "3.1977",
         "reviewCount": "177",
         "price": 1439,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "307664789": {
         "product_id": 307664789,
@@ -594,10 +588,10 @@
         "depth": "22",
         "height": "33.5",
         "width": "38",
-        "ratingValue": "3.9189",
-        "reviewCount": "37",
+        "ratingValue": "3.8421",
+        "reviewCount": "38",
         "price": 1289.13,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "304700730": {
         "product_id": 304700730,
@@ -614,10 +608,10 @@
         "depth": "50.6",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.6911",
-        "reviewCount": "1855",
+        "ratingValue": "4.6927",
+        "reviewCount": "1884",
         "price": 899,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "315285457": {
         "product_id": 315285457,
@@ -637,7 +631,7 @@
         "ratingValue": "3.5385",
         "reviewCount": "13",
         "price": 1349,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "307626243": {
         "product_id": 307626243,
@@ -657,7 +651,7 @@
         "ratingValue": "4.6667",
         "reviewCount": "3",
         "price": 939,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "307831160": {
         "product_id": 307831160,
@@ -674,10 +668,10 @@
         "depth": "22",
         "height": "16",
         "width": "16",
-        "ratingValue": "2.0",
-        "reviewCount": "2",
+        "ratingValue": "1.6667",
+        "reviewCount": "3",
         "price": 899,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "304699943": {
         "product_id": 304699943,
@@ -694,10 +688,10 @@
         "depth": "50.6",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.7008",
-        "reviewCount": "5090",
+        "ratingValue": "4.7015",
+        "reviewCount": "5159",
         "price": 989,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
     "311970319": {
         "product_id": 311970319,
@@ -717,7 +711,7 @@
         "ratingValue": "3.5235",
         "reviewCount": "426",
         "price": 1049,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "308088720": {
         "product_id": 308088720,
@@ -736,8 +730,8 @@
         "width": "0",
         "ratingValue": "4.4103",
         "reviewCount": "78",
-        "price": 1549,
-        "priceValidUntil": "6/21/2021"
+        "price": 1394,
+        "priceValidUntil": "07/14/2021"
     },
     "307634135": {
         "product_id": 307634135,
@@ -754,10 +748,10 @@
         "depth": "42.8125",
         "height": "12.8125",
         "width": "17.1875",
-        "ratingValue": "4.3806",
-        "reviewCount": "607",
-        "price": 944,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.3633",
+        "reviewCount": "622",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "308185053": {
         "product_id": 308185053,
@@ -776,8 +770,8 @@
         "width": "0",
         "ratingValue": "4.3155",
         "reviewCount": "168",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "207024938": {
         "product_id": 207024938,
@@ -796,8 +790,8 @@
         "width": "13.8",
         "ratingValue": "4.1693",
         "reviewCount": "443",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "price": 899,
+        "priceValidUntil": "07/14/2021"
     },
     "304806567": {
         "product_id": 304806567,
@@ -809,15 +803,15 @@
         "Title": "Bosch 800 24 in. 2.2 cu. ft. 240-Volt White with Chrome Accents High-Efficiency Front Load Smart Washer, ENERGY STAR, White/Chrome",
         "Brand": "Bosch",
         "ImageUrl": "https://images.homedepot-static.com/productImages/8c2bd945-12f0-4f76-99ce-786339ef79ef/svn/white-chrome-bosch-front-load-washers-waw285h2uc-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Bosch-800-Series-24-in-2-2-cu-ft-240-Volt-White-with-Chrome-Accents-High-Efficiency-Front-Load-Smart-Washer-ENERGY-STAR-WAW285H2UC/304806567",
+        "ProductPageUrl": "https://www.homedepot.com/p/Bosch-800-24-in-2-2-cu-ft-240-Volt-White-with-Chrome-Accents-High-Efficiency-Front-Load-Smart-Washer-ENERGY-STAR-WAW285H2UC/304806567",
         "Description": "Take the guesswork out of laundry. Thanks to Home Connect, you don't have to guess which setting to select for your clothes. EasyStart recommends the best program based on the types of clothes you select in the app. With your Bosch connected washer and dryer, you can start a cycle from anywhere (Connectivity and speed varies based on network and Wi-Fi levels), using your smartphone or tablet. Those last-minute changes in life are no longer an inconvenience. Color: White/Chrome.",
         "depth": "42.5",
         "height": "12",
         "width": "12",
-        "ratingValue": "4.4872",
-        "reviewCount": "39",
+        "ratingValue": "4.439",
+        "reviewCount": "41",
         "price": 1549,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "309378425": {
         "product_id": 309378425,
@@ -837,7 +831,7 @@
         "ratingValue": "2.3333",
         "reviewCount": "3",
         "price": 1212.49,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     },
     "312113737": {
         "product_id": 312113737,
@@ -856,28 +850,28 @@
         "width": "15",
         "ratingValue": "3.4583",
         "reviewCount": "48",
-        "price": 1044.99,
-        "priceValidUntil": "6/21/2021"
+        "price": 970.87,
+        "priceValidUntil": "7/3/2021"
     },
-    "312441373": {
-        "product_id": 312441373,
-        "modelNbr": "WM3600HVA",
+    "312440570": {
+        "product_id": 312440570,
+        "modelNbr": "WM3600HWA",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FL WASHERS W/OUT HOSES",
         "Type2": "OTHER",
-        "Title": "LG Electronics 27 in. 4.5 cu. ft. Ultra Large Capacity Graphite Steel Front Load Washer with Steam and Wi-Fi Connectivity",
+        "Title": "LG Electronics 27 in. 4.5 cu. ft.Ultra Large Capacity White Front Load Washer with Steam and Wi-Fi Connectivity",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/16986828-5b4e-414c-a5c6-7badcb1b6ada/svn/graphite-steel-lg-electronics-front-load-washers-wm3600hva-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-4-5-cu-ft-Ultra-Large-Capacity-Graphite-Steel-Front-Load-Washer-with-Steam-and-Wi-Fi-Connectivity-WM3600HVA/312441373",
-        "Description": "Giving your clothes the care they deserve doesn't have to be complicated. This washer features built-in intelligence that takes out the guesswork, using AI technology and advanced sensors to detect fabric texture and load size to automatically select the perfect settings. Activate Smart Pairing in the ThinQ app, and the washer can even tell the dryer to select a compatible drying cycle, making it the ultimate laundry hack. Using the app, you can even start the washer or check remaining cycle time from anywhere to save time and simplify laundry day. Asthma or allergies a concern? Select the Allergiene cycle that uses the gentle power of steam to reduce common household allergens in bedding, baby clothes and more. Durable and stylish tempered glass door with white or silver accents adds the perfect finish. Color: Graphite Steel.",
-        "depth": "55",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/ab94cbed-ffe7-4e7d-a24a-961cedbb19ca/svn/white-lg-electronics-front-load-washers-wm3600hwa-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-4-5-cu-ft-Ultra-Large-Capacity-White-Front-Load-Washer-with-Steam-and-Wi-Fi-Connectivity-WM3600HWA/312440570",
+        "Description": "Giving your clothes the care they deserve doesn't have to be complicated. This washer features built-in intelligence that takes out the guesswork, using AI technology and advanced sensors to detect fabric texture and load size to automatically select the perfect settings. Activate Smart Pairing in the ThinQ app, and the washer can even tell the dryer to select a compatible drying cycle, making it the ultimate laundry hack. Using the app, you can even start the washer or check remaining cycle time from anywhere to save time and simplify laundry day. Asthma or allergies a concern? Select the Allergiene cycle that uses the gentle power of steam to reduce common household allergens in bedding, baby clothes and more. Durable and stylish tempered glass door with white or silver accents adds the perfect finish.",
+        "depth": "52",
         "height": "16.93",
         "width": "16.93",
-        "ratingValue": "4.4593",
-        "reviewCount": "553",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4529",
+        "reviewCount": "605",
+        "price": 798,
+        "priceValidUntil": "07/14/2021"
     },
     "308241827": {
         "product_id": 308241827,
@@ -894,10 +888,10 @@
         "depth": "51.31",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.4492",
-        "reviewCount": "1968",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4479",
+        "reviewCount": "1985",
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "311102566": {
         "product_id": 311102566,
@@ -916,8 +910,8 @@
         "width": "17.1875",
         "ratingValue": "4.4762",
         "reviewCount": "21",
-        "price": 1079,
-        "priceValidUntil": "06/22/2021"
+        "price": 898,
+        "priceValidUntil": "07/14/2021"
     },
     "308241954": {
         "product_id": 308241954,
@@ -934,30 +928,30 @@
         "depth": "32.94",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.4952",
-        "reviewCount": "1359",
-        "price": 1049,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.4884",
+        "reviewCount": "1374",
+        "price": 944,
+        "priceValidUntil": "07/14/2021"
     },
-    "309168896": {
-        "product_id": 309168896,
-        "modelNbr": "WF45R6300AV",
+    "309168928": {
+        "product_id": 309168928,
+        "modelNbr": "WF45R6300AC",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FL WASHERS W/OUT HOSES",
         "Type2": "OTHER",
-        "Title": "Samsung 4.5 cu. ft. High-Efficiency Fingerprint Resistant Black Stainless Front Load Washing Machine with Steam and Super Speed, Fingerprint Resistant Black Stainless Steel",
+        "Title": "Samsung 4.5 cu. ft. High-Efficiency Champagne Front Load Washing Machine with Steam and Super Speed, Beige",
         "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/5fe9f9fb-c19e-4ebd-b0e8-83a556faf1b5/svn/fingerprint-resistant-black-stainless-steel-samsung-front-load-washers-wf45r6300av-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-4-5-cu-ft-High-Efficiency-Fingerprint-Resistant-Black-Stainless-Front-Load-Washing-Machine-with-Steam-and-Super-Speed-WF45R6300AV/309168896",
-        "Description": "Samsungs 4.5 cu. ft. capacity front load washer featuring Super Speed allows you to wash a full load of laundry in just 30 minutes, without sacrificing cleaning performance. With Bixby Enabled Wi-Fi Connectivity, this washer allows you to remotely start or stop your cycle, schedule laundry on your time, receive end of cycle alerts, and more right from your smartphone2. With Steam cleaning, you can eliminate stains without the need to pretreat. Bring inspiration to your laundry room with beautiful designer colors, including Black Stainless Steel and our Champagne finish. Color: Fingerprint Resistant Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/3aa4a9b7-ef78-4fac-9cc2-30284552198b/svn/champagne-samsung-front-load-washers-wf45r6300ac-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-4-5-cu-ft-High-Efficiency-Champagne-Front-Load-Washing-Machine-with-Steam-and-Super-Speed-WF45R6300AC/309168928",
+        "Description": "Samsungs 4.5 cu. ft. capacity front load washer featuring Super Speed allows you to wash a full load of laundry in just 30 minutes, without sacrificing cleaning performance. With Bixby Enabled Wi-Fi Connectivity, this washer allows you to remotely start or stop your cycle, schedule laundry on your time, receive end of cycle alerts, and more right from your smartphone2. With Steam cleaning, you can eliminate stains without the need to pretreat. Bring inspiration to your laundry room with beautiful designer colors, including Black Stainless Steel and our Champagne finish.",
         "depth": "54.6",
         "height": "38.75",
         "width": "22",
-        "ratingValue": "4.3339",
-        "reviewCount": "566",
-        "price": 778,
-        "priceValidUntil": "06/22/2021"
+        "ratingValue": "4.3446",
+        "reviewCount": "563",
+        "price": 698,
+        "priceValidUntil": "07/14/2021"
     },
     "312839622": {
         "product_id": 312839622,
@@ -973,30 +967,30 @@
         "depth": "42",
         "height": "13",
         "width": "13",
-        "ratingValue": "4.4545",
-        "reviewCount": "22",
+        "ratingValue": "4.4583",
+        "reviewCount": "24",
         "price": 989,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
     },
-    "312440202": {
-        "product_id": 312440202,
-        "modelNbr": "WM4000HWA",
+    "312440061": {
+        "product_id": 312440061,
+        "modelNbr": "WM4000HBA",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "FL WASHERS W/OUT HOSES",
         "Type2": "OTHER",
-        "Title": "LG Electronics 27 in. 4.5 cu. ft. White Ultra Large Capacity Front Load Washer with TurboWash 360 Steam",
+        "Title": "LG Electronics 27 in. 4.5 cu. ft. Black Steel Ultra Capacity Front Load Washing Machine with TurboWash360",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/a3c4b4d5-e889-4a02-836e-7ca5d47ac958/svn/white-lg-electronics-front-load-washers-wm4000hwa-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-4-5-cu-ft-White-Ultra-Large-Capacity-Front-Load-Washer-with-TurboWash-360-Steam-WM4000HWA/312440202",
-        "Description": "When sleek good looks meet powerful cleaning and intelligent performance, you'll experience laundry on a whole new level. TurboWash 360° cleans larger loads fast so you get more done while enjoying the same great washing performance. And forget about endless sorting-AI technology uses built-in sensors to detect fabric texture and load size and then automatically selects the right settings for advanced fabric care. Activate Smart Pairing in the ThinQ app, and the washer can even tell the dryer to select a compatible drying cycle, making it the ultimate laundry hack. The gentle power of steam reduces common household allergens in fabrics by more than 95%. Durable and stylish tempered glass door with rose gold accents adds the perfect finish. Based on certification by the Asthma and Allergy Foundation of America (AAFA). Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/18a3f51e-0bbd-44ec-9af6-f1f5e0450546/svn/black-steel-lg-electronics-front-load-washers-wm4000hba-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-27-in-4-5-cu-ft-Black-Steel-Ultra-Capacity-Front-Load-Washing-Machine-with-TurboWash360-WM4000HBA/312440061",
+        "Description": "When sleek good looks meet powerful cleaning and intelligent performance, you'll experience laundry on a whole new level. TurboWash 360° cleans larger loads fast so you get more done while enjoying the same great washing performance. And forget about endless sorting-AI technology uses built-in sensors to detect fabric texture and load size and then automatically selects the right settings for advanced fabric care. Activate Smart Pairing in the ThinQ app, and the washer can even tell the dryer to select a compatible drying cycle, making it the ultimate laundry hack. The gentle power of steam reduces common household allergens in fabrics by more than 95%. Durable and stylish tempered glass door with rose gold accents adds the perfect finish. Based on certification by the Asthma and Allergy Foundation of America (AAFA). Color: Black Steel.",
         "depth": "55",
-        "height": "16.06",
-        "width": "16.06",
-        "ratingValue": "4.626",
-        "reviewCount": "639",
-        "price": 999,
-        "priceValidUntil": "6/21/2021"
+        "height": "16.93",
+        "width": "16.93",
+        "ratingValue": "4.638",
+        "reviewCount": "685",
+        "price": 998,
+        "priceValidUntil": "07/14/2021"
     },
     "207024916": {
         "product_id": 207024916,
@@ -1013,10 +1007,10 @@
         "depth": "45",
         "height": "12",
         "width": "12",
-        "ratingValue": "3.8363",
-        "reviewCount": "666",
-        "price": 1599,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "3.8336",
+        "reviewCount": "673",
+        "price": 1098,
+        "priceValidUntil": "07/14/2021"
     },
     "308304190": {
         "product_id": 308304190,
@@ -1033,10 +1027,10 @@
         "depth": "56.5",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.2451",
-        "reviewCount": "1367",
-        "price": 949,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2454",
+        "reviewCount": "1369",
+        "price": 854,
+        "priceValidUntil": "07/14/2021"
     },
     "206972978": {
         "product_id": 206972978,
@@ -1056,6 +1050,6 @@
         "ratingValue": "3.9764",
         "reviewCount": "423",
         "price": 1299,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/3/2021"
     }
 }
