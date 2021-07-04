@@ -1,24 +1,4 @@
 {
-    "308089259": {
-        "product_id": 308089259,
-        "modelNbr": "WGD9620HBK",
-        "Category": "APPLIANCES",
-        "ApplType": "LAUNDRY",
-        "Type1": "STEAM DRY GAS W/O HOSES",
-        "Type2": "OTHER",
-        "Title": "Whirlpool 7.4 cu. ft. 120-Volt Black Shadow Stackable Smart Gas Vented Dryer with Remote Start, ENERGY STAR",
-        "Brand": "Whirlpool",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/4665609a-3b14-452d-bfbf-deb16ff136a5/svn/black-shadow-whirlpool-gas-dryers-wgd9620hbk-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-7-4-cu-ft-120-Volt-Black-Shadow-Stackable-Smart-Gas-Vented-Dryer-with-Remote-Start-ENERGY-STAR-WGD9620HBK/308089259",
-        "Description": "Stay in control and connected from anywhere with a smart front load dryer and the Whirlpool® app.* It includes a dryer rack that attaches inside the stainless steel drum for tumble-free drying of bulky or delicate items. When drying ends, the ENERGY STAR® certified gas dryer's Wrinkle Shield™ Plus option with Steam helps release and prevent wrinkles. Color: Black Shadow.",
-        "depth": "54.5",
-        "height": "0",
-        "width": "0",
-        "ratingValue": "4.6429",
-        "reviewCount": "14",
-        "price": 1529,
-        "priceValidUntil": "07/14/2021"
-    },
     "312440513": {
         "product_id": 312440513,
         "modelNbr": "DLGX4001W",
@@ -37,6 +17,26 @@
         "ratingValue": "4.6763",
         "reviewCount": "139",
         "price": 998,
+        "priceValidUntil": "07/14/2021"
+    },
+    "308089259": {
+        "product_id": 308089259,
+        "modelNbr": "WGD9620HBK",
+        "Category": "APPLIANCES",
+        "ApplType": "LAUNDRY",
+        "Type1": "STEAM DRY GAS W/O HOSES",
+        "Type2": "OTHER",
+        "Title": "Whirlpool 7.4 cu. ft. 120-Volt Black Shadow Stackable Smart Gas Vented Dryer with Remote Start, ENERGY STAR",
+        "Brand": "Whirlpool",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/4665609a-3b14-452d-bfbf-deb16ff136a5/svn/black-shadow-whirlpool-gas-dryers-wgd9620hbk-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-7-4-cu-ft-120-Volt-Black-Shadow-Stackable-Smart-Gas-Vented-Dryer-with-Remote-Start-ENERGY-STAR-WGD9620HBK/308089259",
+        "Description": "Stay in control and connected from anywhere with a smart front load dryer and the Whirlpool® app.* It includes a dryer rack that attaches inside the stainless steel drum for tumble-free drying of bulky or delicate items. When drying ends, the ENERGY STAR® certified gas dryer's Wrinkle Shield™ Plus option with Steam helps release and prevent wrinkles. Color: Black Shadow.",
+        "depth": "54.5",
+        "height": "0",
+        "width": "0",
+        "ratingValue": "4.6429",
+        "reviewCount": "14",
+        "price": 1529,
         "priceValidUntil": "07/14/2021"
     }
 }

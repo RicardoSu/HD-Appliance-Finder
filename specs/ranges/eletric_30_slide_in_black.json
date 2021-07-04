@@ -34,10 +34,30 @@
         "depth": "48.25",
         "height": "19.5",
         "width": "24.125",
-        "ratingValue": "4.5065",
-        "reviewCount": "689",
+        "ratingValue": "4.5139",
+        "reviewCount": "395",
         "price": 1909,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
+    },
+    "302778526": {
+        "product_id": 302778526,
+        "modelNbr": "WEE750H0HB",
+        "Category": "APPLIANCES",
+        "ApplType": "COOKING",
+        "Type1": "SLIDE IN ELECTRIC",
+        "Type2": "MAYTAG",
+        "Title": "Whirlpool 6.4 cu. ft. Smart Slide-In Electric Range with Scan-to-Cook Technology in Black",
+        "Brand": "Whirlpool",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/0d9e47b1-ef44-4ecf-bbaa-0d52a7d6d475/svn/black-whirlpool-single-oven-electric-ranges-wee750h0hb-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-6-4-cu-ft-Smart-Slide-In-Electric-Range-with-Scan-to-Cook-Technology-in-Black-WEE750H0HB/302778526",
+        "Description": "Cut out routine steps and get the right settings every time with this slide-in electric range. Send YUMMLY Guided Cooking instructions directly to the smart range or use Scan-to-Cook technology to start cooking frozen foods in the self-cleaning oven using your smartphone or tablet. The stove's touchscreen provides instant accessto settings your family uses most, too. Color: Black.",
+        "depth": "48.8",
+        "height": "21.38",
+        "width": "24.38",
+        "ratingValue": "4.0127",
+        "reviewCount": "237",
+        "price": 1999,
+        "priceValidUntil": "7/4/2021"
     },
     "306757872": {
         "product_id": 306757872,
@@ -54,8 +74,8 @@
         "depth": "45",
         "height": "18.625",
         "width": "24.38",
-        "ratingValue": "4.3372",
-        "reviewCount": "1394",
+        "ratingValue": "4.3374",
+        "reviewCount": "1396",
         "price": 948,
         "priceValidUntil": "07/07/2021"
     }

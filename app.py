@@ -1,17 +1,17 @@
 from flask import Flask, render_template, url_for, request, Response, jsonify
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from flask_sqlalchemy import SQLAlchemy
+from console_log import ConsoleLog
+from bs4 import BeautifulSoup
 from datetime import datetime
+import requests
 import logging
-import sys
+import aiohttp
+import asyncio
 import pprint
 import json
-import requests
-import aiohttp
+import sys
 import ssl
-import asyncio
-from bs4 import BeautifulSoup
-from concurrent.futures import ProcessPoolExecutor, as_completed
-from console_log import ConsoleLog
 
 
 app = Flask(__name__)
@@ -20,7 +20,6 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///test.db'
 
 db = SQLAlchemy(app)
-
 
 class Todo(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -32,16 +31,17 @@ class Todo(db.Model):
         return '<Task %r>' % self.id
 
 
-# Functions to porcess zipcode with data
 URLs = []
 
-
 def json_finder(folder_name, json_file, zip_code):
+
     path = f"data/{folder_name}/{json_file}.json"
+
     with open(path) as json_file:
         appliance_json = json.load(json_file)
         sku_list = list(appliance_json.values())[0]
     hd_url = "https://www.homedepot.com/mcc-cart/v3/appliance/deliveryAvailability/{}/zipCode/{}"
+    
     for sku in sku_list:
         URLs.append(hd_url.format(sku, zip_code))
 
@@ -49,7 +49,6 @@ def json_finder(folder_name, json_file, zip_code):
 async def fetch(session, url):
     async with session.get(url, ssl=ssl.SSLContext()) as response:
         return await response.json()
-
 
 async def fetch_all(urls, loop):
     # If code doe not run and have error ValueError: too many file descriptors in select()
@@ -84,7 +83,7 @@ def finder():
             pass
 
     return available_app
-# End functions to porcess zipcode with data
+# End functions to process zipcode with data
 
 
 @app.route('/')
@@ -235,40 +234,6 @@ def dishwashers():
     else:
         return render_template('refrigerators.html')
 
-@app.route('/appliances/dryers', methods=['GET', 'POST'])
-def dryers():
-    if request.method == 'POST':
-        # Grabs user input
-        fridge = (request.form.get("fridge_type"))
-        color = (request.form.get("Color_Type"))
-        zip_code = (request.form.get("customer_zip_code"))
-        file_to_open = (f"{fridge}_{color}.json")
-        print(f"file to open = {(file_to_open)}")
-
-        # Grabs appliance data from files  - (STORED DATA)
-        json_key = f"specs/refrigerators/{file_to_open}"
-        with open(json_key) as data_dict:
-            new_data_dict = json.load(data_dict)
-
-        # Prints only available appliances - (NEW DATA)
-        URLs = []
-        json_finder("refrigerators", fridge, zip_code)
-        json_data = finder()
-
-        for k in new_data_dict:
-            if k in json_data.keys():
-                new_data_dict[k].update(json_data.get(k, {}))
-
-        final_dict = dict()
-        for i, (k, v) in enumerate(new_data_dict.items()):
-            if "status" in v:
-                final_dict[k] = v
-
-        return render_template('products.html', title="page",
-                               jsonfile=final_dict.items())
-    else:
-        return render_template('refrigerators.html')
-
 @app.route('/appliances/microwaves', methods=['GET', 'POST'])
 def microwaves():
     if request.method == 'POST':
@@ -303,8 +268,8 @@ def microwaves():
     else:
         return render_template('refrigerators.html')
 
-@app.route('/appliances/washing_machine', methods=['GET', 'POST'])
-def washing_machine():
+@app.route('/appliances/washer_dryer', methods=['GET', 'POST'])
+def washer_dryer():
     if request.method == 'POST':
         # Grabs user input
         fridge = (request.form.get("fridge_type"))

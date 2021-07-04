@@ -1,23 +1,6 @@
 {
-	"dishwashers": {
-		"portable": "5yc1vZc3p1",
-		"front_control": "5yc1vZc3njZ1z0zbkpZ1z10atj",
-		"top_control": "5yc1vZc3njZ1z0zbkpZ1z10atb",
-		"compact": "5yc1vZc3poZ1z1dgdn",
-		"portable_stainless_steel": "5yc1vZc3p1Z1z0kmam",
-		"portable_white": "5yc1vZc3p1Z1z141fz",
-		"portable_black": "5yc1vZc3p1Z1z141mn",
-		"front_control_stainless_steel": "5yc1vZc3njZ1z0zbkpZ1z10atjZ1z0kmam",
-		"front_control_white": "5yc1vZc3njZ1z0zbkpZ1z10atjZ1z141fz",
-		"front_control_black": "5yc1vZc3njZ1z0zbkpZ1z10atjZ1z141mn",
-		"top_control_stainless_steel": "5yc1vZc3njZ1z0zbkpZ1z10atbZ1z0kmam",
-		"top_control_white": "5yc1vZc3njZ1z0zbkpZ1z10atbZ1z141fz",
-		"top_control_black": "5yc1vZc3njZ1z0zbkpZ1z10atbZ1z141mn",
-		"compact_stainless_steel": "5yc1vZc3poZ1z1dgdnZ1z0kmam",
-		"compact_white": "5yc1vZc3poZ1z1dgdnZ1z141fz",
-		"compact_black": "5yc1vZc3poZ1z1dgdnZ1z141mn"
-	},
 	"refrigerators": {
+		"french_door_refrigerator_white": "5yc1vZc3ooZ1z141fz",
 		"french_door_refrigerator": "5yc1vZc3oo",
 		"side_by_side_refrigerator": "5yc1vZc3q0",
 		"top_freezer_refrigerator": "5yc1vZc3ns",
@@ -28,7 +11,6 @@
 		"commercial_refrigerators": "5yc1vZc3oe",
 		"freezerless_refrigerators": "5yc1vZc3p9",
 		"french_door_refrigerator_stainless_steel": "5yc1vZc3ooZ1z0kmam",
-		"french_door_refrigerator_white": "5yc1vZc3ooZ1z141fz",
 		"french_door_refrigerator_black": "5yc1vZc3ooZ1z141mn",
 		"side_by_side_refrigerator_stainless_steel": "5yc1vZc3q0Z1z0kmam",
 		"side_by_side_refrigerator_white": "5yc1vZc3q0Z1z141fz",
@@ -97,6 +79,26 @@
 		"freezerless_refrigerators_white": "5yc1vZc3p9Z1z141fz",
 		"freezerless_refrigerators_black": "5yc1vZc3p9Z1z141mn"
 	},
+
+	"dishwashers": {
+		"portable": "5yc1vZc3p1",
+		"front_control": "5yc1vZc3njZ1z0zbkpZ1z10atj",
+		"top_control": "5yc1vZc3njZ1z0zbkpZ1z10atb",
+		"compact": "5yc1vZc3poZ1z1dgdn",
+		"portable_stainless_steel": "5yc1vZc3p1Z1z0kmam",
+		"portable_white": "5yc1vZc3p1Z1z141fz",
+		"portable_black": "5yc1vZc3p1Z1z141mn",
+		"front_control_stainless_steel": "5yc1vZc3njZ1z0zbkpZ1z10atjZ1z0kmam",
+		"front_control_white": "5yc1vZc3njZ1z0zbkpZ1z10atjZ1z141fz",
+		"front_control_black": "5yc1vZc3njZ1z0zbkpZ1z10atjZ1z141mn",
+		"top_control_stainless_steel": "5yc1vZc3njZ1z0zbkpZ1z10atbZ1z0kmam",
+		"top_control_white": "5yc1vZc3njZ1z0zbkpZ1z10atbZ1z141fz",
+		"top_control_black": "5yc1vZc3njZ1z0zbkpZ1z10atbZ1z141mn",
+		"compact_stainless_steel": "5yc1vZc3poZ1z1dgdnZ1z0kmam",
+		"compact_white": "5yc1vZc3poZ1z1dgdnZ1z141fz",
+		"compact_black": "5yc1vZc3poZ1z1dgdnZ1z141mn"
+	},
+
 	"ranges": {
 		"eletric_30_slide_in": "5yc1vZc3obZ1z0yhyoZ1z127ec",
 		"eletric_30_freestanding": "5yc1vZc3obZ1z0yhyoZ1z127eh",

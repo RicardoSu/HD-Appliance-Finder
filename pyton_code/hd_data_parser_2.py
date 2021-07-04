@@ -14,6 +14,8 @@ Home depot DATA Parser:
 This code uses the data stored data from Home depot SKU Parser
 and creates JSON files with the products specifications, and
 stores in organized json files
+
+4418.8 seconds
 """
 
 
@@ -44,7 +46,7 @@ def availability_checker(folder_name, json_file):
 
         # if key deliveryAvailability is on the json reponse returns true
         if "Products" in json_response_descr["Includes"]:
-            #New id is created since the website can have 
+            # New id is created since the website can have
             # a diferent key inside the website data
 
             new_id = list(
@@ -57,8 +59,11 @@ def availability_checker(folder_name, json_file):
 
             functional_dict[my_product_id] = {}
             functional_dict[my_product_id]["product_id"] = my_product_id
-            functional_dict[my_product_id]["modelNbr"] = json_response_descr[
-                "Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
+            try:
+                functional_dict[my_product_id]["modelNbr"] = json_response_descr[
+                    "Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
+            except IndexError:
+                functional_dict[my_product_id]["modelNbr"] = ""
             description_parser(functional_dict, my_product_id)
             bs4_decoder(functional_dict, my_product_id)
 
@@ -134,13 +139,13 @@ def description_parser(my_dict, my_product_id):
     except KeyError:
         print(f"Bad key")
 
-
     if my_product_id != key:
         my_product_id = key
     # item number is diferent from imput
     my_product_id = int(my_product_id)
 
-    short_response_descr = json_response_descr["Includes"]["Products"][f"{my_product_id}"]
+    short_response_descr = json_response_descr[
+        "Includes"]["Products"][f"{my_product_id}"]
 
     item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[
         0].rstrip(">")
@@ -203,32 +208,6 @@ def files_subdirectory_finder():
 
 
 files_subdirectory_finder()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Stores as a CVS FILE

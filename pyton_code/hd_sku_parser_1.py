@@ -16,6 +16,8 @@ easily track and categorize products, this code reads a JSON file
 and scrapes the home depot website with the provided N-value that Home
 Depot uses to order similar products, and return organized JSON files
  with the new data.
+
+4092.004 seconds
 """
 
 
@@ -64,8 +66,13 @@ def load_dinamically(father_keys, keys, values):
         html = driver.page_source
         soup = BeautifulSoup(html, "lxml")
 
+        # Edited since it was grabbing all colors
+        # lxml_father = soup.find_all(
+        #     'div', attrs={"data-automation-id": "podnode"})
+
+        # Only grabs specific N value color
         lxml_father = soup.find_all(
-            'div', attrs={"data-automation-id": "podnode"})
+            'div', class_="desktop product-pod")
 
         # checks len to break code after there is no more results
         prev_len = len(product_skus)

@@ -17,26 +17,26 @@
         "ratingValue": "3.0",
         "reviewCount": "3",
         "price": 712.59,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
-    "308770518": {
-        "product_id": 308770518,
-        "modelNbr": "FGIP2468UD",
+    "308728328": {
+        "product_id": 308728328,
+        "modelNbr": "FGIP2468UF",
         "Category": "APPLIANCES",
         "ApplType": "DISHWASHERS",
         "Type1": "TOP CONTROL",
         "Type2": "PLASTIC",
-        "Title": "FRIGIDAIRE GALLERY 24 in. Smudge Proof Black Stainless Steel Top Control Built-In Tall Tub Dishwasher, ENERGY STAR, 49 dBA, Smudge-Proof Black Stainless Steel",
+        "Title": "FRIGIDAIRE GALLERY 24 in. Smudge Proof Stainless Steel Top Control Built-In Tall Tub Dishwasher, ENERGY STAR, 49 dBA, Smudge-Proof Stainless Steel",
         "Brand": "FRIGIDAIRE GALLERY",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/5a3a9c04-5c93-45eb-9715-633c550eb407/svn/smudge-proof-black-stainless-steel-frigidaire-gallery-built-in-dishwashers-fgip2468ud-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/FRIGIDAIRE-GALLERY-24-in-Smudge-Proof-Black-Stainless-Steel-Top-Control-Built-In-Tall-Tub-Dishwasher-ENERGY-STAR-49-dBA-FGIP2468UD/308770518",
-        "Description": "The Frigidaire Gallery 24\" Built-In Dishwasher features the Dual OrbitClean Wash System that removes tough, dried and baked on food better than any other dishwasher. The MaxBoost Dry system delivers the fastest, best overall drying performance. Save time loading and washing your dishes with the SpaceWise Adjustable Rack and 34-Minute Quick Wash. Color: Smudge-Proof Black Stainless Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/cc1c7f4f-ddd9-4847-a96a-e4f055abb1cc/svn/smudge-proof-stainless-steel-frigidaire-gallery-built-in-dishwashers-fgip2468uf-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/FRIGIDAIRE-GALLERY-24-in-Smudge-Proof-Stainless-Steel-Top-Control-Built-In-Tall-Tub-Dishwasher-ENERGY-STAR-49-dBA-FGIP2468UF/308728328",
+        "Description": "The Frigidaire Gallery 24 in. Built-In Dishwasher features the Dual OrbitClean Wash System that removes tough, dried and baked on food better than any other dishwasher. The MaxBoost Dry system delivers the fastest, best overall drying performance. Save time loading and washing your dishes with the SpaceWise Adjustable Rack and 34-Minute Quick Wash. Color: Smudge-Proof Stainless Steel.",
         "depth": "24 in",
         "height": "34 in",
         "width": "24 in",
-        "ratingValue": "4.2485",
-        "reviewCount": "2249",
-        "price": 674,
+        "ratingValue": "4.2474",
+        "reviewCount": "2251",
+        "price": 629,
         "priceValidUntil": "07/14/2021"
     },
     "304644690": {
@@ -54,10 +54,10 @@
         "depth": "24 in",
         "height": "33.88 in",
         "width": "23.56 in",
-        "ratingValue": "4.5573",
-        "reviewCount": "3779",
+        "ratingValue": "4.557",
+        "reviewCount": "3783",
         "price": 899,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "305589801": {
         "product_id": 305589801,
@@ -77,7 +77,7 @@
         "ratingValue": "4.4291",
         "reviewCount": "2855",
         "price": 799,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "305193001": {
         "product_id": 305193001,
@@ -114,8 +114,8 @@
         "depth": "24",
         "height": "34.25",
         "width": "24 in",
-        "ratingValue": "3.9739",
-        "reviewCount": "5137",
+        "ratingValue": "3.973",
+        "reviewCount": "5141",
         "price": 476,
         "priceValidUntil": "07/14/2021"
     },
@@ -154,8 +154,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "24 in",
-        "ratingValue": "4.5744",
-        "reviewCount": "3668",
+        "ratingValue": "4.5745",
+        "reviewCount": "3669",
         "price": 584,
         "priceValidUntil": "07/14/2021"
     },
@@ -171,7 +171,13 @@
         "ImageUrl": "https://images.homedepot-static.com/productImages/789d780e-f2bc-4409-943e-25626ee17398/svn/fingerprint-resistant-stainless-steel-maytag-built-in-dishwashers-mdb4949skz-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/Maytag-24-in-Fingerprint-Resistant-Stainless-Front-Control-Built-In-Tall-Tub-Dishwasher-with-Dual-Power-Filtration-50-dBA-MDB4949SKZ/313573991",
         "Description": "Skip the soaking and scrubbing with Dual Power filtration, a dishwasher filtration system that disintegrates any food in its path. Maytag dishwashers with Heated Dry reduce excess moisture so dishes come out dry, while a full stainless steel tub is tough enough to resist cracking and staining for years. Plus, ENERGY STAR certified dishwashers help save money on utility bills. Color: Fingerprint Resistant Stainless Steel.",
-        "Discontinued": true
+        "depth": "24",
+        "height": "34",
+        "width": "24",
+        "ratingValue": "4.6626",
+        "reviewCount": "1236",
+        "price": 719,
+        "priceValidUntil": "07/14/2021"
     },
     "301319269": {
         "product_id": 301319269,
@@ -191,7 +197,7 @@
         "ratingValue": "3.8065",
         "reviewCount": "31",
         "price": 1699,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "206035050": {
         "product_id": 206035050,
@@ -228,8 +234,8 @@
         "depth": "24",
         "height": "34",
         "width": "24",
-        "ratingValue": "4.5215",
-        "reviewCount": "1187",
+        "ratingValue": "4.5219",
+        "reviewCount": "1188",
         "price": 1079,
         "priceValidUntil": "07/14/2021"
     },
@@ -273,26 +279,6 @@
         "price": 809,
         "priceValidUntil": "07/14/2021"
     },
-    "312290940": {
-        "product_id": 312290940,
-        "modelNbr": "MDB7959SKZ",
-        "Category": "APPLIANCES",
-        "ApplType": "DISHWASHERS",
-        "Type1": "TOP CONTROL",
-        "Type2": "STAINLESS STEEL",
-        "Title": "Maytag 24 in. Fingerprint Resistant Stainless Steel Top Control Built-in Tall Tub Dishwasher with ENERGY STAR, 50 dBA",
-        "Brand": "Maytag",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/1d42fc50-c5ad-4679-87a3-00a0b7742732/svn/fingerprint-resistant-stainless-steel-maytag-built-in-dishwashers-mdb7959skz-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Maytag-24-in-Fingerprint-Resistant-Stainless-Steel-Top-Control-Built-in-Tall-Tub-Dishwasher-with-ENERGY-STAR-50-dBA-MDB7959SKZ/312290940",
-        "Description": "Skip the soaking and scrubbing with Dual Power filtration, a dishwasher filtration system that disintegrates any food in its path. Maytag dishwashers with a full stainless steel tub are tough enough to resist cracking and staining, while Leak Detect helps prevent overflowing. Plus, ENERGY STAR certified dishwashers help save money on utility bills. Color: Fingerprint Resistant Stainless Steel.",
-        "depth": "28",
-        "height": "34",
-        "width": "24",
-        "ratingValue": "4.6667",
-        "reviewCount": "69",
-        "price": 799,
-        "priceValidUntil": "7/3/2021"
-    },
     "312590491": {
         "product_id": 312590491,
         "modelNbr": "GDT530PGPWW",
@@ -308,8 +294,8 @@
         "depth": "24",
         "height": "34",
         "width": "23.75",
-        "ratingValue": "4.1629",
-        "reviewCount": "1792",
+        "ratingValue": "4.1643",
+        "reviewCount": "1795",
         "price": 494,
         "priceValidUntil": "07/14/2021"
     },
@@ -328,10 +314,10 @@
         "depth": "23.06 in",
         "height": "33.88 in",
         "width": "23.56 in",
-        "ratingValue": "4.3497",
-        "reviewCount": "143",
+        "ratingValue": "4.3542",
+        "reviewCount": "144",
         "price": 949,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "311289826": {
         "product_id": 311289826,
@@ -348,8 +334,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "23.75 in",
-        "ratingValue": "4.3248",
-        "reviewCount": "505",
+        "ratingValue": "4.4615",
+        "reviewCount": "1040",
         "price": 674,
         "priceValidUntil": "07/14/2021"
     },
@@ -371,7 +357,7 @@
         "ratingValue": "3.1176",
         "reviewCount": "17",
         "price": 899.95,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "301706440": {
         "product_id": 301706440,
@@ -408,8 +394,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "23.75 in",
-        "ratingValue": "4.4611",
-        "reviewCount": "4778",
+        "ratingValue": "4.4606",
+        "reviewCount": "4779",
         "price": 854,
         "priceValidUntil": "07/14/2021"
     },
@@ -451,7 +437,7 @@
         "ratingValue": "1.0",
         "reviewCount": "2",
         "price": 761.71,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "310622934": {
         "product_id": 310622934,
@@ -468,9 +454,29 @@
         "depth": "24 in",
         "height": "33.50 in",
         "width": "24 in",
-        "ratingValue": "4.1622",
-        "reviewCount": "863",
+        "ratingValue": "4.1642",
+        "reviewCount": "865",
         "price": 809,
+        "priceValidUntil": "07/14/2021"
+    },
+    "308770518": {
+        "product_id": 308770518,
+        "modelNbr": "FGIP2468UD",
+        "Category": "APPLIANCES",
+        "ApplType": "DISHWASHERS",
+        "Type1": "TOP CONTROL",
+        "Type2": "PLASTIC",
+        "Title": "FRIGIDAIRE GALLERY 24 in. Smudge Proof Black Stainless Steel Top Control Built-In Tall Tub Dishwasher, ENERGY STAR, 49 dBA, Smudge-Proof Black Stainless Steel",
+        "Brand": "FRIGIDAIRE GALLERY",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/5a3a9c04-5c93-45eb-9715-633c550eb407/svn/smudge-proof-black-stainless-steel-frigidaire-gallery-built-in-dishwashers-fgip2468ud-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/FRIGIDAIRE-GALLERY-24-in-Smudge-Proof-Black-Stainless-Steel-Top-Control-Built-In-Tall-Tub-Dishwasher-ENERGY-STAR-49-dBA-FGIP2468UD/308770518",
+        "Description": "The Frigidaire Gallery 24\" Built-In Dishwasher features the Dual OrbitClean Wash System that removes tough, dried and baked on food better than any other dishwasher. The MaxBoost Dry system delivers the fastest, best overall drying performance. Save time loading and washing your dishes with the SpaceWise Adjustable Rack and 34-Minute Quick Wash. Color: Smudge-Proof Black Stainless Steel.",
+        "depth": "24 in",
+        "height": "34 in",
+        "width": "24 in",
+        "ratingValue": "4.2474",
+        "reviewCount": "2251",
+        "price": 674,
         "priceValidUntil": "07/14/2021"
     },
     "205418713": {
@@ -511,7 +517,7 @@
         "ratingValue": "3.4167",
         "reviewCount": "24",
         "price": 1059.95,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "314140389": {
         "product_id": 314140389,
@@ -528,8 +534,8 @@
         "depth": "24",
         "height": "34",
         "width": "23.75",
-        "ratingValue": "4.4533",
-        "reviewCount": "300",
+        "ratingValue": "4.5413",
+        "reviewCount": "835",
         "price": 584,
         "priceValidUntil": "07/14/2021"
     },
@@ -551,7 +557,7 @@
         "ratingValue": "3.6923",
         "reviewCount": "26",
         "price": 898.67,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "206720229": {
         "product_id": 206720229,
@@ -568,10 +574,10 @@
         "depth": "25",
         "height": "34",
         "width": "24",
-        "ratingValue": "4.3667",
-        "reviewCount": "30",
+        "ratingValue": "4.3871",
+        "reviewCount": "31",
         "price": 879.2,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "315596582": {
         "product_id": 315596582,
@@ -588,8 +594,8 @@
         "depth": "24",
         "height": "34.625",
         "width": "23.75 in",
-        "ratingValue": "3.953",
-        "reviewCount": "1446",
+        "ratingValue": "3.2473",
+        "reviewCount": "93",
         "price": 431,
         "priceValidUntil": "07/14/2021"
     },
@@ -608,8 +614,8 @@
         "depth": "24",
         "height": "34",
         "width": "24",
-        "ratingValue": "4.5778",
-        "reviewCount": "803",
+        "ratingValue": "4.5789",
+        "reviewCount": "805",
         "price": 854,
         "priceValidUntil": "07/14/2021"
     },
@@ -628,30 +634,30 @@
         "depth": "24",
         "height": "34",
         "width": "23.75",
-        "ratingValue": "4.4554",
-        "reviewCount": "1930",
+        "ratingValue": "4.4519",
+        "reviewCount": "1934",
         "price": 764,
         "priceValidUntil": "07/14/2021"
     },
-    "312286448": {
-        "product_id": 312286448,
-        "modelNbr": "KDTM804KPS",
+    "312285513": {
+        "product_id": 312285513,
+        "modelNbr": "KDPM804KPS",
         "Category": "APPLIANCES",
         "ApplType": "DISHWASHERS",
         "Type1": "TOP CONTROL",
         "Type2": "STAINLESS STEEL",
         "Title": "KitchenAid 24 in. PrintShield Stainless Steel Top Control Built-In Tall Tub Dishwasher with Stainless Steel Tub, 44 dBA, Stainless Steel with PrintShield™ Finish",
         "Brand": "KitchenAid",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/cfb4fdcf-e961-48bd-bffd-329321972fb4/svn/stainless-steel-with-printshield-finish-kitchenaid-built-in-dishwashers-kdtm804kps-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/KitchenAid-24-in-PrintShield-Stainless-Steel-Top-Control-Built-In-Tall-Tub-Dishwasher-with-Stainless-Steel-Tub-44-dBA-KDTM804KPS/312286448",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/e0fe1d55-93a2-4040-8fbd-28194661db1a/svn/stainless-steel-with-printshield-finish-kitchenaid-built-in-dishwashers-kdpm804kps-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/KitchenAid-24-in-PrintShield-Stainless-Steel-Top-Control-Built-In-Tall-Tub-Dishwasher-with-Stainless-Steel-Tub-44-dBA-KDPM804KPS/312285513",
         "Description": "Master the mess of making with this dishwasher's three racks of versatile loading possibilities and complete wash coverage. The FREEFLEX Third Rack fits glasses, mugs, bowls, silverware and cooking tools, freeing up room below for pots, plates and mixing bowls. Advanced Clean Water Wash System circulates clean water to dishes in all three racks. LED Interior Lighting illuminates inside for easy loading and unloading. Color: Stainless Steel with PrintShield™ Finish.",
         "depth": "28",
         "height": "34",
         "width": "24",
-        "ratingValue": "4.8526",
-        "reviewCount": "95",
+        "ratingValue": "4.9194",
+        "reviewCount": "62",
         "price": 1799,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "306192068": {
         "product_id": 306192068,
@@ -668,8 +674,8 @@
         "depth": "24",
         "height": "33.5",
         "width": "24",
-        "ratingValue": "4.3716",
-        "reviewCount": "1079",
+        "ratingValue": "4.1737",
+        "reviewCount": "357",
         "price": 584,
         "priceValidUntil": "07/14/2021"
     },
@@ -688,8 +694,8 @@
         "depth": "24",
         "height": "33.5",
         "width": "24",
-        "ratingValue": "4.2972",
-        "reviewCount": "2147",
+        "ratingValue": "4.2215",
+        "reviewCount": "623",
         "price": 584,
         "priceValidUntil": "07/14/2021"
     },
@@ -708,8 +714,8 @@
         "depth": "23.5",
         "height": "32.25",
         "width": "24",
-        "ratingValue": "3.4602",
-        "reviewCount": "339",
+        "ratingValue": "3.4647",
+        "reviewCount": "340",
         "price": 719,
         "priceValidUntil": "07/14/2021"
     },
@@ -748,30 +754,30 @@
         "depth": "24",
         "height": "34",
         "width": "23.75",
-        "ratingValue": "4.4144",
-        "reviewCount": "1998",
+        "ratingValue": "4.4147",
+        "reviewCount": "1999",
         "price": 764,
         "priceValidUntil": "07/14/2021"
     },
-    "310500144": {
-        "product_id": 310500144,
-        "modelNbr": "SHXM65Z55N",
+    "310500129": {
+        "product_id": 310500129,
+        "modelNbr": "SHPM65Z55N",
         "Category": "APPLIANCES",
         "ApplType": "DISHWASHERS",
         "Type1": "BSH NON-ASCENTA",
         "Type2": "OTHER",
-        "Title": "Bosch 500 Series 24 in. Stainless Steel Top Control Tall Tub Bar Handle Dishwasher with Stainless Steel Tub, AutoAir, 44dBA, Silver",
+        "Title": "Bosch 500 Series 24 in. Stainless Steel Top Control Tall Tub Pocket Handle Dishwasher with Stainless Steel Tub, AutoAir, 44dBA, Silver",
         "Brand": "Bosch",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/591f9ada-f041-4a10-8139-ef3fe642bc9f/svn/stainless-steel-bosch-built-in-dishwashers-shxm65z55n-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Bosch-500-Series-24-in-Stainless-Steel-Top-Control-Tall-Tub-Bar-Handle-Dishwasher-with-Stainless-Steel-Tub-AutoAir-44dBA-SHXM65Z55N/310500144",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/ceabf973-2182-4eac-84d0-6ca99cd043b3/svn/stainless-steel-bosch-built-in-dishwashers-shpm65z55n-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Bosch-500-Series-24-in-Stainless-Steel-Top-Control-Tall-Tub-Pocket-Handle-Dishwasher-with-Stainless-Steel-Tub-AutoAir-44dBA-SHPM65Z55N/310500129",
         "Description": "The Bosch 500 Series dishwasher delivers a sparkling clean and dry with advanced PrecisionWash technology and AutoAir. With PrecisionWash, intelligent sensors continually scan and check the progress of dishes throughout the cycle, and powerful spray arms target every item of every load, for the ultimate clean. The all-new AutoAir option automatically releases the door at the end of the cycle to let moisture escape and fresh air in for drier dishes. Color: Stainless Steel.",
         "depth": "24 in",
         "height": "33.88 in",
         "width": "23.63 in",
-        "ratingValue": "4.4738",
-        "reviewCount": "1011",
-        "price": 1049,
-        "priceValidUntil": "7/3/2021"
+        "ratingValue": "4.6105",
+        "reviewCount": "3461",
+        "price": 999,
+        "priceValidUntil": "7/4/2021"
     },
     "310500131": {
         "product_id": 310500131,
@@ -791,7 +797,7 @@
         "ratingValue": "4.595",
         "reviewCount": "121",
         "price": 1249,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "310500134": {
         "product_id": 310500134,
@@ -811,7 +817,7 @@
         "ratingValue": "4.6578",
         "reviewCount": "602",
         "price": 1399,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "310500139": {
         "product_id": 310500139,
@@ -828,10 +834,10 @@
         "depth": "24 in",
         "height": "33.88 in",
         "width": "23.63 in",
-        "ratingValue": "4.5981",
-        "reviewCount": "1605",
+        "ratingValue": "4.5959",
+        "reviewCount": "1606",
         "price": 1249,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "301025580": {
         "product_id": 301025580,
@@ -908,8 +914,8 @@
         "depth": "24 in",
         "height": "34.125",
         "width": "24 in",
-        "ratingValue": "4.5109",
-        "reviewCount": "274",
+        "ratingValue": "4.5127",
+        "reviewCount": "275",
         "price": 568,
         "priceValidUntil": "07/14/2021"
     },
@@ -928,8 +934,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "23.75 in",
-        "ratingValue": "4.4097",
-        "reviewCount": "2026",
+        "ratingValue": "4.4098",
+        "reviewCount": "2028",
         "price": 674,
         "priceValidUntil": "07/14/2021"
     },
@@ -968,8 +974,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "23.75 in",
-        "ratingValue": "4.4416",
-        "reviewCount": "4950",
+        "ratingValue": "4.4411",
+        "reviewCount": "4951",
         "price": 764,
         "priceValidUntil": "07/14/2021"
     },
@@ -988,8 +994,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "23.75 in",
-        "ratingValue": "4.2746",
-        "reviewCount": "2411",
+        "ratingValue": "4.2749",
+        "reviewCount": "2412",
         "price": 854,
         "priceValidUntil": "07/14/2021"
     },
@@ -1008,8 +1014,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "24 in",
-        "ratingValue": "4.4525",
-        "reviewCount": "4643",
+        "ratingValue": "4.4526",
+        "reviewCount": "4644",
         "price": 674,
         "priceValidUntil": "07/14/2021"
     },
@@ -1028,8 +1034,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "23.75 in",
-        "ratingValue": "4.2593",
-        "reviewCount": "937",
+        "ratingValue": "4.2601",
+        "reviewCount": "938",
         "price": 944,
         "priceValidUntil": "07/14/2021"
     },
@@ -1052,26 +1058,6 @@
         "reviewCount": "1107",
         "price": 1169,
         "priceValidUntil": "07/14/2021"
-    },
-    "315139919": {
-        "product_id": 315139919,
-        "modelNbr": "WDTA80SAKZ",
-        "Category": "APPLIANCES",
-        "ApplType": "DISHWASHERS",
-        "Type1": "TOP CONTROL",
-        "Type2": "STAINLESS STEEL",
-        "Title": "Whirlpool 24 in. Stainless Steel Top Control Built-In Tall Tub Dishwasher 120-Volt with Tub, Fingerprint Resistant Stainless Steel",
-        "Brand": "Whirlpool",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/22a3a3cc-c252-44fd-b0a1-82a5d44e32ba/svn/fingerprint-resistant-stainless-steel-whirlpool-built-in-dishwashers-wdta80sakz-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-24-in-Stainless-Steel-Top-Control-Built-In-Tall-Tub-Dishwasher-120-Volt-with-Tub-WDTA80SAKZ/315139919",
-        "Description": "Load more, run less in this fingerprint resistant dishwasher with 3rd Rack. Load bowls and mugs in the 3rd Rack to free up space below and fit tall items where you want in this dishwasher with adjustable rack. And with our quietest dishwasher at 41 dBA, you can keep the conversation going while dishes get clean. Color: Fingerprint Resistant Stainless Steel.",
-        "depth": "24 in",
-        "height": "34 in",
-        "width": "24 in",
-        "ratingValue": "4.5",
-        "reviewCount": "12",
-        "price": 999,
-        "priceValidUntil": "7/3/2021"
     },
     "309054292": {
         "product_id": 309054292,
@@ -1111,7 +1097,7 @@
         "ratingValue": "3.8667",
         "reviewCount": "15",
         "price": 1199.95,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "309337448": {
         "product_id": 309337448,
@@ -1128,8 +1114,8 @@
         "depth": "24 in",
         "height": "34.125 in",
         "width": "24 in",
-        "ratingValue": "4.3301",
-        "reviewCount": "1039",
+        "ratingValue": "4.3298",
+        "reviewCount": "1040",
         "price": 898,
         "priceValidUntil": "07/14/2021"
     },
@@ -1208,8 +1194,8 @@
         "depth": "24",
         "height": "29.875",
         "width": "24",
-        "ratingValue": "4.2193",
-        "reviewCount": "570",
+        "ratingValue": "4.2009",
+        "reviewCount": "214",
         "price": 764,
         "priceValidUntil": "07/14/2021"
     },
@@ -1231,7 +1217,7 @@
         "ratingValue": "4.5",
         "reviewCount": "4",
         "price": 1059.95,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "312552319": {
         "product_id": 312552319,
@@ -1251,7 +1237,7 @@
         "ratingValue": "5.0",
         "reviewCount": "3",
         "price": 1059.95,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "313097107": {
         "product_id": 313097107,
@@ -1308,8 +1294,8 @@
         "depth": "24",
         "height": "34",
         "width": "24 in",
-        "ratingValue": "4.2117",
-        "reviewCount": "789",
+        "ratingValue": "4.2365",
+        "reviewCount": "833",
         "price": 1259,
         "priceValidUntil": "07/14/2021"
     },
@@ -1328,8 +1314,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "24 in",
-        "ratingValue": "4.2315",
-        "reviewCount": "786",
+        "ratingValue": "4.2434",
+        "reviewCount": "830",
         "price": 944,
         "priceValidUntil": "07/14/2021"
     },
@@ -1348,8 +1334,8 @@
         "depth": "23.5 in",
         "height": "32.25 in",
         "width": "23.75 in",
-        "ratingValue": "3.4407",
-        "reviewCount": "59",
+        "ratingValue": "3.5057",
+        "reviewCount": "87",
         "price": 809,
         "priceValidUntil": "07/14/2021"
     },
@@ -1388,8 +1374,8 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "24 in",
-        "ratingValue": "3.9436",
-        "reviewCount": "1648",
+        "ratingValue": "3.9418",
+        "reviewCount": "1650",
         "price": 718,
         "priceValidUntil": "07/14/2021"
     },
@@ -1411,7 +1397,7 @@
         "ratingValue": "4.2982",
         "reviewCount": "57",
         "price": 1519,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "310685115": {
         "product_id": 310685115,
@@ -1428,9 +1414,29 @@
         "depth": "24 in",
         "height": "34 in",
         "width": "23.75 in",
-        "ratingValue": "4.3878",
-        "reviewCount": "98",
+        "ratingValue": "4.2325",
+        "reviewCount": "314",
         "price": 1664,
+        "priceValidUntil": "07/14/2021"
+    },
+    "312290748": {
+        "product_id": 312290748,
+        "modelNbr": "KDPM604KPS",
+        "Category": "APPLIANCES",
+        "ApplType": "DISHWASHERS",
+        "Type1": "TOP CONTROL",
+        "Type2": "STAINLESS STEEL",
+        "Title": "KitchenAid 24 in. PrintShield Stainless Steel Top Control Built-In Tall Tub Dishwasher with Stainless Steel Tub, 44 dBA, Stainless Steel with PrintShield™ Finish",
+        "Brand": "KitchenAid",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/c101bbcc-d80d-493a-b808-e2ebe3b5564d/svn/stainless-steel-with-printshield-finish-kitchenaid-built-in-dishwashers-kdpm604kps-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/KitchenAid-24-in-PrintShield-Stainless-Steel-Top-Control-Built-In-Tall-Tub-Dishwasher-with-Stainless-Steel-Tub-44-dBA-KDPM604KPS/312290748",
+        "Description": "Keep up with the tools you use from prep to table with this dishwasher's three racks of versatile loading possibilities and complete wash coverage. The FreeFlex Third Rack fits glasses, mugs, bowls, silverware and cooking tools, freeing up room below for pots, plates and mixing bowls. Advanced Clean Water Wash System circulates clean water to dishes in all three racks, and the Fan-Enabled ProDry System provides thorough drying, so dishes come out ready for more enjoying. Color: Stainless Steel with PrintShield™ Finish.",
+        "depth": "28",
+        "height": "34",
+        "width": "24",
+        "ratingValue": "4.6821",
+        "reviewCount": "1057",
+        "price": 1169,
         "priceValidUntil": "07/14/2021"
     },
     "316010950": {
@@ -1451,7 +1457,7 @@
         "ratingValue": "1.0",
         "reviewCount": "1",
         "price": 1249,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "304669655": {
         "product_id": 304669655,
@@ -1468,10 +1474,10 @@
         "depth": "24",
         "height": "33.88",
         "width": "24",
-        "ratingValue": "4.3115",
-        "reviewCount": "3361",
+        "ratingValue": "4.3114",
+        "reviewCount": "3362",
         "price": 699,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "312284125": {
         "product_id": 312284125,
@@ -1491,7 +1497,7 @@
         "ratingValue": "4.5865",
         "reviewCount": "133",
         "price": 1399,
-        "priceValidUntil": "7/2/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "312486882": {
         "product_id": 312486882,
@@ -1511,6 +1517,26 @@
         "ratingValue": "4.0758",
         "reviewCount": "66",
         "price": 1048,
+        "priceValidUntil": "07/14/2021"
+    },
+    "310643180": {
+        "product_id": 310643180,
+        "modelNbr": "FGID2468UF",
+        "Category": "APPLIANCES",
+        "ApplType": "DISHWASHERS",
+        "Type1": "TOP CONTROL",
+        "Type2": "PLASTIC",
+        "Title": "FRIGIDAIRE GALLERY 24 in. Smudge Proof Stainless Steel Built-In Tall Tub Dishwasher with Dual OrbitClean Spray Arm ENERGY STAR, 49 dBA, Smudge-Proof Stainless Steel",
+        "Brand": "FRIGIDAIRE GALLERY",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/b029cf71-5c09-4993-b97d-7cad93190660/svn/smudge-proof-stainless-steel-frigidaire-gallery-built-in-dishwashers-fgid2468uf-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/FRIGIDAIRE-GALLERY-24-in-Smudge-Proof-Stainless-Steel-Built-In-Tall-Tub-Dishwasher-with-Dual-OrbitClean-Spray-Arm-ENERGY-STAR-49-dBA-FGID2468UF/310643180",
+        "Description": "The Frigidaire Gallery 24 in. Built-In Dishwasher features the Dual OrbitClean Wash System that removes tough, dried and baked on food better than any other dishwasher. Save time loading and washing your dishes with the SpaceWise Adjustable Rack and 34-Minute Quick Wash. The MaxBoost Dry system delivers the fastest, best overall drying performance. Color: Smudge-Proof Stainless Steel.",
+        "depth": "24 in",
+        "height": "34 in",
+        "width": "24 in",
+        "ratingValue": "4.2697",
+        "reviewCount": "2866",
+        "price": 629,
         "priceValidUntil": "07/14/2021"
     },
     "313573360": {
@@ -1548,9 +1574,9 @@
         "depth": "24",
         "height": "34",
         "width": "24",
-        "ratingValue": "3.9573",
-        "reviewCount": "585",
+        "ratingValue": "3.9523",
+        "reviewCount": "587",
         "price": 799,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     }
 }

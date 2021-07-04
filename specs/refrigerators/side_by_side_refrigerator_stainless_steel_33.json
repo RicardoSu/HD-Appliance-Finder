@@ -19,6 +19,26 @@
         "price": 1349,
         "priceValidUntil": "07/14/2021"
     },
+    "300503858": {
+        "product_id": 300503858,
+        "modelNbr": "GSE23GGKCC",
+        "Category": "APPLIANCES",
+        "ApplType": "REFRIGERATION",
+        "Type1": "SIDE BY SIDE W/ICE MAKER",
+        "Type2": "OTHER",
+        "Title": "23.2 cu. ft. Side-By-Side Refrigerator in Bisque, ENERGY STAR",
+        "Brand": "GE",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/74e470f4-8859-46ec-86e4-fb45e8e77aac/svn/bisque-ge-side-by-side-refrigerators-gse23ggkcc-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-23-2-cu-ft-Side-By-Side-Refrigerator-in-Bisque-ENERGY-STAR-GSE23GGKCC/300503858",
+        "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: Bisque.",
+        "depth": "32.75",
+        "height": "69.5",
+        "width": "32.75",
+        "ratingValue": "4.2653",
+        "reviewCount": "392",
+        "price": 1599,
+        "priceValidUntil": "7/4/2021"
+    },
     "302786603": {
         "product_id": 302786603,
         "modelNbr": "WRS321SDHZ",
@@ -57,7 +77,7 @@
         "ratingValue": "4.5",
         "reviewCount": "8",
         "price": 1399,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "304775091": {
         "product_id": 304775091,
@@ -78,26 +98,6 @@
         "reviewCount": "316",
         "price": 1214,
         "priceValidUntil": "07/14/2021"
-    },
-    "300503858": {
-        "product_id": 300503858,
-        "modelNbr": "GSE23GGKCC",
-        "Category": "APPLIANCES",
-        "ApplType": "REFRIGERATION",
-        "Type1": "SIDE BY SIDE W/ICE MAKER",
-        "Type2": "OTHER",
-        "Title": "23.2 cu. ft. Side-By-Side Refrigerator in Bisque, ENERGY STAR",
-        "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/74e470f4-8859-46ec-86e4-fb45e8e77aac/svn/bisque-ge-side-by-side-refrigerators-gse23ggkcc-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-23-2-cu-ft-Side-By-Side-Refrigerator-in-Bisque-ENERGY-STAR-GSE23GGKCC/300503858",
-        "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: Bisque.",
-        "depth": "32.75",
-        "height": "69.5",
-        "width": "32.75",
-        "ratingValue": "4.2653",
-        "reviewCount": "392",
-        "price": 1599,
-        "priceValidUntil": "7/3/2021"
     },
     "300176598": {
         "product_id": 300176598,
