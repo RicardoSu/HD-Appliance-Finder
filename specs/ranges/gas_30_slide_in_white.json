@@ -1,23 +1,23 @@
 {
-    "314514666": {
-        "product_id": 314514666,
-        "modelNbr": "JGS760DPWW",
+    "314514663": {
+        "product_id": 314514663,
+        "modelNbr": "JGS760SPSS",
         "Category": "APPLIANCES",
         "ApplType": "COOKING",
         "Type1": "SLIDE IN GAS",
         "Type2": "GE",
-        "Title": "30 in. 5.6 cu. ft. Slide-In Gas Range with Self-Cleaning Convection Oven and Air Fry in White",
+        "Title": "30 in. 5.6 cu. ft. Slide-In Gas Range with Self-Cleaning Convection Oven and Air Fry in Stainless Steel, Silver",
         "Brand": "GE",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/807353d2-2545-4696-be70-1cedfed73563/svn/white-ge-single-oven-gas-ranges-jgs760dpww-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-5-6-cu-ft-Slide-In-Gas-Range-with-Self-Cleaning-Convection-Oven-and-Air-Fry-in-White-JGS760DPWW/314514666",
-        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: White.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/426c29b5-6de8-449a-9142-1e7c64c2a7b2/svn/stainless-steel-ge-single-oven-gas-ranges-jgs760spss-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/GE-30-in-5-6-cu-ft-Slide-In-Gas-Range-with-Self-Cleaning-Convection-Oven-and-Air-Fry-in-Stainless-Steel-JGS760SPSS/314514663",
+        "Description": "At GE Appliances, we bring good things to life, by designing and building the world's best appliances. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home. Color: Stainless Steel.",
         "depth": "47.5",
         "height": "19.5",
         "width": "24",
-        "ratingValue": "4.6504",
-        "reviewCount": "858",
+        "ratingValue": "4.6039",
+        "reviewCount": "1578",
         "price": 1999,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "01/01/2022"
     },
     "300119811": {
         "product_id": 300119811,
@@ -34,9 +34,29 @@
         "depth": "47.38",
         "height": "18.13",
         "width": "24.5",
-        "ratingValue": "4.2468",
-        "reviewCount": "308",
-        "price": 1449,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.2444",
+        "reviewCount": "311",
+        "price": 1304,
+        "priceValidUntil": "07/14/2021"
+    },
+    "302777805": {
+        "product_id": 302777805,
+        "modelNbr": "WEG750H0HW",
+        "Category": "APPLIANCES",
+        "ApplType": "COOKING",
+        "Type1": "SLIDE IN GAS",
+        "Type2": "WHIRLPOOL",
+        "Title": "Whirlpool 5.8 cu. ft. Smart Slide-In Gas Range with EZ-2-LIFT Hinged Cast-Iron Grates in White",
+        "Brand": "Whirlpool",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/20e87790-41d8-4483-b270-899ab29a2bf7/svn/white-whirlpool-single-oven-gas-ranges-weg750h0hw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-5-8-cu-ft-Smart-Slide-In-Gas-Range-with-EZ-2-LIFT-Hinged-Cast-Iron-Grates-in-White-WEG750H0HW/302777805",
+        "Description": "Cut out routine steps and get the right settings every time with this slide-in electric range. Send YUMMLY Guided Cooking instructions directly to the smart range or use Scan-to-Cook technology to start cooking frozen foods in the self-cleaning oven using your smartphone or tablet. The stove's touchscreen provides instant accessto settings your family uses most, too. Color: White.",
+        "depth": "48.88",
+        "height": "20",
+        "width": "24.38",
+        "ratingValue": "4.107",
+        "reviewCount": "299",
+        "price": 2099,
+        "priceValidUntil": "7/4/2021"
     }
 }

@@ -1,0 +1,167 @@
+{% extends 'base.html'%} {% block head%} {% endblock%} {% block body%}
+      <!-- products  -->
+    <form method="POST"> 
+      <div class="section-title">
+        <h2 id="error" style= "color:red"> </h2> 
+      </div>
+      <ul class="errorMessages"></ul>
+      <section class="products" id="products">
+        <div class="section-title">
+          <h2>Dishwashers by Style</h2>
+        </div>
+        <div class="products-center">
+          <!-- single product  -->
+          <article class="product">
+              <div class="img-container">
+                <label>
+                  <input class="radio" type="radio" name="dishwasher_type" value="compact">
+                    <img
+                      src="{{url_for('static',filename='images/dishwashers/compact.png')}}"
+                      alt="Compact 18 in"
+                      class="product-img"
+                    />
+                </label>  
+              </div>
+              <h3>Compact Dishwasher 18 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="dishwasher_type" value="front_control">
+                <img
+                  src="{{url_for('static',filename='images/dishwashers/front_control_24.png')}}"
+                  alt="Front Control Dishwasher 24 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Front Control Dishwasher 24 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input class="radio"  type="radio" name="dishwasher_type" value="top_control">
+                <img
+                  src="{{url_for('static',filename='images/dishwashers/top_control_24.png')}}"
+                  alt="Top Control Dishwasher 24 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Top Control Dishwasher 24 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="dishwasher_type" value="portable">
+                <img
+                  src="{{url_for('static',filename='images/dishwashers/portable.png')}}"
+                  alt="Portable Dishwasher"
+                  class="product-img"
+                />
+              <label>
+            </div>
+            <h3>Portable Dishwasher</h3>
+          </article>
+          <!-- end of single product  -->
+        </div>
+      </section>
+      <!-- end of products  -->
+      <!-- colors  -->
+      <section class="colors" id="products">
+        <div class="section-title">
+          <h2>Refrigerator Finishes</h2>
+        </div>
+        <div class="products-center2">
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="Color_Type" value="stainless_steel" required>
+                <img
+                  src="{{url_for('static',filename='images/stainless_steel.jpg')}}"
+                  class="product-img2"
+                />
+              </label>  
+            </div>
+            <h3>Stainless Steel</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="Color_Type" value="black">
+                <img
+                  src="{{url_for('static',filename='images/black.png')}}"
+                  class="product-img2"
+                />
+              </label>  
+            </div>
+            <h3>Black</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="Color_Type" value="white" required>
+                <img
+                  src="{{url_for('static',filename='images/white.png')}}"
+                  class="product-img2"
+                />
+              </label>  
+            </div>
+            <h3>White</h3>
+          </article>
+          <!-- end of single product  -->
+        </div>
+      </section>
+      <!-- end colors  -->
+      <!-- size  -->
+      <!-- end size  -->
+      <!-- zip code  -->
+      <section class="zip_code" id="products">
+        <div class="section-title">
+          <h2 style="margin-top: 3rem;">Zip code</h2>
+          <h3>Please enter your zip code</h3>
+        </div>
+        <div class="products-center2">
+          <article class="product">
+            <input class="zip_code_box" type="tel" pattern="[0-9]*" 
+            oninput="javascript: if (this.value.length == 5) document.getElementById('hidden-button').style.visibility='visible';"
+            maxlength = "5" class="zip_code_box" placeholder="ZIP Code" 
+            id="customer_zip_code" name="customer_zip_code" 
+            autocomplete="off" required>
+          </article>
+        </div>
+      </section>
+      <!-- end zip code  -->
+      <!-- SUBMIT BUTTON  -->
+      <section class="products" id="products">
+        <div class="products-center2">
+          <input id="hidden-button"  type="SUBMIT" class="button-hidden" onclick="checkButton()">
+        </div>
+      </section>
+    </form>
+    <!-- END SUBMIT BUTTON  -->
+    <!-- cart  -->
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart">
+          <i class="fas fa-window-close"></i>
+        </span>
+        <h2>Your cart</h2>
+        <div class="cart-content">
+          <!-- cart item-->
+          <!-- end of  cart item-->
+        </div>
+      </div>
+    </div>
+{% endblock%}

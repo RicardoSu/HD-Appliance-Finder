@@ -1,24 +1,4 @@
 {
-    "300859005": {
-        "product_id": 300859005,
-        "modelNbr": "HRB15N3BGS",
-        "Category": "APPLIANCES",
-        "ApplType": "REFRIGERATION",
-        "Type1": "BOTTOM FRZ W/O ICEMAKER",
-        "Type2": "OTHER",
-        "Title": "Haier 15.0 cu. ft. Bottom Freezer Refrigerator in Stainless Steel, Fingerprint Resistant, Fingerprint Resistant Stainless Steel",
-        "Brand": "Haier",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/b4c3bc0f-9a96-42b2-9bad-478e4920b3cb/svn/fingerprint-resistant-stainless-steel-haier-bottom-freezer-refrigerators-hrb15n3bgs-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Haier-15-0-cu-ft-Bottom-Freezer-Refrigerator-in-Stainless-Steel-Fingerprint-Resistant-HRB15N3BGS/300859005",
-        "Description": "Your Haier 15.0 cu. ft. Bottom Freezer has recessed handles to offer a clean and concealed look. Adjustable shelves provide your family with flexible storage solutions. Haier Appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. Color: Fingerprint Resistant Stainless Steel.",
-        "depth": "26.625",
-        "height": "67.875",
-        "width": "27.63",
-        "ratingValue": "4.4444",
-        "reviewCount": "333",
-        "price": 1199,
-        "priceValidUntil": "6/21/2021"
-    },
     "312899428": {
         "product_id": 312899428,
         "modelNbr": "FFBF279SSLHD",
@@ -37,6 +17,26 @@
         "ratingValue": "4.0",
         "reviewCount": "1",
         "price": 1690,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/4/2021"
+    },
+    "300859005": {
+        "product_id": 300859005,
+        "modelNbr": "HRB15N3BGS",
+        "Category": "APPLIANCES",
+        "ApplType": "REFRIGERATION",
+        "Type1": "BOTTOM FRZ W/O ICEMAKER",
+        "Type2": "OTHER",
+        "Title": "Haier 15.0 cu. ft. Bottom Freezer Refrigerator in Stainless Steel, Fingerprint Resistant, Fingerprint Resistant Stainless Steel",
+        "Brand": "Haier",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/b4c3bc0f-9a96-42b2-9bad-478e4920b3cb/svn/fingerprint-resistant-stainless-steel-haier-bottom-freezer-refrigerators-hrb15n3bgs-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Haier-15-0-cu-ft-Bottom-Freezer-Refrigerator-in-Stainless-Steel-Fingerprint-Resistant-HRB15N3BGS/300859005",
+        "Description": "Your Haier 15.0 cu. ft. Bottom Freezer has recessed handles to offer a clean and concealed look. Adjustable shelves provide your family with flexible storage solutions. Haier Appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. Color: Fingerprint Resistant Stainless Steel.",
+        "depth": "26.625",
+        "height": "67.875",
+        "width": "27.63",
+        "ratingValue": "4.4451",
+        "reviewCount": "337",
+        "price": 1199,
+        "priceValidUntil": "7/4/2021"
     }
 }

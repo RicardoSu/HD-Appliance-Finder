@@ -1,24 +1,4 @@
 {
-    "313984044": {
-        "product_id": 313984044,
-        "modelNbr": "DF60R8200DG",
-        "Category": "APPLIANCES",
-        "ApplType": "LAUNDRY",
-        "Type1": "SPECIALTY CLOTHES CARE",
-        "Type2": "OTHER",
-        "Title": "Samsung AirDresser with Steam and Sanitize Cycle, Wi-Fi Enabled, Deodorizing Filter in Dark Black",
-        "Brand": "Samsung",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/7ff13bc0-458b-470f-817f-fdd5f3f68caf/svn/black-samsung-electric-dryers-df60r8200dg-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-AirDresser-with-Steam-and-Sanitize-Cycle-Wi-Fi-Enabled-Deodorizing-Filter-in-Dark-Black-DF60R8200DG/313984044",
-        "Description": "The Samsung AirDresser combines powerful steam and air to relax light wrinkles and remove 99% of common bacteria, dust mites and odors from your clothing. Based on testing by Intertek: 1) Sanitize Cycle eliminates 99.9% of E. coli and S. aureus and 99% of house dust mites. 2) Normal cycle eliminates 99% of isovaleric acid, 4-ethenylpyridine, valeraldehyde and tetrachloroethylene. Color: Black.",
-        "depth": "39.4",
-        "height": "72.88",
-        "width": "23.5",
-        "ratingValue": "4.52",
-        "reviewCount": "75",
-        "price": 998,
-        "priceValidUntil": "06/22/2021"
-    },
     "309616883": {
         "product_id": 309616883,
         "modelNbr": "DLEX7900BE",
@@ -34,9 +14,29 @@
         "depth": "50.25",
         "height": "13.75",
         "width": "23",
-        "ratingValue": "4.3462",
-        "reviewCount": "130",
-        "price": 1299,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.3284",
+        "reviewCount": "134",
+        "price": 1214,
+        "priceValidUntil": "07/14/2021"
+    },
+    "313984044": {
+        "product_id": 313984044,
+        "modelNbr": "DF60R8200DG",
+        "Category": "APPLIANCES",
+        "ApplType": "LAUNDRY",
+        "Type1": "SPECIALTY CLOTHES CARE",
+        "Type2": "OTHER",
+        "Title": "Samsung AirDresser with Steam and Sanitize Cycle, Wi-Fi Enabled, Deodorizing Filter in Dark Black",
+        "Brand": "Samsung",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/7ff13bc0-458b-470f-817f-fdd5f3f68caf/svn/black-samsung-electric-dryers-df60r8200dg-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Samsung-AirDresser-with-Steam-and-Sanitize-Cycle-Wi-Fi-Enabled-Deodorizing-Filter-in-Dark-Black-DF60R8200DG/313984044",
+        "Description": "The Samsung AirDresser combines powerful steam and air to relax light wrinkles and remove 99% of common bacteria, dust mites and odors from your clothing. Based on testing by Intertek: 1) Sanitize Cycle eliminates 99.9% of E. coli and S. aureus and 99% of house dust mites. 2) Normal cycle eliminates 99% of isovaleric acid, 4-ethenylpyridine, valeraldehyde and tetrachloroethylene. Color: Black.",
+        "depth": "39.4",
+        "height": "72.88",
+        "width": "23.5",
+        "ratingValue": "4.5114",
+        "reviewCount": "88",
+        "price": 948,
+        "priceValidUntil": "07/14/2021"
     }
 }

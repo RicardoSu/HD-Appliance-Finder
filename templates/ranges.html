@@ -1,0 +1,212 @@
+{% extends 'base.html'%} {% block head%} {% endblock%} {% block body%}
+      <!-- products  -->
+    <form method="POST"> 
+      <div class="section-title">
+        <h2 id="error" style= "color:red"> </h2> 
+      </div>
+      <ul class="errorMessages"></ul>
+      <section class="products" id="products">
+        <div class="section-title">
+          <h2>Ranges by Style</h2>
+        </div>
+        <div class="products-center">
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input class="radio" type="radio" name="range_type" value="eletric_30_freestanding" required>
+                <img
+                  src="{{url_for('static',filename='images/ranges/eletric_30_freestanding.png')}}"
+                  alt="French Door Refrigerators"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Electric Range 30 in freestanding</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+              <div class="img-container">
+                <label>
+                  <input class="radio" type="radio" name="range_type" value="eletric_30_slide_in">
+                    <img
+                      src="{{url_for('static',filename='images/ranges/eletric_30_slide_in.png')}}"
+                      alt="Electric Range 30 in Slide-In"
+                      class="product-img"
+                    />
+                </label>  
+              </div>
+              <h3>Electric Range 30 in Slide-In</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="range_type" value="gas_30_freestanding">
+                <img
+                  src="{{url_for('static',filename='images/ranges/gas_30_freestanding.png')}}"
+                  alt="Gas Range 30 in Freestanding"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Gas Range 30 in Freestanding</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input class="radio"  type="radio" name="range_type" value="gas_30_slide_in">
+                <img
+                  src="{{url_for('static',filename='images/ranges/gas_30_slide_in.png')}}"
+                  alt="Gas Range 30 in Slide-In"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Gas Range 30 in Slide-In</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="range_type" value="induction">
+                <img
+                  src="{{url_for('static',filename='images/ranges/induction.png')}}"
+                  alt="Induction Range 30 in"
+                  class="product-img"
+                />
+              <label>
+            </div>
+            <h3>Induction Range 30 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="range_type" value="ranges_20_in">
+                <img
+                  src="{{url_for('static',filename='images/ranges/ranges_20_in.png')}}"
+                  alt="Ranges 20 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Ranges 20 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="range_type" value="ranges_24_in">
+                <img
+                  src="{{url_for('static',filename='images/ranges/ranges_24_in.png')}}"
+                  alt="Ranges 24 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Ranges 24 in</h3>
+          </article>
+          <!-- end of single product  -->
+        </div>
+      </section>
+      <!-- end of products  -->
+      <!-- colors  -->
+      <section class="colors" id="products">
+        <div class="section-title">
+          <h2>Refrigerator Finishes</h2>
+        </div>
+        <div class="products-center2">
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="Color_Type" value="stainless_steel" required>
+                <img
+                  src="{{url_for('static',filename='images/stainless_steel.jpg')}}"
+                  class="product-img2"
+                />
+              </label>  
+            </div>
+            <h3>Stainless Steel</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="Color_Type" value="black">
+                <img
+                  src="{{url_for('static',filename='images/black.png')}}"
+                  class="product-img2"
+                />
+              </label>  
+            </div>
+            <h3>Black</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input  class="radio"  type="radio" name="Color_Type" value="white" required>
+                <img
+                  src="{{url_for('static',filename='images/white.png')}}"
+                  class="product-img2"
+                />
+              </label>  
+            </div>
+            <h3>White</h3>
+          </article>
+          <!-- end of single product  -->
+        </div>
+      </section>
+      <!-- end colors  -->
+      <!-- size  -->
+      <!-- end size  -->
+      <!-- zip code  -->
+      <section class="zip_code" id="products">
+        <div class="section-title">
+          <h2 style="margin-top: 3rem;">Zip code</h2>
+          <h3>Please enter your zip code</h3>
+        </div>
+        <div class="products-center2">
+          <article class="product">
+            <input class="zip_code_box" type="tel" pattern="[0-9]*" 
+            oninput="javascript: if (this.value.length == 5) document.getElementById('hidden-button').style.visibility='visible';"
+            maxlength = "5" class="zip_code_box" placeholder="ZIP Code" 
+            id="customer_zip_code" name="customer_zip_code" 
+            autocomplete="off" required>
+          </article>
+        </div>
+      </section>
+      <!-- end zip code  -->
+      <!-- SUBMIT BUTTON  -->
+      <section class="products" id="products">
+        <div class="products-center2">
+          <input id="hidden-button"  type="SUBMIT" class="button-hidden" onclick="checkButton()">
+        </div>
+      </section>
+    </form>
+    <!-- END SUBMIT BUTTON  -->
+    <!-- cart  -->
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart">
+          <i class="fas fa-window-close"></i>
+        </span>
+        <h2>Your cart</h2>
+        <div class="cart-content">
+          <!-- cart item-->
+          <!-- end of  cart item-->
+        </div>
+      </div>
+    </div>
+{% endblock%}

@@ -1,20 +1,26 @@
-import time
-import requests
-import urllib
-from bs4 import BeautifulSoup
 from concurrent.futures import ProcessPoolExecutor, as_completed
-import json
-import asyncio
-import re
+from bs4 import BeautifulSoup
+import requests
 import aiohttp
-import ssl
-import os
-import sys
+import asyncio
+import urllib
+import json
 import time
+import ssl
+import sys
+import re
+import os
+
+"""
+Home depot DATA Parser Asynchronous:
+This code uses the data stored data from Home depot SKU Parser
+and creates JSON a file from specified imput runs faster than
+Home depot DATA Parser, needs to be implemented multi file
+reader
+"""
+
 
 URLs = []
-URLs2 = []
-
 
 def json_finder(folder_name, json_file):
     path = f"data/{folder_name}/{json_file}.json"
@@ -25,8 +31,6 @@ def json_finder(folder_name, json_file):
     for sku in sku_list:
         URLs.append(hd_url.format(sku))
     
-
-
 # json_finder("cooktops","induction_30_black")
 # print(URLs)
 
@@ -45,19 +49,10 @@ async def fetch(session, url):
     async with session.get(url, ssl=ssl.SSLContext()) as response:
         return await response.json()
 
-async def fetch2(session, url):
-    async with session.get(url, ssl=ssl.SSLContext()) as response:
-        return await response.json()
-
 async def fetch_all(urls, loop):
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
         results = await asyncio.gather(*[fetch(session, url) for url in urls], return_exceptions=True)
         return results
-
-async def fetch_all2(urls, loop):
-    async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
-        results2 = await asyncio.gather(*[fetch2(session, url) for url in urls], return_exceptions=True)
-        return results2
 
 def json_saver(folder_name, json_file):
     try:
@@ -74,13 +69,7 @@ if __name__ == '__main__':
     urls = URLs
     htmls = loop.run_until_complete(fetch_all(urls, loop))
 
-    # loop2 = asyncio.get_event_loop()
-    # urls = URLs2
-    # htmls2 = loop.run_until_complete(fetch_all2(urls, loop))
     functional_dict = dict()
-
-    # def availability_checker(folder_name, json_file):
-    #     print(f"folder_name:{folder_name}")
 
     for i, url in enumerate(htmls):
         print(i)

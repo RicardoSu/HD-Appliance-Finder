@@ -14,10 +14,10 @@
         "depth": "32.75",
         "height": "69.5",
         "width": "32.75",
-        "ratingValue": "4.2596",
-        "reviewCount": "389",
+        "ratingValue": "4.2653",
+        "reviewCount": "392",
         "price": 1599,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "302565681": {
         "product_id": 302565681,
@@ -37,7 +37,7 @@
         "ratingValue": "4.219",
         "reviewCount": "2886",
         "price": null,
-        "priceValidUntil": "6/21/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "302786603": {
         "product_id": 302786603,
@@ -54,10 +54,10 @@
         "depth": "31.63",
         "height": "66.25",
         "width": "33",
-        "ratingValue": "4.1938",
-        "reviewCount": "5614",
-        "price": 1499,
-        "priceValidUntil": "6/21/2021"
+        "ratingValue": "4.1916",
+        "reviewCount": "5642",
+        "price": 1349,
+        "priceValidUntil": "07/14/2021"
     },
     "300176598": {
         "product_id": 300176598,
@@ -74,9 +74,69 @@
         "depth": "32.75",
         "height": "69.5",
         "width": "32.75",
-        "ratingValue": "4.3461",
-        "reviewCount": "1930",
+        "ratingValue": "4.3473",
+        "reviewCount": "1952",
         "price": 1438,
-        "priceValidUntil": "06/22/2021"
+        "priceValidUntil": "07/14/2021"
+    },
+    "302994260": {
+        "product_id": 302994260,
+        "modelNbr": "WRS312SNHW",
+        "Category": "APPLIANCES",
+        "ApplType": "REFRIGERATION",
+        "Type1": "SXS W/OUT ICE MAKER",
+        "Type2": "OTHER",
+        "Title": "Whirlpool 22 cu. Ft. Side by Side Refrigerator in White",
+        "Brand": "Whirlpool",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/31d89d63-5257-4907-9f95-2fbbe6df51fc/svn/white-whirlpool-side-by-side-refrigerators-wrs312snhw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-22-cu-Ft-Side-by-Side-Refrigerator-in-White-WRS312SNHW/302994260",
+        "Description": "Fit and find it all with purposefully-designed storage spaces in this side-by-side refrigerator. Get increased loading flexibility when and where you need it using adjustable gallon door bins. The refrigerator with LED lights also keep food looking as good as it tastes. Color: White.",
+        "depth": "31.63",
+        "height": "66.25",
+        "width": "33",
+        "ratingValue": "4.2788",
+        "reviewCount": "678",
+        "price": 1199,
+        "priceValidUntil": "7/4/2021"
+    },
+    "305505879": {
+        "product_id": 305505879,
+        "modelNbr": "WRS331SDHW",
+        "Category": "APPLIANCES",
+        "ApplType": "REFRIGERATION",
+        "Type1": "SIDE BY SIDE W/ICE MAKER",
+        "Type2": "OTHER",
+        "Title": "Whirlpool 21 cu. ft. Side by Side Refrigerator in White",
+        "Brand": "Whirlpool",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/4b448116-25f9-4c57-bb38-f91737582ee6/svn/white-whirlpool-side-by-side-refrigerators-wrs331sdhw-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Whirlpool-21-cu-ft-Side-by-Side-Refrigerator-in-White-WRS331SDHW/305505879",
+        "Description": "Fit and find it all with purposefully-designed storage spaces in this ENERGY STAR certified refrigerator. Get increased loading flexibility with adjustable gallon door bins. The refrigerator with ice and water dispenser lets you access ice and water without opening the door while LED lights keep food looking as good as it tastes. Color: White.",
+        "depth": "31.63",
+        "height": "66.25",
+        "width": "32.75",
+        "ratingValue": "4.0245",
+        "reviewCount": "286",
+        "price": 1299,
+        "priceValidUntil": "7/4/2021"
+    },
+    "304775091": {
+        "product_id": 304775091,
+        "modelNbr": "ASI2175GRS",
+        "Category": "APPLIANCES",
+        "ApplType": "REFRIGERATION",
+        "Type1": "SIDE BY SIDE W/ICE MAKER",
+        "Type2": "OTHER",
+        "Title": "Amana 21.4 cu. ft. Side by Side Refrigerator in Stainless Steel, Silver",
+        "Brand": "Amana",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/bf2c07e7-338b-402c-b8e8-8ff2fd1bfa9f/svn/stainless-steel-amana-side-by-side-refrigerators-asi2175grs-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/Amana-21-4-cu-ft-Side-by-Side-Refrigerator-in-Stainless-Steel-ASI2175GRS/304775091",
+        "Description": "Our 33 in. Amana Side-by-Side Refrigerator is great for smaller spaces, giving you the right amount of storage room. This 21 cu. ft. refrigerator with ice and water dispenser lets you grab fresh H2O with a Dual Pad Dispenser with EVERYDROP Water Filter. Easily set temps with Electronic Temperature Controls. And big items fit in the Gallon Door Storage Bins. Color: Stainless Steel.",
+        "depth": "31.63",
+        "height": "66.25",
+        "width": "33.13",
+        "ratingValue": "4.0158",
+        "reviewCount": "316",
+        "price": 1214,
+        "priceValidUntil": "07/14/2021"
     }
 }

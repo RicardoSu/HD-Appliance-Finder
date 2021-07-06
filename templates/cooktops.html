@@ -1,0 +1,116 @@
+{% extends 'base.html'%} {% block head%} {% endblock%} {% block body%}
+      <!-- products  -->
+    <form method="POST"> 
+      <div class="section-title">
+        <h2 id="error" style= "color:red"> </h2> 
+      </div>
+      <ul class="errorMessages"></ul>
+      <section class="products" id="products">
+        <div class="section-title">
+          <h2>Cooktops by Style</h2>
+        </div>
+        <div class="products-center">
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input class="radio" type="radio" name="cooktops_type" value="induction_30" required>
+                <img
+                  src="{{url_for('static',filename='images/cooktops/induction_30.png')}}"
+                  alt="Induction Cooktop 30 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Induction Cooktop 30 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input class="radio" type="radio" name="cooktops_type" value="induction_36" required>
+                <img
+                  src="{{url_for('static',filename='images/cooktops/induction_36.png')}}"
+                  alt="Induction Cooktop 36 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Induction Cooktop 36 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input class="radio"  type="radio" name="cooktops_type" value="radiant_30">
+                <img
+                  src="{{url_for('static',filename='images/cooktops/radiant_30.png')}}"
+                  alt="Radiant Cooktop 30 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Radiant Cooktop 30 in</h3>
+          </article>
+          <!-- end of single product  -->
+          <!-- single product  -->
+          <article class="product">
+            <div class="img-container">
+              <label>
+                <input class="radio"  type="radio" name="cooktops_type" value="radiant_36">
+                <img
+                  src="{{url_for('static',filename='images/cooktops/radiant_36.png')}}"
+                  alt="Radiant Cooktop 36 in"
+                  class="product-img"
+                />
+              </label>  
+            </div>
+            <h3>Radiant Cooktop 36 in</h3>
+          </article>
+          <!-- end of single product  -->
+        </div>
+      </section>
+      <!-- end of products  -->
+      <!-- size  -->
+      <!-- end size  -->
+      <!-- zip code  -->
+      <section class="zip_code" id="products">
+        <div class="section-title">
+          <h2 style="margin-top: 3rem;">Zip code</h2>
+          <h3>Please enter your zip code</h3>
+        </div>
+        <div class="products-center2">
+          <article class="product">
+            <input class="zip_code_box" type="tel" pattern="[0-9]*" 
+            oninput="javascript: if (this.value.length == 5) document.getElementById('hidden-button').style.visibility='visible';"
+            maxlength = "5" class="zip_code_box" placeholder="ZIP Code" 
+            id="customer_zip_code" name="customer_zip_code" 
+            autocomplete="off" required>
+          </article>
+        </div>
+      </section>
+      <!-- end zip code  -->
+      <!-- SUBMIT BUTTON  -->
+      <section class="products" id="products">
+        <div class="products-center2">
+          <input id="hidden-button"  type="SUBMIT" class="button-hidden" onclick="checkButton()">
+        </div>
+      </section>
+    </form>
+    <!-- END SUBMIT BUTTON  -->
+    <!-- cart  -->
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart">
+          <i class="fas fa-window-close"></i>
+        </span>
+        <h2>Your cart</h2>
+        <div class="cart-content">
+          <!-- cart item-->
+          <!-- end of  cart item-->
+        </div>
+      </div>
+    </div>
+{% endblock%}

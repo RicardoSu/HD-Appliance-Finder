@@ -1,32 +1,40 @@
+from selenium.webdriver.common.keys import Keys
+from selenium import webdriver
 from bs4 import BeautifulSoup
+from functools import cache
 import requests
 import urllib
 import json
 import csv
-from functools import cache
-import requests
-import json
 import re
-import urllib
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 import os
 
+"""
+Home depot DATA Parser:
+This code uses the data stored data from Home depot SKU Parser
+and creates JSON files with the products specifications, and
+stores in organized json files
 
-def json_finder(folder_name, json_file):
-    path = f"data/{folder_name}/{json_file}.json"
+This usually bans you from home depot
+4418.8 seconds
+4183.2 seconds
+"""
 
-    with open(path) as json_file:
-        appliance_json = json.load(json_file)
-    return appliance_json
+
+def json_reader(folder_name, json_file):
+    json_location = f"data/{folder_name}/{json_file}.json"
+
+    with open(json_location) as json_file:
+        json_data = json.load(json_file)
+    return json_data
 
 
 def availability_checker(folder_name, json_file):
-    mydict = json_finder(folder_name, json_file)
+    dict_data = json_reader(folder_name, json_file)
     functional_dict = dict()
 
-    list_to_iterate = list(mydict.values())[0]
-
+    list_to_iterate = list(dict_data.values())[0]
+    print(list_to_iterate)
     for my_product_id in list_to_iterate:
 
         my_product_id = int(my_product_id)
@@ -39,15 +47,25 @@ def availability_checker(folder_name, json_file):
 
         # if key deliveryAvailability is on the json reponse returns true
         if "Products" in json_response_descr["Includes"]:
+            # New id is created since the website can have
+            # a diferent key inside the website data
+            print(f"my_product_id = {my_product_id}")
+            old_id = my_product_id
             new_id = list(
                 json_response_descr["Includes"]["Products"].keys())[0]
+            print(f"New_Id = {my_product_id}")
             if my_product_id != new_id:
                 my_product_id = int(new_id)
 
+            print(f"Key:{my_product_id}")
+
             functional_dict[my_product_id] = {}
-            functional_dict[my_product_id]["product_id"] = my_product_id
-            functional_dict[my_product_id]["modelNbr"] = json_response_descr[
-                "Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
+            functional_dict[my_product_id]["product_id"] = old_id
+            try:
+                functional_dict[my_product_id]["modelNbr"] = json_response_descr[
+                    "Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
+            except IndexError:
+                functional_dict[my_product_id]["modelNbr"] = ""
             description_parser(functional_dict, my_product_id)
             bs4_decoder(functional_dict, my_product_id)
 
@@ -55,7 +73,7 @@ def availability_checker(folder_name, json_file):
             print(f"{my_product_id} DNE")
 
         else:
-            print(f"{my_product_id} is not an Appliance or OOS")
+            print(f"{my_product_id} is not an Major Appliance or Out of stock")
 
     try:
         json_key = f"specs/{folder_name}/{json_file}.json"
@@ -63,24 +81,6 @@ def availability_checker(folder_name, json_file):
         with open(json_key, 'w') as fp:
             json.dump(functional_dict, fp, indent=4, ensure_ascii=False)
 
-    except IOError:
-        print("I/O error")
-
-
-def csv_file(dict):
-
-    csv_columns = ['product_id', "Category", "Brand", "Type1", "Type2", 'modelNbr', "ApplType", 'reviewCount', 'height',  'depth', 'width', 'ratingValue', 'priceValidUntil', 'price',
-                   'status', "earliestAvailabilityDate",  "Discontinued", "Title", "ImageUrl", "ProductPageUrl", "Description"]
-
-    csv_file = "appliances_status.csv"
-    try:
-        with open(csv_file, 'w') as csvfile:
-            # lineterminator removes extra space on each line on csv
-            writer = csv.DictWriter(
-                csvfile, fieldnames=csv_columns, lineterminator='\n')
-            writer.writeheader()
-            for data in dict.values():
-                writer.writerow(data)
     except IOError:
         print("I/O error")
 
@@ -137,24 +137,20 @@ def description_parser(my_dict, my_product_id):
 
     try:
         for key, value in json_response_descr["Includes"]["Products"].items():
-            print(f"Key:{key}")
+            pass
     except KeyError:
         print(f"Bad key")
 
-    print(f"my_product_id1:{my_product_id}")
-
     if my_product_id != key:
         my_product_id = key
-    print(f"my_product_id2:{my_product_id}")
     # item number is diferent from imput
     my_product_id = int(my_product_id)
 
-    short_response_descr = json_response_descr["Includes"]["Products"][f"{my_product_id}"]
+    short_response_descr = json_response_descr[
+        "Includes"]["Products"][f"{my_product_id}"]
 
     item_category = short_response_descr["Attributes"]["Category"]["Values"][0]["Value"].split()[
         0].rstrip(">")
-
-    print(f"my_product_id3:{my_product_id}")
 
     if item_category == "APPLIANCES":
         try:
@@ -164,13 +160,13 @@ def description_parser(my_dict, my_product_id):
             try:
                 my_dict[my_product_id]["Type2"] = short_response_descr["Attributes"]["THD_SubSubClass_name"]["Values"][0]["Value"]
             except KeyError:
-                print('Can not find "something"')
+                print('Can not find "Type2 Description"')
 
             try:
                 my_dict[my_product_id]["Title"] = short_response_descr["Name"]
                 my_dict[my_product_id]["Brand"] = short_response_descr["Brand"]["Name"]
             except KeyError:
-                print('Can not find "something"')
+                print('Can not find "Title or Brand"')
 
             my_dict[my_product_id]["ImageUrl"] = short_response_descr["ImageUrl"]
 
@@ -185,7 +181,6 @@ def description_parser(my_dict, my_product_id):
             print('Can not find Description')
             print(json_response_descr["Includes"]["Products"])
             print(f"my_dict:{my_dict}")
-
 
 @cache
 def folder_creator(data):
@@ -212,6 +207,5 @@ def files_subdirectory_finder():
             file_name = (os.path.join(file.replace(".json", "")))
             availability_checker(folder_name, file_name)
 
-
 files_subdirectory_finder()
-# availability_checker("dryers","non_stackable_eletric")
+
