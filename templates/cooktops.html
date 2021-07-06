@@ -7,183 +7,72 @@
       <ul class="errorMessages"></ul>
       <section class="products" id="products">
         <div class="section-title">
-          <h2>Refrigerators by Style</h2>
+          <h2>Cooktops by Style</h2>
         </div>
         <div class="products-center">
           <!-- single product  -->
           <article class="product">
             <div class="img-container">
               <label>
-                <input class="radio" type="radio" name="fridge_type" value="french_door_refrigerator" required>
+                <input class="radio" type="radio" name="cooktops_type" value="induction_30" required>
                 <img
-                  src="{{url_for('static',filename='images/refrigerators/french-door.png')}}"
-                  alt="French Door Refrigerators"
+                  src="{{url_for('static',filename='images/cooktops/induction_30.png')}}"
+                  alt="Induction Cooktop 30 in"
                   class="product-img"
                 />
               </label>  
             </div>
-            <h3>French Door Refrigerators</h3>
-          </article>
-          <!-- end of single product  -->
-          <!-- single product  -->
-          <article class="product">
-              <div class="img-container">
-                <label>
-                  <input class="radio" type="radio" name="fridge_type" value="side_by_side_refrigerator">
-                    <img
-                      src="{{url_for('static',filename='images/refrigerators/side-by-side.png')}}"
-                      alt="Side-by-Side Refrigerators"
-                      class="product-img"
-                    />
-                </label>  
-              </div>
-              <h3>Side-by-Side Refrigerators</h3>
+            <h3>Induction Cooktop 30 in</h3>
           </article>
           <!-- end of single product  -->
           <!-- single product  -->
           <article class="product">
             <div class="img-container">
               <label>
-                <input  class="radio"  type="radio" name="fridge_type" value="botton_freezer_refrigerator">
+                <input class="radio" type="radio" name="cooktops_type" value="induction_36" required>
                 <img
-                  src="{{url_for('static',filename='images/refrigerators/botton-freezer.png')}}"
-                  alt="Bottom Freezer Refrigerators"
+                  src="{{url_for('static',filename='images/cooktops/induction_36.png')}}"
+                  alt="Induction Cooktop 36 in"
                   class="product-img"
                 />
               </label>  
             </div>
-            <h3>Bottom Freezer Refrigerators</h3>
+            <h3>Induction Cooktop 36 in</h3>
           </article>
           <!-- end of single product  -->
           <!-- single product  -->
           <article class="product">
             <div class="img-container">
               <label>
-                <input class="radio"  type="radio" name="fridge_type" value="top_freezer_refrigerator">
+                <input class="radio"  type="radio" name="cooktops_type" value="radiant_30">
                 <img
-                  src="{{url_for('static',filename='images/refrigerators/top-fridge.png')}}"
-                  alt="Top Freezer Refrigerators"
+                  src="{{url_for('static',filename='images/cooktops/radiant_30.png')}}"
+                  alt="Radiant Cooktop 30 in"
                   class="product-img"
                 />
               </label>  
             </div>
-            <h3>Top Freezer Refrigerators</h3>
+            <h3>Radiant Cooktop 30 in</h3>
           </article>
           <!-- end of single product  -->
           <!-- single product  -->
           <article class="product">
             <div class="img-container">
               <label>
-                <input  class="radio"  type="radio" name="fridge_type" value="freezerless_refrigerators">
+                <input class="radio"  type="radio" name="cooktops_type" value="radiant_36">
                 <img
-                  src="{{url_for('static',filename='images/refrigerators/freezerless-fridge.jpg')}}"
-                  alt="Freezerless Refrigerators"
-                  class="product-img"
-                />
-              <label>
-            </div>
-            <h3>Freezerless Refrigerators</h3>
-          </article>
-          <!-- end of single product  -->
-          <!-- single product  -->
-          <article class="product">
-            <div class="img-container">
-              <label>
-                <input  class="radio"  type="radio" name="fridge_type" value="upright_freezer">
-                <img
-                  src="{{url_for('static',filename='images/refrigerators/upright-freezer.png')}}"
-                  alt="Upright Freezers"
+                  src="{{url_for('static',filename='images/cooktops/radiant_36.png')}}"
+                  alt="Radiant Cooktop 36 in"
                   class="product-img"
                 />
               </label>  
             </div>
-            <h3>Upright Freezers</h3>
-          </article>
-          <!-- end of single product  -->
-          <!-- single product  -->
-          <article class="product">
-            <div class="img-container">
-              <label>
-                <input  class="radio"  type="radio" name="fridge_type" value="chest_freezer">
-                <img
-                  src="{{url_for('static',filename='images/refrigerators/chest-freezer.png')}}"
-                  alt="Chest Freezers"
-                  class="product-img"
-                />
-              </label>  
-            </div>
-            <h3>Chest Freezers</h3>
-          </article>
-          <!-- end of single product  -->
-          <!-- single product  -->
-          <article class="product">
-            <div class="img-container">
-              <label>
-                <input  class="radio"  type="radio" name="fridge_type" value="mini_fridges">
-                <img
-                  src="{{url_for('static',filename='images/refrigerators/mini-fridge.jpg')}}"
-                  alt="Mini Fridges"
-                  class="product-img"
-                />
-              </label>  
-            </div>
-            <h3>Mini Fridges</h3>
+            <h3>Radiant Cooktop 36 in</h3>
           </article>
           <!-- end of single product  -->
         </div>
       </section>
       <!-- end of products  -->
-      <!-- colors  -->
-      <section class="colors" id="products">
-        <div class="section-title">
-          <h2>Refrigerator Finishes</h2>
-        </div>
-        <div class="products-center2">
-          <!-- single product  -->
-          <article class="product">
-            <div class="img-container">
-              <label>
-                <input  class="radio"  type="radio" name="Color_Type" value="stainless_steel" required>
-                <img
-                  src="{{url_for('static',filename='images/stainless_steel.jpg')}}"
-                  class="product-img2"
-                />
-              </label>  
-            </div>
-            <h3>Stainless Steel</h3>
-          </article>
-          <!-- end of single product  -->
-          <!-- single product  -->
-          <article class="product">
-            <div class="img-container">
-              <label>
-                <input  class="radio"  type="radio" name="Color_Type" value="black">
-                <img
-                  src="{{url_for('static',filename='images/black.png')}}"
-                  class="product-img2"
-                />
-              </label>  
-            </div>
-            <h3>Black</h3>
-          </article>
-          <!-- end of single product  -->
-          <!-- single product  -->
-          <article class="product">
-            <div class="img-container">
-              <label>
-                <input  class="radio"  type="radio" name="Color_Type" value="white" required>
-                <img
-                  src="{{url_for('static',filename='images/white.png')}}"
-                  class="product-img2"
-                />
-              </label>  
-            </div>
-            <h3>White</h3>
-          </article>
-          <!-- end of single product  -->
-        </div>
-      </section>
-      <!-- end colors  -->
       <!-- size  -->
       <!-- end size  -->
       <!-- zip code  -->

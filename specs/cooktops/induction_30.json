@@ -31,13 +31,7 @@
         "ImageUrl": "https://images.homedepot-static.com/productImages/639ae564-e78d-4a76-9c10-6074cfea122e/svn/fingerprint-resistant-black-stainless-steel-ge-induction-cooktops-php9030bmts-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/GE-Profile-30-in-Induction-Electric-Cooktop-in-Black-Stainless-Steel-with-4-Elements-and-Exact-Fit-PHP9030BMTS/305965064",
         "Description": "GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical. Color: Fingerprint Resistant Black Stainless Steel.",
-        "depth": "19.63",
-        "height": "4.63",
-        "width": "28.5",
-        "ratingValue": "4.6161",
-        "reviewCount": "547",
-        "price": 1698,
-        "priceValidUntil": "07/14/2021"
+        "Discontinued": true
     },
     "312583055": {
         "product_id": 312583055,
@@ -46,11 +40,11 @@
         "ApplType": "COOKING",
         "Type1": "COOKTOPS ELECTRIC",
         "Type2": "OTHER",
-        "Title": "ZLINE Kitchen and Bath ZLINE 30 in. Induction Cooktop with 4 burners (RCIND-30), Stainless Steel Body with Glass Cooktop",
+        "Title": "ZLINE Kitchen and Bath ZLINE 30 in. Induction Cooktop with 4 Burners in Black",
         "Brand": "ZLINE Kitchen and Bath",
         "ImageUrl": "https://images.homedepot-static.com/productImages/e1811b63-85d5-403a-bad6-8e049a8aa8b7/svn/stainless-steel-body-with-glass-cooktop-zline-kitchen-and-bath-induction-cooktops-rcind-30-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/ZLINE-Kitchen-and-Bath-ZLINE-30-in-Induction-Cooktop-with-4-burners-RCIND-30-RCIND-30/312583055",
-        "Description": "Innovation meets luxury: ZLINE's RCIND Induction Cooktop Series blends consistent precision and speed with its innovative technology and sleek, glass surface. Achieve incredibly fast heat and a quick boil with induction technology that heats 50% faster than comparable cooktops. ZLINE induction cooktops utilize superior electromagnetic technology to efficiently heat up magnetic stainless or cast iron cookware, while saving more energy compared to gas or electric cooking. The LED lit touch display and glossy, glass surface both come together to create an effortless clean while maintaining a contemporary, high-end aesthetic. Enhance your kitchen experience with versatile cooking features including Power Boost and Power Sharing, which maximize power and heat with the touch of a button. Ensure your meals stay ready to serve with the Keep Warm Mode, designed to add convenience to your cooking. Experience peace of mind with carefully curated and tested safety features, including manual or automatic locking technology and a residual heat sensor. Professional cooking elements paired with modern technology provide top-notch, controlled performance that is unsurpassed in the industry. Prepare with complete confidence and control with ZLINE products. All products ship next business day when in stock. Color: Stainless Steel Body with Glass Cooktop.",
+        "Description": "Innovation meets luxury: ZLINE's RCIND Induction Cooktop Series blends consistent precision and speed with its innovative technology and sleek, glass surface. Achieve incredibly fast heat and a quick boil with induction technology that heats 50% faster than comparable cooktops. ZLINE induction cooktops utilize superior electromagnetic technology to efficiently heat up magnetic stainless or cast iron cookware, while saving more energy compared to gas or electric cooking. The LED lit touch display and glossy, glass surface both come together to create an effortless clean while maintaining a contemporary, high-end aesthetic. Enhance your kitchen experience with versatile cooking features including Power Boost and Power Sharing, which maximize power and heat with the touch of a button. Ensure your meals stay ready to serve with the Keep Warm Mode, designed to add convenience to your cooking. Experience peace of mind with carefully curated and tested safety features, including manual or automatic locking technology and a residual heat sensor. Professional cooking elements paired with modern technology provide top-notch, controlled performance that is unsurpassed in the industry. Prepare with complete confidence and control with ZLINE products. All products ship next business day when in stock. Color: Black.",
         "depth": "20",
         "height": "4.5",
         "width": "30",
@@ -197,7 +191,7 @@
         "ratingValue": "4.4706",
         "reviewCount": "17",
         "price": 2099,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "309191242": {
         "product_id": 309191242,

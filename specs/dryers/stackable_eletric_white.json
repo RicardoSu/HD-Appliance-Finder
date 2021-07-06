@@ -94,8 +94,8 @@
         "depth": "54.5",
         "height": "22.5",
         "width": "22.5",
-        "ratingValue": "4.6756",
-        "reviewCount": "857",
+        "ratingValue": "4.6728",
+        "reviewCount": "1354",
         "price": 1034,
         "priceValidUntil": "07/14/2021"
     },
@@ -114,8 +114,8 @@
         "depth": "56.5",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.3794",
-        "reviewCount": "1057",
+        "ratingValue": "4.3762",
+        "reviewCount": "1058",
         "price": 854,
         "priceValidUntil": "07/14/2021"
     },
@@ -174,8 +174,8 @@
         "depth": "51",
         "height": "16.06",
         "width": "16.06",
-        "ratingValue": "4.5408",
-        "reviewCount": "294",
+        "ratingValue": "4.5424",
+        "reviewCount": "295",
         "price": 944,
         "priceValidUntil": "07/14/2021"
     },
@@ -214,8 +214,8 @@
         "depth": "54.5",
         "height": "22.5",
         "width": "22.5",
-        "ratingValue": "4.4943",
-        "reviewCount": "437",
+        "ratingValue": "4.6928",
+        "reviewCount": "1872",
         "price": 1034,
         "priceValidUntil": "07/14/2021"
     },
@@ -234,8 +234,8 @@
         "depth": "50.6",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.6561",
-        "reviewCount": "2527",
+        "ratingValue": "4.6548",
+        "reviewCount": "2529",
         "price": 1079,
         "priceValidUntil": "07/14/2021"
     },
@@ -274,8 +274,8 @@
         "depth": "32.94",
         "height": "0",
         "width": "0",
-        "ratingValue": "4.5452",
-        "reviewCount": "774",
+        "ratingValue": "4.5419",
+        "reviewCount": "775",
         "price": 944,
         "priceValidUntil": "07/14/2021"
     },
@@ -457,7 +457,7 @@
         "ratingValue": "4.0417",
         "reviewCount": "144",
         "price": 1299,
-        "priceValidUntil": "7/3/2021"
+        "priceValidUntil": "7/4/2021"
     },
     "311996361": {
         "product_id": 311996361,
@@ -539,24 +539,24 @@
         "price": 1124,
         "priceValidUntil": "07/14/2021"
     },
-    "312439652": {
-        "product_id": 312439652,
-        "modelNbr": "DLEX4200B",
+    "312439885": {
+        "product_id": 312439885,
+        "modelNbr": "DLEX4200W",
         "Category": "APPLIANCES",
         "ApplType": "LAUNDRY",
         "Type1": "STEAM DRY ELEC W/O HOSES",
         "Type2": "OTHER",
-        "Title": "LG Electronics 7.4 cu. ft. Ultra Large Capacity Black Steel Smart Electric Vented Dryer with Sensor Dry, TurboSteam & Wi-Fi Enabled",
+        "Title": "LG Electronics 7.4 cu. ft. Ultra Large Capacity White Smart Electric Vented Dryer with Sensor Dry, TurboSteam & Wi-Fi Enabled",
         "Brand": "LG Electronics",
-        "ImageUrl": "https://images.homedepot-static.com/productImages/8a43b306-a099-4c13-b077-085d5db24103/svn/black-steel-lg-electronics-electric-dryers-dlex4200b-64_1000.jpg",
-        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Ultra-Large-Capacity-Black-Steel-Smart-Electric-Vented-Dryer-with-Sensor-Dry-TurboSteam-Wi-Fi-Enabled-DLEX4200B/312439652",
-        "Description": "No longer just a companion to your washer, LG dryers deliver a new level of convenience and clothing care. When there's no time to wash, TurboSteam technology reduces wrinkles in just 10 minutes. Built-in intelligence automatically selects the right settings to eliminate the guesswork, and can even talk to your washer to pick a compatible cycle. Smart features let you start the dryer when you're on the go or send routine maintenance updates to keep your appliance in tip-top shape. All with a sleek design and scratch-resistant tempered glass door with chrome accent rim for lasting good looks. Color: Black Steel.",
+        "ImageUrl": "https://images.homedepot-static.com/productImages/681c4b00-6314-4c01-a1e6-95a3d9acbced/svn/white-lg-electronics-electric-dryers-dlex4200w-64_1000.jpg",
+        "ProductPageUrl": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Ultra-Large-Capacity-White-Smart-Electric-Vented-Dryer-with-Sensor-Dry-TurboSteam-Wi-Fi-Enabled-DLEX4200W/312439885",
+        "Description": "No longer just a companion to your washer, LG dryers deliver a new level of convenience and clothing care. When there's no time to wash, TurboSteam technology reduces wrinkles in just 10 minutes. Built-in intelligence automatically selects the right settings to eliminate the guesswork, and can even talk to your washer to pick a compatible cycle. Smart features let you start the dryer when you're on the go or send routine maintenance updates to keep your appliance in tip-top shape. All with a sleek design and scratch-resistant tempered glass door with chrome accent rim for lasting good looks. Color: White.",
         "depth": "51.38",
         "height": "16.06",
         "width": "16.06",
         "ratingValue": "4.6442",
         "reviewCount": "208",
-        "price": 1214,
+        "price": 1124,
         "priceValidUntil": "07/14/2021"
     },
     "307760461": {
@@ -714,8 +714,8 @@
         "depth": "51.38",
         "height": "16.93",
         "width": "16.93",
-        "ratingValue": "4.6705",
-        "reviewCount": "346",
+        "ratingValue": "4.6734",
+        "reviewCount": "349",
         "price": 898,
         "priceValidUntil": "07/14/2021"
     },
@@ -834,8 +834,8 @@
         "depth": "54.5",
         "height": "22.5",
         "width": "22.5",
-        "ratingValue": "4.7017",
-        "reviewCount": "1911",
+        "ratingValue": "4.702",
+        "reviewCount": "1913",
         "price": 854,
         "priceValidUntil": "07/14/2021"
     },
@@ -894,8 +894,8 @@
         "depth": "51",
         "height": "38.69",
         "width": "27",
-        "ratingValue": "4.5413",
-        "reviewCount": "1077",
+        "ratingValue": "4.5403",
+        "reviewCount": "1079",
         "price": 764,
         "priceValidUntil": "07/14/2021"
     },

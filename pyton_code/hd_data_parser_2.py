@@ -15,7 +15,9 @@ This code uses the data stored data from Home depot SKU Parser
 and creates JSON files with the products specifications, and
 stores in organized json files
 
+This usually bans you from home depot
 4418.8 seconds
+4183.2 seconds
 """
 
 
@@ -28,12 +30,11 @@ def json_reader(folder_name, json_file):
 
 
 def availability_checker(folder_name, json_file):
-
     dict_data = json_reader(folder_name, json_file)
     functional_dict = dict()
 
     list_to_iterate = list(dict_data.values())[0]
-
+    print(list_to_iterate)
     for my_product_id in list_to_iterate:
 
         my_product_id = int(my_product_id)
@@ -48,17 +49,18 @@ def availability_checker(folder_name, json_file):
         if "Products" in json_response_descr["Includes"]:
             # New id is created since the website can have
             # a diferent key inside the website data
-
+            print(f"my_product_id = {my_product_id}")
+            old_id = my_product_id
             new_id = list(
                 json_response_descr["Includes"]["Products"].keys())[0]
-
+            print(f"New_Id = {my_product_id}")
             if my_product_id != new_id:
                 my_product_id = int(new_id)
 
             print(f"Key:{my_product_id}")
 
             functional_dict[my_product_id] = {}
-            functional_dict[my_product_id]["product_id"] = my_product_id
+            functional_dict[my_product_id]["product_id"] = old_id
             try:
                 functional_dict[my_product_id]["modelNbr"] = json_response_descr[
                     "Includes"]["Products"][f"{my_product_id}"]["ModelNumbers"][0]
@@ -180,7 +182,6 @@ def description_parser(my_dict, my_product_id):
             print(json_response_descr["Includes"]["Products"])
             print(f"my_dict:{my_dict}")
 
-
 @cache
 def folder_creator(data):
     try:
@@ -206,24 +207,5 @@ def files_subdirectory_finder():
             file_name = (os.path.join(file.replace(".json", "")))
             availability_checker(folder_name, file_name)
 
-
 files_subdirectory_finder()
 
-
-# Stores as a CVS FILE
-# def csv_file(dict):
-
-#     csv_columns = ['product_id', "Category", "Brand", "Type1", "Type2", 'modelNbr', "ApplType", 'reviewCount', 'height',  'depth', 'width', 'ratingValue', 'priceValidUntil', 'price',
-#                     "earliestAvailabilityDate",  "Discontinued", "Title", "ImageUrl", "ProductPageUrl", "Description"]
-
-#     csv_file = "appliances_status.csv"
-#     try:
-#         with open(csv_file, 'w') as csvfile:
-#             # lineterminator removes extra space on each line on csv
-#             writer = csv.DictWriter(
-#                 csvfile, fieldnames=csv_columns, lineterminator='\n')
-#             writer.writeheader()
-#             for data in dict.values():
-#                 writer.writerow(data)
-#     except IOError:
-#         print("I/O error")

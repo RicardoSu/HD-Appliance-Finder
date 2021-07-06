@@ -74,8 +74,8 @@
         "depth": "26.2",
         "height": "59.5",
         "width": "23.6",
-        "ratingValue": "4.3882",
-        "reviewCount": "3758",
+        "ratingValue": "4.3876",
+        "reviewCount": "3759",
         "price": 449,
         "priceValidUntil": "7/4/2021"
     },
@@ -171,7 +171,13 @@
         "ImageUrl": "https://images.homedepot-static.com/productImages/87794b26-a4e9-4888-aa15-f6e3046907aa/svn/white-ge-top-freezer-refrigerators-gpe12fgkww-64_1000.jpg",
         "ProductPageUrl": "https://www.homedepot.com/p/GE-11-6-cu-ft-Top-Freezer-Refrigerator-in-White-ENERGY-STAR-GPE12FGKWW/206863718",
         "Description": "Your GE 11.6 cu. ft. Refrigerator in White has adjustable glass shelves in the fresh food section. With a color matched Recessed handle, and reversible door swing, it gives you the look you want. An optional ice kit (IM4D sold separately) will provide additional ice. GE appliances provide up-to-date technology and exceptional quality to simplify the way you live. With a timeless appearance, this family of appliances is ideal for your family. And, coming from one of the most trusted names in America, you know that this entire selection of appliances is as advanced as it is practical.",
-        "Discontinued": true
+        "depth": "28.625",
+        "height": "59.875",
+        "width": "24",
+        "ratingValue": "4.2639",
+        "reviewCount": "144",
+        "price": 979,
+        "priceValidUntil": "7/4/2021"
     },
     "302071896": {
         "product_id": 302071896,
@@ -188,8 +194,8 @@
         "depth": "25",
         "height": "59.5",
         "width": "23.63",
-        "ratingValue": "4.5206",
-        "reviewCount": "1118",
+        "ratingValue": "4.5045",
+        "reviewCount": "884",
         "price": 568,
         "priceValidUntil": "07/14/2021"
     },
@@ -208,8 +214,8 @@
         "depth": "24.75",
         "height": "59.5",
         "width": "23.74",
-        "ratingValue": "4.3723",
-        "reviewCount": "650",
+        "ratingValue": "4.3687",
+        "reviewCount": "651",
         "price": 498.99,
         "priceValidUntil": "7/4/2021"
     }
