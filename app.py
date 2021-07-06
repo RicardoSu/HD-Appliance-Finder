@@ -316,6 +316,7 @@ def washer():
     else:
         return render_template('washing_machine.html')
 
+
 @app.route('/appliances/dryer', methods=['GET', 'POST'])
 def dryer():
     if request.method == 'POST':
@@ -352,4 +353,5 @@ def dryer():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
+    # app.run(debug=True)
