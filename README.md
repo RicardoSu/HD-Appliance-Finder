@@ -1,26 +1,27 @@
 # HD Appliance Finder
 
-
 <!-- PROJECT LOGO -->
+<br />
 <p align="center">
-    <img src="static/images/mini_logo.png" alt="Logo">
-  </a>
+  <img src="static/images/mini_logo.png" alt="Title">
 
-  <h3 align="center">Appliance Finder</h3>
+  <h3 align="center">HD Appliance Finder</h3>
 
   <p align="center">
         Appliance Finder, helps you save precious time checking availability for appliances delivery.
         You only need to select the appliance that you are interested and zip code and we compile a list of available appliances.
-	
-<img src="images/demo.gif alt="DEMO">
-	
-<br>
-<a href="https://github.com/RicardoSu/HD-Appliance-Finderstatic/images/demo.gif">View Demo</a>
-·
-<a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Report Bug</a>
-·
-<a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Request Feature</a>
 
+   <br />
+   <br />
+  <a href="https://github.com/RicardoSu/HD-Appliance-Finderstatic/images/demo.gif">View Demo</a>
+  ·
+  <a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Request Feature</a>
+  </p>
+</p>
+
+<img src="images/demo.gif alt="DEMO">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
