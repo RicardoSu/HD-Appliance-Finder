@@ -171,7 +171,7 @@ and creates JSON files with the products specifications gathered from a
 hidden home depot API used for custumer reviews, and
 stores in organized json files.
 
-https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{#INTERNET-NUMBER}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d
+https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{#ITEM-NUMBER}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d
 
 This usually bans you from home depot
 
@@ -185,7 +185,13 @@ are availabe or backordered, out of stock products are not diplayed
 
 Code is run during flask application
 
+
+
+<img src="images/demo.gif alt="DEMO">
+
 <!-- ROADMAP -->
+
+
 ## Roadmap
 
 See the [open issues](https://github.com/RicardoSu/HD-Appliance-Finder/issues) for a list of proposed features (and known issues).
