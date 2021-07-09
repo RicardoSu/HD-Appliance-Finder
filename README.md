@@ -1,4 +1,4 @@
-# hd_scraper
+# HD Appliance Finder
 
 start env
 .\env\Scripts\activate
@@ -35,9 +35,9 @@ python app.py
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Request Feature</a>
   </p>
 </p>
 
