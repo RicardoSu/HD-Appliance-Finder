@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="static/images/logo.png" alt="DEMO">
+<img src="https://github.com/RicardoSu/HD-Appliance-Finder/blob/main/static/images/Logo.png" alt="DEMO">
 
 There are many different ways to find and organize data online; however, I didn't find one that suits my needs, so I decided to create this project; it was inspired by one of the significant issues that I was facing finding available products and saving time for myself and my customers.
 
