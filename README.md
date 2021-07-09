@@ -12,17 +12,14 @@
         Appliance Finder, helps you save precious time checking availability for appliances delivery.
         You only need to select the appliance that you are interested and zip code and we compile a list of available appliances.
 	
-	<img src="images/demo.gif alt="DEMO">
+<img src="images/demo.gif alt="DEMO">
 	
-    <br>
-    <a href="https://github.com/RicardoSu/HD-Appliance-Finderstatic/images/demo.gif">View Demo</a>
-    ·
-    <a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Request Feature</a>
-  </p>
-</p>
-
+<br>
+<a href="https://github.com/RicardoSu/HD-Appliance-Finderstatic/images/demo.gif">View Demo</a>
+·
+<a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Report Bug</a>
+·
+<a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Request Feature</a>
 
 
 <!-- TABLE OF CONTENTS -->
