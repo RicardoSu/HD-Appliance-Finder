@@ -11,13 +11,13 @@
         <a href="{{b['ProductPageUrl']}}">
           <img src="{{b['ImageUrl']}}" class="product-img" />
         </a>
-        <h5 class="h3-text">HD Number: {{a}}</h5>
+        <h5 class="h3-text">HD Number: {{b["product_id"]}}</h5>
         <h5 class="h4-text">Earliest delivery date:</h5>
         <h5 class="h4-text">{{b["earliestAvailabilityDate"]}}</h5>
         <h5 class="h3-text">MODEL: {{b["modelNbr"]}}</h5>
         <h5 class="h3-text">Width: {{b["width"]}}</h5>
-        <h5 class="h3-text">Height: {{b["height"]}}</h5>
-        <h5 class="h3-text">Depth: {{b["depth"]}}</h5>
+        <h5 class="h3-text">Height: {{b["depth"]}}</h5>
+        <h5 class="h3-text">Depth: {{b["height"]}}</h5>
         <h5 class="h4-text">${{b["price"]}}</h5>
       </div>
     </article>
