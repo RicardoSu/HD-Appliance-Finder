@@ -21,13 +21,14 @@ python app.py
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="static/images/mini_logo.png" alt="Logo" width="80" height="80">
+    <img src="static/images/mini_logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Appliance Finder</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+        Appliance Finder, helps you save precious time checking availability for appliances delivery.
+        You only need to select the appliance that you are interested and zip code and we compile a list of available appliances.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
