@@ -1,13 +1,5 @@
 # HD Appliance Finder
 
-start env
-.\env\Scripts\activate
-
-setup environment variables for `flask run` on Windows
-set FLASK_APP=app.py
-$env:FLASK_APP = "app.py"
-python app.py
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -74,9 +66,9 @@ python app.py
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]<img src="static/images/mini_logo.png" alt="Logo">
+[![Product Name Screen Shot][product-screenshot]]
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many different ways to find and organize data online; however, I didn't find one that suits my needs, so I decided to create this project; it was inspired by one of the significant issues that I was facing finding available products fast saving time for myself and my customers.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -89,10 +81,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Python 3.9](https://www.python.org/downloads/release/python-390/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [Python Libraries (beautifulsoup4,async,Jinja2)](https://github.com/RicardoSu/HD-Appliance-Finder/blob/main/requirements.txt)
 
 
 
@@ -105,28 +96,38 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Python 3.9
+* PIP
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Please make sure on windows run a cmd as administrator
 
-
+1. Clone the repo
+   ```sh
+   git clone https://github.com/RicardoSu/HD-Appliance-Finder.git
+   cd HD-Appliance-Finder
+   ```
+3. Install virtualenv and create a env
+   ```sh
+   pip install virtualenv
+   virtualenv env
+   .\env\Scripts\activate
+   ```
+4. Pip install requirements.txt in the env
+   ```sh
+   pip install -r requirements.txt
+   ```
+5. Run the webserver
+   ```sh
+   .\env\Scripts\activate
+   python app.py
+   ```
+6. To run in debug mode change file app.py
+```python
+if __name__ == '__main__':
+    app.run(debug=True)
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -205,4 +206,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: static/images/mini_logo.png
