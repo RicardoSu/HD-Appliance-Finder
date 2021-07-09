@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="images/mini_logo.png" alt="Title">
+  <img src="https://github.com/RicardoSu/HD-Appliance-Finder/blob/main/static/images/mini_logo.png" alt="Title">
 
   <h3 align="center">HD Appliance Finder</h3>
 
