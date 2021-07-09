@@ -10,6 +10,9 @@
   <p align="center">
         Appliance Finder, helps you save precious time checking availability for appliances delivery.
         You only need to select the appliance that you are interested and zip code and we compile a list of available appliances.
+   <p align="center">
+      <img src="images/demo.gif" alt="DEMO">
+   </p>
 
    <br />
    <br />
@@ -21,7 +24,7 @@
   </p>
 </p>
 
-<img src="images/demo.gif alt="DEMO">
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -52,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="static/images/logo.png alt="DEMO">
+<img src="static/images/logo.png" alt="DEMO">
 
 There are many different ways to find and organize data online; however, I didn't find one that suits my needs, so I decided to create this project; it was inspired by one of the significant issues that I was facing finding available products and saving time for myself and my customers.
 
