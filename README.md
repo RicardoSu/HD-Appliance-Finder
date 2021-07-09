@@ -132,11 +132,26 @@ if __name__ == '__main__':
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The base of this project is the usage of the python code to scrape the home depot website to
+store tha data displayed, I will summarize the python codes that can be run to update the prodcts.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+The home depot website categorize items with a N-code this means that each category have an specific N-code for example:
+
+https://www.homedepot.com/b/N-5yc1vZc3q0
 
 
+"5yc1vZc3q0" will display an array of Side By Side Refrigerators
+With this information in mind the file /pyton_code/appliances.json can be changed to gather specified items
+
+```
+JSON
+"washing_machine": {
+		"front_load_washers": "5yc1vZc3pj",
+		"top_load_washers_agitator": "5yc1vZc3ocZ1z17rwr",
+		"top_load_washers_impeller": "5yc1vZc3ocZ1z17ryq"
+        }
+
+```
 
 <!-- ROADMAP -->
 ## Roadmap
