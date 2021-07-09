@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://github.com/RicardoSu/HD-Appliance-Finder/blob/main/static/images/demo.gif" alt="Title">
+  <img src="images/mini_logo.png" alt="Title">
 
   <h3 align="center">HD Appliance Finder</h3>
 
@@ -11,7 +11,7 @@
         Appliance Finder, helps you save precious time checking availability for appliances delivery.
         You only need to select the appliance that you are interested and zip code and we compile a list of available appliances.
    <p align="center">
-      <img src="images/demo.gif" alt="DEMO">
+      <img src="https://github.com/RicardoSu/HD-Appliance-Finder/blob/main/static/images/demo.gif" alt="DEMO">
    </p>
 
    <br />
