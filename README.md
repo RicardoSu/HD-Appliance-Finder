@@ -133,18 +133,19 @@ if __name__ == '__main__':
 ## Usage
 
 The base of this project is the usage of the python code to scrape the home depot website to
-store tha data displayed, I will summarize the python codes that can be run to update the prodcts.
+store tha data and diplay an organized list with only available items. First we need to understand how
+the home depot website is organized.
 
 The home depot website categorize items with a N-code this means that each category have an specific N-code for example:
 
 https://www.homedepot.com/b/N-5yc1vZc3q0
 
+<img src="static/images/N-code.png" alt="Logo">
 
 "5yc1vZc3q0" will display an array of Side By Side Refrigerators
 With this information in mind the file /pyton_code/appliances.json can be changed to gather specified items
 
-```
-JSON
+```json
 "washing_machine": {
 		"front_load_washers": "5yc1vZc3pj",
 		"top_load_washers_agitator": "5yc1vZc3ocZ1z17rwr",
@@ -153,10 +154,41 @@ JSON
 
 ```
 
+1. The first code Home depot SKU Parser or hd_sku_parser_1.py:
+
+
+This code uses the selenium web driver to scrape home depot SKUS
+SKUS or Stock keeping unit are numbers given to merchandise to
+easily track and categorize products, this code reads a JSON file
+and scrapes the home depot website with the provided N-value that Home
+Depot uses to order similar products, and return organized JSON files
+ with the new data.
+ 
+ 
+ 2. Home depot DATA Parser OR hd_data_parser_2.py:
+This code uses the data stored data from Home depot SKU Parser
+and creates JSON files with the products specifications gathered from a 
+hidden home depot API used for custumer reviews, and
+stores in organized json files.
+
+https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{#INTERNET-NUMBER}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d
+
+This usually bans you from home depot
+
+<img src="static/images/ban.png" alt="Logo">
+
+3. Home depot AVAILABILITY Parser OR hd_availability_parser_3_async.py:
+This code uses the data stored data from Home depot DATA Parser
+to ckeck if the products are available on given zip code, using an Synchronous request it
+returns a dictionary with earliestAvailabilityDate and if products
+are availabe or backordered, out of stock products are not diplayed
+
+Code is run during flask application
+
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/RicardoSu/HD-Appliance-Finder/issues) for a list of proposed features (and known issues).
 
 
 
@@ -173,52 +205,20 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ricardo Suarez - ricardolimasuarez@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [HD-Appliance-Finder](https://github.com/RicardoSu/HD-Appliance-Finder/)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: static/images/mini_logo.png
