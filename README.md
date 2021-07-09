@@ -2,7 +2,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
     <img src="static/images/mini_logo.png" alt="Logo">
   </a>
@@ -13,7 +12,9 @@
         Appliance Finder, helps you save precious time checking availability for appliances delivery.
         You only need to select the appliance that you are interested and zip code and we compile a list of available appliances.
 	
-    <br />
+	<img src="images/demo.gif alt="DEMO">
+	
+    <br>
     <a href="https://github.com/RicardoSu/HD-Appliance-Finderstatic/images/demo.gif">View Demo</a>
     ·
     <a href="https://github.com/RicardoSu/HD-Appliance-Finder/issues">Report Bug</a>
@@ -53,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+<img src="static/images/logo.png alt="DEMO">
 
 There are many different ways to find and organize data online; however, I didn't find one that suits my needs, so I decided to create this project; it was inspired by one of the significant issues that I was facing finding available products and saving time for myself and my customers.
 
@@ -165,7 +166,7 @@ Code is run during flask application
 
 
 
-<img src="images/demo.gif alt="DEMO">
+
 
 <!-- ROADMAP -->
 
@@ -196,13 +197,4 @@ Contributions are what make the open source community such an amazing place to b
 Ricardo Suarez - ricardolimasuarez@gmail.com
 
 Project Link: [HD-Appliance-Finder](https://github.com/RicardoSu/HD-Appliance-Finder/)
-
-
-
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: static/images/mini_logo.png
+				    
