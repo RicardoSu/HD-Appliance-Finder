@@ -153,8 +153,10 @@ stores in organized json files.
 https://api.bazaarvoice.com/data/reviews.json?apiversion=5.4&Filter=ProductId:{#ITEM-NUMBER}&Include=Products&Limit=1&Passkey=u2tvlik5g1afeh78i745g4s1d
 
 This usually bans you from home depot
-
 <img src="static/images/ban.png" alt="Logo">
+
+The use of a VPN is highly recommended
+<img src="static/images/ban-1.png" alt="Logo">
 
 3. Home depot AVAILABILITY Parser OR hd_availability_parser_3_async.py:
 This code uses the data stored data from Home depot DATA Parser
